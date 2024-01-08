@@ -1,0 +1,3007 @@
+Smiles,Target,Description
+CC(CCC(=O)O)C1CCC2C3C(CC(=O)C12C)C4(C)CCC(=O)CC4CC3=O,0,"CC(CCC(=O)O): This part represents a branched alkane chain with a carboxylic acid group (CCC(=O)O) attached.
+
+C1CCC2C3C(CC(=O)C12C)C4(C)CCC(=O)CC4CC3=O: This part is a condensed representation of a polycyclic structure. It indicates a series of connected carbon atoms forming rings. The numbers (1, 2, 3, 4) are used to identify different rings.
+
+C1CCC2C3C(CC(=O)C12C): This part represents a fused bicyclic structure.
+
+C4(C)CCC(=O)CC4CC3=O: This part represents another fused bicyclic structure. The ""C4(C)"" indicates a substitution on the fourth carbon atom.
+
+=O: This indicates a carbonyl group."
+CC(=O)c1ccc2c(c1)Sc3ccccc3N2CCCN4CCN(CC4)CCO,0,"在'CC(=O)c1ccc2c(c1)Sc3ccccc3N2CCCN4CCN(CC4)CCO'中，包含以下结构片段：
+
+- 'CC(=O)'：乙酰基（Acetyl）。
+- 'c1ccc2c(c1)'：苯环。
+- 'Sc3ccccc3'：硫代苯环。
+- 'N2CCCN4CCN(CC4)CC'：二乙胺（Diethylamine）。
+- 'C4'和'CCO'：乙醇基（Ethanol）。"
+CCCN(CCC)C(=O)C(CCC(=O)OCCCN1CCN(CCOC(=O)Cc2c(C)n(C(=O)c3ccc(Cl)cc3)c4ccc(OC)cc24)CC1)NC(=O)c5ccccc5,0,"'CCCN(CCC)C(=O)C(CCC(=O)OCCCN1CCN(CCOC(=O)Cc2c(C)n(C(=O)c3ccc(Cl)cc3)c4ccc(OC)cc24)CC1)NC(=O)c5ccccc5' 包含以下结构片段：
+1. 'CCCN(CCC)C(=O)'：代表一个胺基和一个酮基。
+2. 'CCC(=O)OCCCN1CCN(CCOC(=O)'：代表一个酯基和一个咪唑环。
+3. 'Cc2c(C)n(C(=O)c3ccc(Cl)cc3)c4ccc(OC)cc24'：代表一个杂环并连带有烷基和酮基。
+4. 'CC1'：代表一个环状结构。
+5. 'NC(=O)c5ccccc5'：代表一个胺基和一个酮基。"
+CC(C)CCCC(C)CCCC(C)CCCC1(C)CCc2c(C)c(O)c(C)c(C)c2O1,0,"'CC(C)CCCC(C)CCCC(C)CCCC1(C)CCc2c(C)c(O)c(C)c(C)c2O1' 包含的结构片段有：
+
+- CC 代表两个相连的碳原子
+- (C) 代表一个单独的碳原子
+- CCCC 代表四个相连的碳原子
+- (C)CCC 代表三个相连的碳原子，中间是一个单独的碳原子
+- 1(C)CCc2c(C)c(O)c(C)c(C)c2O1 代表一个环状结构，其中包含多个碳原子和一个氧原子，并且还有连着环的部分。"
+CCCN(CCC)CCc1cccc2c1CC(=O)N2,0,"'CCCN(CCC)CCc1cccc2c1CC(=O)N2' 包含以下结构片段：
+
+1. 'CCC' - 此片段表示一个丙基（propyl）基团。
+2. 'CN' - 此片段表示一个胺基（amino）基团。
+3. '(CCC)' - 此片段表示一个环丙基（cyclopropyl）基团。
+4. 'Cc1cccc2c1CC(=O)N2' - 此片段表示一个苯并环[4.3.0]庚烷（benzo[f]cycloheptane）结构，其中包括一个酮基（ketone）和一个酰胺基团（amid）。"
+CC(C(=O)c1cccc(c1)Cl)NC(C)(C)C,0,"'CC(C(=O)c1cccc(c1)Cl)NC(C)(C)C'包含以下结构片段：
+
+1. 'CC'表示两个碳原子通过单键连接；
+2. 'C(=O)'表示一个酰基碳原子，与氧原子通过双键连接；
+3. 'c1cccc(c1)'表示一个芳香环，其中有6个碳原子和6个氢原子；
+4. 'Cl'表示一个氯原子；
+5. 'NC'表示一个氨基碳原子，与氮原子通过单键连接；
+6. '(C)'表示一个甲基碳原子，没有其他连接；
+7. '(C)(C)'表示两个甲基碳原子，没有其他连接。"
+CC(=O)N(c1onc(C)c1C)S(=O)(=O)c2ccc(N)cc2,0,"该分子包含以下结构片段：
+
+1. CC(=O)N-酰胺基团
+2. (c1onc(C)c1C)-五元环
+3. S(=O)(=O)-磺酰基团
+4. c2ccc(N)-芳香胺基团
+
+请注意，这只是该分子的一种表示方法，可以根据需要选择其他表示方法。"
+CC1=C(N2C(SC1)C(NC(=O)C(N)c3ccccc3)C2=O)C(=O)O,0,"CC1=C(N2C(SC1)C(NC(=O)C(N)c3ccccc3)C2=O)C(=O)O 包含以下结构片段：
+
+1. CC1=C：取代苯环
+2. (NC(=O)C(N)c3ccccc3)：苯环上带有氨基和羧基的取代基
+3. N2C(SC1)：噻唑环上有连接到苯环的氮原子和硫原子
+4. C2=O：酮基
+5. C(=O)O：酯基"
+CC(=O)CC(C1=CC=CC=C1)C1=C(O)C2=C(OC1=O)C=CC=C2,0,"该分子包含以下结构片段：
+
+1. CC(=O)CC：酮基和醋酸基的结构片段；
+2. C1=CC=CC=C1：苯环结构片段；
+3. C1=C(O)C2=C(OC1=O)C=CC=C2：呋喃环和苯环的结构片段；
+4. OC1=O：环状酮基的结构片段。"
+CC(C)c1c(C(=O)Nc2ccccc2)c(c3ccccc3)c(c4ccc(F)cc4)n1CCC(O)CC(O)CC(=O)O,0,"'CC(C)c1c(C(=O)Nc2ccccc2)c(c3ccccc3)c(c4ccc(F)cc4)n1CCC(O)CC(O)CC(=O)O' 包含以下结构片段：
+
+1. 'CC(C)'：代表一个烷基侧链。
+2. 'C(=O)Nc2ccccc2'：代表一个酰胺基团，其中酰基上连接一个苯环。
+3. 'c3ccccc3'：代表一个苯环。
+4. 'c4ccc(F)cc4'：代表一个苯环，其中一个氢原子被氟原子替换。
+5. 'n1'：代表一个氮原子。
+6. 'CCC(O)CC(O)CC(=O)O'：代表一个含有羟基和羰基的碳链。
+
+注意：以上解释的是结构片段的基本含义，具体化学性质和反应可能需要更多的背景知识。"
+CNC1CCC(c2c1cccc2)c3ccc(c(c3)Cl)Cl,0,"'CNC1CCC(c2c1cccc2)c3ccc(c(c3)Cl)Cl'包含以下结构片段：
+
+- CNC1CCC：这个片段是一个环状结构，其中的碳原子C与相邻的氮原子N和环上的碳原子形成化学键。
+
+- c2c1cccc2：这个片段是一个苯环，其中的碳原子形成环上的化学键。
+
+- c3ccc：这个片段也是一个苯环，其中的碳原子形成环上的化学键。
+
+- (c3)Cl：这个片段是一个氯原子Cl与一个碳原子形成化学键，并且共享电子对共享给周围的其他原子。
+
+- Cl：这个片段是一个孤立的氯原子。
+
+- CCC(c2c1cccc2)：这个片段由连续的三个碳原子C和一个苯环组成，其中的碳原子形成化学键。
+
+综上所述，'CNC1CCC(c2c1cccc2)c3ccc(c(c3)Cl)Cl'包含苯环、孤立氯原子和由碳原子和氮原子组成的化学键。"
+C(C(Cl)(Cl)Cl)(O)O,0,"'C(C(Cl)(Cl)Cl)(O)O'包含以下结构片段:
+- 一个碳原子'C'
+- 一个氧原子'O'
+- 三个氯原子'Cl'
+- 一个甲基基团'C(Cl)(Cl)Cl'，它有一个碳原子和三个氯原子
+- 一个羟基团'O'，它有一个氧原子"
+CC(=O)C1(O)CCC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC12C,0,"CC(=O)C1(O)CCC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC12C 包含以下结构片段：
+
+1. CC(=O): 酮基
+2. C1(O): 一个羟基
+3. CCC2: 一个碳链
+4. C3: 一个碳
+5. C=C(C): 一个烯丙基
+6. C4=CC(=O)CCC4: 一个环状碳骨架，其中包含一个酮基和一个链状碳骨架
+7. (C)C3: 一个甲基和一个碳
+8. CCC12C: 一个链状碳骨架
+9. 包含两个环状碳骨架的化合物
+
+这些结构片段是根据化学式和碳骨架的特征来确定的。"
+CC(C)N1CCC(CC1)N(C(=O)CC1=CC=CC=C1)C1=CC=C(Cl)C=C1,0,"'CC(C)N1CCC(CC1)N(C(=O)CC1=CC=CC=C1)C1=CC=C(Cl)C=C1'包含以下结构片段：
+
+1. 乙基基团：表示为'CC'
+2. 环丙胺基团：表示为'N1CCC(CC1)'
+3. 酰胺基团：表示为'N(C(=O)CC1=CC=CC=C1)'
+4. 苯环：表示为'CC1=CC=CC=C1'
+5. 氯代苯环：表示为'Cl'
+6. 双苯环并嵌套：表示为'C1=CC=C(Cl)C=C1'"
+CC(C)NCC(O)COc1cccc2cc(oc12)C(=O)C,0,"根据给定化合物的结构，以下是它包含的一些结构片段：
+
+1. CC(C)NCC(O): 这是一个Alkylamine基团。
+2. COc1cccc2cc(oc12): 这是一个芳香环，其中包含具有甲氧基和羟基的苯环。
+3. C(=O)C: 这是一个酮基团。
+4. c1cccc2cc(oc12): 这是一个芳香环，其中包含具有甲氧基的苯环。
+
+注意：以上仅列出了化合物中的一些显著结构片段，并没有包括涉及的所有结构片段。"
+OC(COc1cccc2OC(=CC(=O)c12)C(=O)O)COc3cccc4OC(=CC(=O)c34)C(=O)O,0,"'OC(COc1cccc2OC(=CC(=O)c12)C(=O)O)COc3cccc4OC(=CC(=O)c34)C(=O)O'包含以下结构片段：
+
+1. 'COc1cccc2OC(=CC(=O)c12)C(=O)O' - 这是一个苯基环并傅立叶变换红外光谱 (FTIR) 的醚类化合物。
+
+2. 'COc3cccc4OC(=CC(=O)c34)C(=O)O' - 这也是一个苯基环并傅立叶变换红外光谱 (FTIR) 的醚类化合物。
+
+总结：这个化合物中包含两个苯基环并傅立叶变换红外光谱 (FTIR) 的醚类化合物。"
+[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)C(C(O)=O)C1=CC=CC=C1)C(O)=O,0,"'[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)C(C(O)=O)C1=CC=CC=C1)C(O)=O' 包含以下结构片段：
+
+1. [H][C@]12 - 单个氢原子与两个碳原子之间的结构片段。
+2. SC(C)(C) - 三个原子（硫、碳和碳）之间的结构片段。
+3. [C@@H](N1C(=O)[C@H]2NC(=O)C(C(O)=O)C1=CC=CC=C1) - 包含多个原子的结构片段，包括氮、碳、氧和氢。
+4. C(O)=O - 两个氧原子与一个碳原子之间的结构片段。
+
+请注意，以上只是该化学式中的一些结构片段，可能还有其他的片段。"
+CN1C(CCl)Nc2cc(Cl)c(cc2S1(=O)=O)S(=O)(=O)N,0,"'CN1C(CCl)Nc2cc(Cl)c(cc2S1(=O)=O)S(=O)(=O)N'包含以下结构片段：
+
+1. 'CN1': 这是一个氮原子连接一个碳原子的部分。
+2. 'C(CCl)': 这是一个碳原子连接一个氯原子的部分。
+3. 'Nc2cc(Cl)c(cc2S1)': 这是一个氮原子连接一个苯环、一个氯原子和一个硫原子的部分。
+4. '(=O)=O': 这是两个相连的氧原子，表示一个酰基（carbonyl group）。
+5. 'S(=O)(=O)N': 这是一个硫原子连接两个氧原子和一个氮原子的部分。
+
+这些结构片段构成了整个分子的化学结构。"
+OC(=O)CC1=CC(Cl)=C(OCC=C)C=C1,0,"该结构可以被划分为以下结构片段：
+
+1. OC(=O)C - 酰氯功能基团 
+2. C1=CC(Cl) - 第一环上的氯代芳香环 
+3. =(OCC=C) - 醇醚功能基团 
+4. C=C1 - 第一环上的双键"
+CCCC(C)C1(CC)C(=O)NC(=S)NC1=O,0,"该结构包含以下结构片段：
+
+1. CCCC：这是一个4个碳原子的饱和烷基链。
+2. (C)：表示连接在第一个碳原子上的一个甲基基团。
+3. C1(CC)：表示连接在第一个碳原子上的一个环状碳基链，在环上连接有两个碳原子。
+4. C(=O)：表示连接在一个碳原子上的一个羰基（碳酰）基团。
+5. NC(=S)：表示连接在一个碳原子上的一个氮原子和一个硫原子，形成亚胺硫代基团。
+6. NC1=O：表示连接在一个碳原子上的一个氮原子，同时形成了一个与第一个碳原子相连的酮（羰基）基团。
+
+总结起来，该结构包含一个饱和烷基链、一个甲基基团、一个环状碳基链、一个羰基基团、一个亚胺硫代基团和一个酮（羰基）基团。"
+OC(=O)C1=CC(=CC=C1O)\N=N\C1=CC=C(C=C1)S(=O)(=O)NC1=NC=CC=C1,0,"'OC(=O)C1=CC(=CC=C1O)\N=N\C1=CC=C(C=C1)S(=O)(=O)NC1=NC=CC=C1'包含以下结构片段：
+
+1. OC(=O)C - 乙酰基（Acyl）基团
+2. C1=CC(=CC=C1O) - 苯环
+3. \N=N\ - 独自的含氮双键
+4. C1=CC=C(C=C1) - 苯环
+5. S(=O)(=O) - 硫酰（Sulfonyl）基团
+6. NC1=NC=CC=C1 - 嘧啶环"
+CN1CCC2=C(C1)C(c3c2cccc3)c4ccccc4,0,"'CN1CCC2=C(C1)C(c3c2cccc3)c4ccccc4' 包含以下结构片段：
+
+1. 'CN1CCC2=C(C1)C'：此结构片段表示一个含有2个芳香环的化合物，中间的1个芳香环上有一个含氮杂环（N1C）连接，连接着2个碳原子构成的链（C2=C(C1)C）。
+
+2. '(c3c2cccc3)'：此结构片段表示一个含有5个碳原子构成的芳香环（c2cccc3），其中第2个和第3个碳原子之间形成一个环（c3）。
+
+3. 'c4ccccc4'：此结构片段表示一个含有6个碳原子构成的芳香环（c4ccccc4）。
+
+综上所述，'CN1CCC2=C(C1)C(c3c2cccc3)c4ccccc4' 包含一个含有2个芳香环、一个含氮杂环的化合物以及2个含有6个碳原子构成的芳香环。"
+CN(C)CCOC(C)(C1=CC=CC=C1)C1=CC=CC=N1,0,"'CN(C)CCOC(C)(C1=CC=CC=C1)C1=CC=CC=N1'中包含以下结构片段：
+- 前导基团：CN(C)CCOC(C)
+- 苯环：C1=CC=CC=C1
+- 吡啶环：C1=CC=CC=N1"
+CCN1CCCC1CNC(=O)C1=C(OC)C=CC(=C1)S(N)(=O)=O,0,"以下是'CCN1CCCC1CNC(=O)C1=C(OC)C=CC(=C1)S(N)(=O)=O' 包含的结构片段：
+
+- CCN: 异丙基胺基（propylamino）
+- 1CCCC1: 环丙基（cyclopropyl）
+- CNC(=O): 氨基甲酰基（aminoformyl）
+- C1=C(OC)C=CC(=C1): 芳香环（aromatic ring）
+- S(N)(=O)=O: 硫醇酯基（thiol ester）"
+OCCN(CCO)c1nc(N2CCCCC2)c3nc(nc(N4CCCCC4)c3n1)N(CCO)CCO,0,"'OCCN(CCO)c1nc(N2CCCCC2)c3nc(nc(N4CCCCC4)c3n1)N(CCO)CCO'包含以下结构片段：
+- CCO：乙醇基团。
+- N(CCO)CCO：胺基乙醇基团。
+- c1nc(N2CCCCC2)c3nc(nc(N4CCCCC4)c3n1)：嘌呤环结构片段，包含两个吡咯环和两个咪唑环。
+- N2CCCCC2：间二甲基异戊胺。
+- N4CCCCC4：正丁基胺。"
+CCOC(=O)C1=C(C)NC(C)=C(C1C1=C(Cl)C(Cl)=CC=C1)C(=O)OC,0,"'CCOC(=O)C1=C(C)NC(C)=C(C1C1=C(Cl)C(Cl)=CC=C1)C(=O)OC'包含以下结构片段：
+
+1. CC - 两个碳原子通过单键连接。
+2. OC(=O)C - 一个羧酸基团连接到一个碳原子上。
+3. =O - 羰基。
+4. C1=C - 芳香环中的双键。
+5. (C)NC(C) - 一个氨基团连接到两个碳原子上。
+6. =C(C1C1=C(Cl)C(Cl)=CC=C1)C(=O) - 一个芳香环中的两个双键以及一个羰基。
+7. C(=O)OC - 一个羧酸酯基团连接到一个碳原子上。
+
+希望对你有所帮助！"
+CCCC(CCC)C(O)=O,0,"'CCCC(CCC)C(O)=O'包含以下结构片段：
+
+1. 'CCCC' - 代表一个四个碳原子的连续链。
+2. '(CCC)' - 括号中的'CCC'表示三个连续的碳原子。
+3. 'C(O)' - 表示一个碳原子和一个氧原子的连接。
+4. '=O' - 表示一个碳原子和一个双键氧原子的连接。
+
+综上所述，'CCCC(CCC)C(O)=O'包含一个四个碳原子的连续链，一个三个碳原子的连续链，一个碳原子和一个氧原子的连接，以及一个碳原子和一个双键氧原子的连接。"
+CCC(=O)OC(OP(=O)(CCCCc1ccccc1)CC(=O)N2CC(CC2C(=O)O)C3CCCCC3)C(C)C,0,"'CCC(=O)OC(OP(=O)(CCCCc1ccccc1)CC(=O)N2CC(CC2C(=O)O)C3CCCCC3)C(C)C' 包含以下结构片段：
+
+1. 'CCC(=O)' - 乙酰基（Acetyl）。
+2. 'OC(' - 酯基（Ester）。
+3. 'OP(=O)(CCCCc1ccccc1)' - 磷酸（Phosphate）。
+4. 'CC(=O)N2CC(CC2C(=O)O)' - 酰胺（Amide）。
+5. 'C3CCCCC3' - 碳串（Alkyl chain）。
+6. 'C(C)C' - 丙基（Propyl）。
+
+这些片段代表了化合物中的不同官能团和碳骨架。"
+C=C1CCC2(C3Cc4ccc(c5c4C2(C1O5)CCN3CC6CC6)O)O,0,"根据给出的分子式'C=C1CCC2(C3Cc4ccc(c5c4C2(C1O5)CCN3CC6CC6)O)O'，可以确定其中包含以下结构片段：
+
+1. 环己烷环：C1CCC2
+2. 苯环：Cc4ccc(c5c4C2(C1O5)CCN3CC6CC6)O
+3. 羟基：O
+
+请注意，这只是根据给出的分子式进行初步的结构推断，具体的结构可能需要进一步确定才能得出准确结果。"
+CC(C)NCC(O)c1cc(O)cc(O)c1,0,"'CC(C)NCC(O)c1cc(O)cc(O)c1'包含以下结构片段：
+
+1. CC(C)NCC(O)：这是一个链状结构片段，由一个辛基（CC(C)）和一个NCC(O)小分子组成。
+
+2. c1cc(O)：这是一个芳香环结构片段，由一个苯环和一个氧原子（O）组成。
+
+3. cc(O)：这是一个芳香环结构片段，由一个苯环和一个氧原子（O）组成。
+
+4. c1：这是一个芳香环结构片段，由一个苯环组成。
+
+5. cc(O)c1：这是一个连接的芳香环结构片段，由一个苯环、一个氧原子（O）和另一个苯环组成。
+
+总结起来，'CC(C)NCC(O)c1cc(O)cc(O)c1'包含一个链状结构片段、三个芳香环结构片段和一个连接的芳香环结构片段。"
+CN(C)CCOC(C1=CC=CC=C1)C1=CC=CC=C1,0,"'CN(C)CCOC(C1=CC=CC=C1)C1=CC=CC=C1'包含以下结构片段：
+
+1. CN(C)CC：一个氮原子和两个碳原子组成的胺基结构。
+2. C1=CC=CC=C1：一个苯环结构。
+3. CCOC：一个醚键连接的碳原子。
+4. (C1=CC=CC=C1)：一个苯环结构。
+5. C1=CC=CC=C1：一个苯环结构。
+
+因此，'CN(C)CCOC(C1=CC=CC=C1)C1=CC=CC=C1'包含胺基结构、苯环结构和醚键。"
+c1cc(c2c3c1CC4C5(C3(CCN4CC6CC6)C(O2)C(=O)CC5)O)O,0,"""c1cc(c2c3c1CC4C5(C3(CCN4CC6CC6)C(O2)C(=O)CC5)O)O"" 包含以下结构片段：
+
+1. c1cc：芳香环结构。
+2. c2c3c1CC：环状结构。
+3. 4C5(C3(CCN4CC6CC6)C(O2)C(=O)CC5)：具有复杂的环状结构，包含亚胺、脂肪环和羟基的取代基。
+4. O：氧原子。"
+COc1c(C)c2COC(=O)c2c(O)c1CC=C(C)CCC(=O)OCCN3CCOCC3,0,"'COc1c(C)c2COC(=O)c2c(O)c1CC=C(C)CCC(=O)OCCN3CCOCC3' 包含以下结构片段：
+
+1. COc1c(C)c2COC(=O)c2c(O)c1：这是一个呈现环状结构的苯并呋喃酮。
+
+2. CC=C(C)CCC(=O)：这是一个含有双键的饱和烷基侧链。
+
+3. =O：这是一个酰基（酮基）。
+
+4. O：这是一个羟基。
+
+5. OCCN3CCOCC3：这是一个包含乙二胺的乙氧基烷链。
+
+综上所述，'COc1c(C)c2COC(=O)c2c(O)c1CC=C(C)CCC(=O)OCCN3CCOCC3' 包含以上结构片段。"
+BrCCC(=O)N1CCN(CC1)C(=O)CCBr,0,"以下是'BrCCC(=O)N1CCN(CC1)C(=O)CCBr'中的结构片段：
+
+1. Br：溴原子
+2. CCC(=O)：一个羰基碳原子连接着三个碳原子的链状结构
+3. (=O)N：一个羰基碳原子连接着一个氮原子
+4. 1CCN(CC1)：一个环状结构，其中有一个碳原子与两个氮原子相连
+5. (CC1)：一个含有一个碳原子的环状结构
+6. C(=O)CCBr：一个羰基碳原子连接着两个碳原子，并且这个羰基碳原子与溴原子相连"
+CCN(CC)C(=O)C1(CC1CN)c2ccccc2,0,"'CCN(CC)C(=O)C1(CC1CN)c2ccccc2'包含以下结构片段：
+
+1. 'CCN(CC)C(=O)': 脂肪基（CC），氨基（N），酰基（C=O）的结构片段。
+2. 'C1(CC1CN)': 咪唑环（CC1CN）的结构片段。
+3. 'c2ccccc2': 苯环（c2ccccc2）的结构片段。"
+NCC1OC(OC2C(O)C(OC3C(O)C(N)CC(N)C3OC4OC(CO)C(O)C(O)C4N)OC2CO)C(N)C(O)C1O,0,"'NCC1OC(OC2C(O)C(OC3C(O)C(N)CC(N)C3OC4OC(CO)C(O)C(O)C4N)OC2CO)C(N)C(O)C1O' 包含以下结构片段：
+
+1. 'NCC'：氨基甲酸基团。
+2. 'C1OC'：环氧环。
+3. '(OC2C(O)C(OC3C(O)C(N)CC(N)C3OC4OC(CO)C(O)C(O)C4N)OC2CO)'：嵌套的环糖苷结构，包含许多葡萄糖和氨基酸残基。
+4. 'C(N)C(O)C'：胺基酸残基。
+5. 'C1O'：醇基团。"
+COC1=CC2=C(C=C1)C=C(C=C2)[C@H](C)C(O)=O,0,"'COC1=CC2=C(C=C1)C=C(C=C2)[C@H](C)C(O)=O'包含以下结构片段：
+1. COC：醚基
+2. 1=CC2=C(C=C1)C=C(C=C2)：芳香环，由1、2、3、4、5、6号碳原子组成的芳环
+3. [C@H](C)：立体中心，一个手性碳原子
+4. C(O)=O：酮基（C=O）和羧基（C(O)O）"
+OC(=O)c1ccccc1OC(=O)c2ccccc2O,0,"根据分子式和结构可以判断，'OC(=O)c1ccccc1OC(=O)c2ccccc2O' 包含以下结构片段：
+
+- OC(=O)：酯基，由一个羧酸基团和一个氧原子组成。
+- c1ccccc1：苯环，由六个碳原子和六个氢原子组成。
+- OC(=O)c2ccccc2：酯基和苯环的结合。
+
+因此，'OC(=O)c1ccccc1OC(=O)c2ccccc2O' 包含酯基和苯环的结构片段。"
+CC1=C(C(=O)C(=C(C1=O)OC)OC)CCCCCCCCCCO,0,"'CC1=C(C(=O)C(=C(C1=O)OC)OC)CCCCCCCCCCO' 包含以下结构片段：
+
+1. C(=O)C(=C(C1=O)OC)OC - 位于环上的酮基
+2. C1=O - 位于环上的羰基
+3. OC - 位于环上的醚基
+4. CCCCCCCCCCO - 环辛基
+5. C - 代表碳原子
+
+请注意，这只是一种可能的解释，具体结果可能有所不同，取决于分析的目的和方法。"
+CCCN1CCCCC1C(=O)Nc2c(cccc2C)C,0,"根据提供的结构，'CCCN1CCCCC1C(=O)Nc2c(cccc2C)C' 包含以下结构片段：
+
+1. 'CC'：表示两个氢原子连接到碳上，表示乙基基团。
+2. 'N1CCCCC1'：表示一个氮原子连接到一个五元环，表示哌啶环。
+3. 'C(=O)'：表示一个碳原子与一个氧原子形成双键，表示酰基。
+4. 'Nc2c(cccc2C)'：表示一个氮原子连接到一个苯环，表示芳香或底物取代基。
+
+综上所述，'CCCN1CCCCC1C(=O)Nc2c(cccc2C)C' 中的结构片段主要包括乙基基团、哌啶环、酰基和芳香或底物取代基。"
+CCCC(NC(C)C(=O)N1C2CCCCC2CC1C(=O)O)C(=O)O,0,"该结构包含以下结构片段：
+
+1. CCCC：一个4个碳原子的连续碳链。
+2. NC(C)C(=O)：一个由氮原子和两个碳原子构成的胺基甲酸酰基。
+3. N1C2CCCCC2CC1：一个由氮原子和六个碳原子构成的环状结构。
+4. C(=O)O：一个羧酸结构。"
+CN1CCC23C=CC(CC2Oc4c3c(ccc4OC)C1)O,0,"'CN1CCC23C=CC(CC2Oc4c3c(ccc4OC)C1)O'包含以下结构片段：
+1. 'C1CCC23C=CC(CC2Oc4c3c(ccc4OC)C1)O' （去除第一个氢原子后的结构）
+2. 'OC' （醇基）
+3. 'Oc4c3c(ccc4OC)' （苯环）
+4. 'CC1CCC23C=CC(CC2Oc4c3c(ccc4OC)C1)O' （链状烷基）
+5. 'C=CC' （烯烃）"
+CC(Cc1ccc(O)c(O)c1)(NN)C(=O)O,0,"CC(Cc1ccc(O)c(O)c1)(NN)C(=O)O 包含以下结构片段：
+
+1. CC - 烷基链
+2. Cc1ccc(O)c(O)c1 - 苯环上有两个羟基的苯基
+3. NN - 胺基
+4. C(=O)O - 酰基
+
+综上，这个化合物包含一个烷基链、一个苯环上有两个羟基的苯基、一个胺基和一个酰基。"
+CC1(C)C(CCC2(C)C1CCC3(C)C2C(=O)C=C4C5CC(C)(CCC5(C)CCC34C)C(=O)O)OC(=O)CCC(=O)O,0,"'CC1(C)C(CCC2(C)C1CCC3(C)C2C(=O)C=C4C5CC(C)(CCC5(C)CCC34C)C(=O)O)OC(=O)CCC(=O)O' 包含以下结构片段:
+
+1. 'CCC' - 此为正链烷烃的碳原子链。
+2. 'C(C)' - 此为一个甲基基团。
+3. '(=O)' - 此为一个酮基团。
+4. 'C=C' - 此为一个烯基双键。
+5. 'CC(C)' - 此为一个分支烷烃。
+6. '(=O)O' - 此为一个羧酸基团。
+7. 'OC(=O)' - 此为一个酯基团。
+8. 'CCC(=O)O' - 此为一个酯基团的分支。
+
+以上是一些常见的结构片段，但还可能有其他未提及的结构片段。"
+CCC1OC(=O)CC(O)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(CC=O)CC(C)C(=O)C=CC3(C)OC3C1C,0,"'CCC1OC(=O)CC(O)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(CC=O)CC(C)C(=O)C=CC3(C)OC3C1C'包含的结构片段有：
+1. CCC- 此片段表示一个碳链。
+2. O- 表示一个氧原子。
+3. C(=O)- 表示一个酰基，即一个碳原子与一个氧原子通过双键连接。
+4. CC(`-O`)- 表示一个乙氧基，即一个碳原子与一个氧原子通过单键连接。
+5. C(C)C- 表示一个异丁基，即碳原子的一个带有两个氢原子的侧链。
+6. OC2OC(C)CC(C2O)N(C)C- 表示一个含有杂环的结构，包括两个氧原子和一个氮原子。
+7. CC=O- 表示一个酮基，即一个碳原子与一个氧原子通过双键连接。
+8. CC(C)C(=O)C=CC3(C)OC3C- 表示一个立体结构，包括多个碳原子和一个含有杂环的结构。"
+COc1c(N2CCNC(C)C2)c(F)cc3C(=O)C(=CN(C4CC4)c13)C(=O)O,0,"根据提供的分子结构'COc1c(N2CCNC(C)C2)c(F)cc3C(=O)C(=CN(C4CC4)c13)C(=O)O'，我们可以识别出以下结构片段:
+
+1. CO - 乙氧基基团。
+2. c1c(N2CCNC(C)C2)c(F)cc3 - 苯环上连接有一个含氟取代基的吡啶环。
+3. C(=O) - 脂肪酰基，用于连接不同的碳骨架。
+4. CN - 乙腈基团。
+5. (C4CC4) - 四环烷基。
+6. c13 - 苯环上的两个碳原子。
+
+这些是该分子结构中的一些结构片段，可能还有其他未被列举的结构片段。"
+O=C1C(CCS(=O)c2ccccc2)C(=O)N(N1c3ccccc3)c4ccccc4,0,"'O=C1C(CCS(=O)c2ccccc2)C(=O)N(N1c3ccccc3)c4ccccc4'中包含以下结构片段：
+1. 苯环结构：c2ccccc2
+2. 融合环结构：C1C(CCS(=O)c2ccccc2)C(=O)N(N1c3ccccc3)c4ccccc4
+3. 酮基：O=C
+4. 单键连接的碳原子：CC
+5. 酰基：C(=O)
+6. 胺基：N
+7. 硫醇基：CCS(=O)
+8. 代表芳香官能团的苯环：Ph 或 R（代表苯环）
+
+注意：由于不能确定官能团的具体取代基情况，因此有些结构片段可能有多种可能的取代基。"
+Cc1cc(O)c2ccccc2c1O,0,"""Cc1cc(O)c2ccccc2c1O"" 包含以下结构片段：
+
+- 芳香环：1，2，3，4，5-五个碳原子的环状结构
+- 羟基：一个被直接连接到芳香环上的羟基（-OH）"
+CCC(C(=O)N)N1CCCC1=O,0,"根据给出的化学式，CCC(C(=O)N)N1CCCC1=O，它包含以下结构片段：
+
+1. CCC- 一个3个碳原子的侧链。
+2. (C(=O)N)- 一个酰胺结构，由一个碳原子与一个氧原子和一个氮原子连接。
+3. N1CCCC1- 一个五元环，由一个氮原子与四个碳原子连接。
+4. (=O)- 一个酮基，由一个碳原子与一个氧原子连接。
+
+因此，该化合物包含一个3个碳原子的侧链、一个酰胺结构、一个五元环和一个酮基。"
+c1cc(c(c(c1)Cl)NC2=NCCN2)Cl,0,"'c1cc(c(c(c1)Cl)NC2=NCCN2)Cl' 包含以下结构片段：
+
+1. 芳香环：'c1cc(c(c(c1)Cl)' 中的 'c1cc'
+2. 氯原子：'Cl' 中的 'Cl'
+3. 氨基甲酰基：'NC' 中的 'N'
+4. 吡咯环：'2=NCCN2' 中的 'N2'
+5. 氮原子：'2=NCCN2' 中的 'N'
+
+综上所述，'c1cc(c(c(c1)Cl)NC2=NCCN2)Cl' 包含以上五个结构片段。"
+Cc1ncc2n1c3ccc(cc3C(=NC2)c4ccccc4F)Cl,0,"'Cc1ncc2n1c3ccc(cc3C(=NC2)c4ccccc4F)Cl' 包含以下结构片段：
+
+1. Cc1ncc2n1c3ccc(cc3  - 这是一个芳香环结构，其中包含一个噻吩环、一个三嗪环和一个苯环。
+2. c3  - 这是一个苯环。
+3. C(=NC2)  - 这是一个带有氮和碳的侧链。
+4. c4ccccc4  - 这是一个苯环。
+5. F  - 这是一个氟原子。
+6. Cl  - 这是一个氯原子。"
+Nc1c(CC(=O)O)cccc1C(=O)c2ccc(Br)cc2,0,"根据提供的分子式'Nc1c(CC(=O)O)cccc1C(=O)c2ccc(Br)cc2'，可以分解为以下结构片段：
+
+1. N - 氮原子
+2. c1cccc1 - 芳香环
+3. CC(=O)O - 乙酰基
+4. =C - 双键碳
+5. C(=O) - 酰基
+6. Br - 溴原子"
+[H][C@]12C[C@@]3([H])[C@H](N(C)C)C(O)=C(C(N)=O)C(=O)[C@@]3(O)C(O)=C1C(=O)C1=C([C@H]2O)C(Cl)=CC=C1O,0,"该分子包含以下结构片段：
+- 1-环
+- 2-环
+- 氨基酸官能团
+- 羟基官能团
+- 羰基官能团
+- 氮官能团
+- 氯原子"
+CC(C)CC(CC(=O)O)CN,0,"CC(C)CC(CC(=O)O)CN 包含以下结构片段：
+
+- C：代表碳原子
+- CC：两个相连的碳原子
+- (C)：环状的碳原子
+- CC(=O)：一个碳原子与一个氧原子形成的酮基
+- CO：一个碳原子与一个氧原子形成的醇基
+- CCN：一个碳原子与一个氮原子相连的胺基
+- CC(CC(=O)O)：一个碳原子与一个酮基和两个羧基相连
+- (CC(=O)O)：环状的碳原子与一个酮基和一个羧基相连
+- CN：一个碳原子与一个氮原子相连的胺基"
+CN(C)C(=O)C(CCN1CCC(O)(CC1)c2ccc(Cl)cc2)(c3ccccc3)c4ccccc4,0,"'CN(C)C(=O)C(CCN1CCC(O)(CC1)c2ccc(Cl)cc2)(c3ccccc3)c4ccccc4' 包含以下结构片段：
+
+1. CN(C)C(=O)C(CCN1CCC(O)(CC1)：这部分表示一个N-甲基-N-甲酰胺取代的乙酰胺结构。
+
+2. CCCN1CCC(O)(CC1)：这部分表示一个取代有氢键供体(OH)和氢键受体(NH)的三环吗啡结构。
+
+3. c2ccc(Cl)cc2：这部分表示一个取代有氯的苯环结构。
+
+4. c3ccccc3：这部分表示一个取代有苯环结构。
+
+5. c4ccccc4：这部分表示一个取代有苯环结构。"
+CC(c1ncncc1F)C(O)(Cn2cncn2)c3ccc(F)cc3F,0,"'CC(c1ncncc1F)C(O)(Cn2cncn2)c3ccc(F)cc3F'包含以下结构片段：
+
+- 'c1ncncc1F'：呈环状的氮离子和氟原子组成的片段。
+- 'C(O)'：碳原子和氧原子组成的羟基片段。
+- 'Cn2cncn2'：呈环状的碳原子和氮离子组成的片段。
+- 'c3ccc(F)cc3F'：呈环状的苯环和氟原子组成的片段。
+
+总结起来，这个化合物包含了环状的氮离子、碳原子、氟原子和苯环，以及羟基。"
+OC(=O)CCCc1ccccc1,0,"'OC(=O)CCCc1ccccc1'包含以下结构片段：
+- OC(=O): 酸酐基团
+- CCC: 连续的三个碳原子
+- c1ccccc1: 苯环"
+CC(Cc1ccccc1)N,0,"'CC(Cc1ccccc1)N'包含以下结构片段：
+
+1. 'CC': 代表两个相邻的碳原子，表示一个甲基基团（methyl group）。
+2. 'C': 代表一个碳原子，表示一个亚甲基基团（methylene group）。
+3. 'Cc1ccccc1': 包含一个苯环（benzene ring），表示苯基基团（phenyl group）。
+4. 'N': 代表一个氮原子，表示氨基基团（amino group）。"
+Cc1c(scn1)CCCl,0,"'Cc1c(scn1)CCCl'包含以下结构片段：
+
+1. 'Cc1c'：表示在第一个碳原子上连接有一个甲基基团。
+2. '(scn1)': 表示在第一个碳原子上连接有一个硫原子和一个氮原子，它们之间通过一个双键连接，并且氮原子上还连接有一个甲基基团。
+3. 'CCCl': 表示在第一个碳原子和第二个碳原子之间，以及第二个碳原子和第三个碳原子之间分别连接有一个氯原子。
+
+总结起来，'Cc1c(scn1)CCCl'包含一个甲基基团、一个硫氮环和两个氯原子。"
+CC(C)(Oc1ccc(cc1)C2CC2(Cl)Cl)C(=O)O,0,"'CC(C)(Oc1ccc(cc1)C2CC2(Cl)Cl)C(=O)O'包含以下结构片段：
+
+CC-碳链，由C和C组成
+(Oc1ccc(cc1)C2CC2(Cl)Cl) - 苯环（用编号的原子表示）
+C2CC2 - 环状碳链，由C和C组成
+(Cl) - 氯原子
+C(=O) - 羰基（碳与氧的双键）
+O - 氧原子"
+C[N+](C)(C)CC(O)CC(=O)O,0,"'C[N+](C)(C)CC(O)CC(=O)O' 包含以下结构片段：
+
+1. 'C[N+]'：代表一个正电荷氮原子，周围连接有一个碳原子和三个氢原子。
+2. '(C)(C)'：代表两个甲基基团，分别连接到氮原子上。
+3. 'CC'：代表两个碳原子构成的碳链。
+4. '(O)'：代表一个氧原子。
+5. 'CC(=O)O'：代表一个乙酰基（酯基）的结构，其中包含一个碳原子和两个氧原子，其中一个氧原子连接到碳原子上，另一个氧原子则连接到碳链上的碳原子上。"
+CC1(OC2COC3(C(C2O1)OC(O3)(C)C)COS(=O)(=O)N)C,0,"'CC1(OC2COC3(C(C2O1)OC(O3)(C)C)COS(=O)(=O)N)C' 可以看做有以下结构片段：
+
+1. CC1：表示一个碳链段，有一个碳原子连接着一个苯环（是一个环状结构）。
+2. OC2COC3：表示一个环状结构，有一个氧原子连接着两个碳原子。这个结构被编号为C2和C3。
+3. C(C2O1)：表示一个碳原子连接着C2和O1两个原子。
+4. OC(O3)(C)：表示一个氧原子连接着O3和C两个原子。
+5. COS(=O)(=O)N：表示一个硫原子连接着一个氧原子和两个氮原子。
+
+所以，'CC1(OC2COC3(C(C2O1)OC(O3)(C)C)COS(=O)(=O)N)C' 包含以上这些结构片段。"
+CCOC(=O)c1c2n(cn1)c3cccc(c3C(=O)N(C2)C)I,0,"该分子包含以下结构片段:
+
+1. 酮基 (C=O)
+2. 苯环 (芳香环)
+3. 吡唑环 (杂环)
+4. 甲酰基 (C(=O)OCH3)
+5. 碘原子 (I)
+6. 环丙基 (C3CCCC3)
+7. 氨基 (NH)
+8. 苯甲酰基 (C6H5C(=O))
+9. 氰基 (C≡N)"
+COC1C(O)CC(=O)OC(C)CC=CC=CC(OC2CCC(C(C)O2)N(C)C)C(C)CC(CC=O)C1OC3OC(C)C(OC4CC(C)(O)C(O)C(C)O4)C(C3O)N(C)C,0,"该结构包含以下结构片段：
+- COC：乙醚基
+- C(=O)OC：酯基
+- (C)CC：丙基
+- C=CC=CC：烯丙基
+- OC2CCC(C(C)O2)N(C)C：嘌呤环与烷基
+- CC(CC=O)C：丁基
+- 1OC3OC(C)C(OC4CC(C)(O)C(O)C(C)O4)C(C3O)N(C)C：萜环、腺嘌呤环和多个羟基基团"
+CC(C)C(=O)Nc1ccc(c(c1)C(F)(F)F)[N+](=O)[O],0,"'CC(C)C(=O)Nc1ccc(c(c1)C(F)(F)F)[N+](=O)[O]' 包含以下结构片段：
+
+1. 'CC(C)'：主链上的烷基基团。
+2. '(=O)'：酰基 (carbonyl group)。
+3. 'N'：氨基 (amino group)。
+4. 'c1ccc(c(c1)C(F)(F)F)'：芳香环。
+5. 'C(F)(F)F'：氟代烷基基团。
+6. '[N+](=O)[O]'：亚硝基 (nitro group)。"
+CC(=O)N(CC(O)CO)c1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)NCC(O)CO)c1I,0,"该结构包含以下结构片段：
+- CO
+- CC(=O)N
+- (CC(O)CO)
+- c1c(I)c(C(=O)NCC(O)CO)c(I)
+- C(=O)NCC(O)CO
+- I"
+CN1C(CSCC(F)(F)F)Nc2cc(Cl)c(cc2S1(=O)=O)S(=O)(=O)N,0,"该化合物包含以下结构片段：
+
+CN1C：哌嗪环（piperazine ring）
+CSCC(F)(F)F：硫醚基（thioether group）
+Nc2cc(Cl)c(cc2S1(=O)=O)：苯环（phenyl ring）和硫代基（thio group）
+S(=O)(=O)N：磺酰胺基（sulfonyl amide group）"
+CCC1OC(=O)C(C)C(=O)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(CC(C)C(=O)C(C)C3N(CCCCn4cnc(c4)c5cccnc5)C(=O)OC13C)OC,0,"根据给定的分子式和结构，'CCC1OC(=O)C(C)C(=O)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(CC(C)C(=O)C(C)C3N(CCCCn4cnc(c4)c5cccnc5)C(=O)OC13C)OC' 包含以下的结构片段：
+
+- 环戊烯酮
+- 烷基侧链
+- 羧酸酯
+- 乙醚
+- 十字花科植物碱
+- 吲哚取代物
+- 吡咯取代物
+- 苯环
+
+请注意，除了给出的结构片段，还可能存在一些其他结构片段。"
+CCC(C)C(=O)OC1CC(O)C=C2C=CC(C)C(CCC(O)CC(O)CC(=O)O)C12,0,"根据给出的摩尔结构式，'CCC(C)C(=O)OC1CC(O)C=C2C=CC(C)C(CCC(O)CC(O)CC(=O)O)C12'包含以下结构片段：
+
+- CCC(C)C(=O)O：脂肪酸链末端的酯基
+- OC1CC(O)C=C2C=CC(C)C：环戊醇环和芳香环之间的连接部分
+- CCC(O)CC(O)CC(=O)O：糖醛酮链的一部分
+
+所以，这个化合物包含了脂肪酸、环戊醇和糖醛酮等结构片段。"
+CC(CN1c2ccccc2CCc3c1cccc3)CN(C)C,0,"'CC(CN1c2ccccc2CCc3c1cccc3)CN(C)C' 包含以下结构片段:
+
+- 'CC' ：代表甲基基团
+- '(CN)' ：代表一对芳香胺
+- '1c2ccccc2' ：代表苯环
+- 'CCc3c1cccc3' ：代表另一个苯环
+- '(C)' ：代表一个甲基基团
+- 'CN' ：代表一对乙胺"
+CC12CCC(=O)C=C1CCC3C4CCC(O)(C(=O)COC(=O)CCC5CCCC5)C4(C)CC(O)C23,0,"根据给出的分子式'CC12CCC(=O)C=C1CCC3C4CCC(O)(C(=O)COC(=O)CCC5CCCC5)C4(C)CC(O)C23'，可以找到以下结构片段：
+
+- 'CC'：表示两个碳原子通过单键相连
+- 'CCC'：表示三个碳原子通过单键相连
+- '(=O)'：表示一个酰基（酰基是由一个碳原子和一个氧原子通过双键相连的官能团）
+- 'C=C'：表示两个碳原子通过双键相连
+- 'C1CCC3C4CCC(O)(C(=O)COC(=O)CCC5CCCC5)C4(C)CC(O)C23'：表示一个含有环状结构的片段，其中包含了前面提到的结构片段
+
+以上是根据分子式得出的结构片段，可能还有其他更小的结构片段，但需要更准确的分子结构信息才能确定。"
+CCc1cc2c(s1)N(C(=O)CN=C2c3ccccc3Cl)C,0,"'CCc1cc2c(s1)N(C(=O)CN=C2c3ccccc3Cl)C' 包含以下结构片段：
+
+1. CC - 代表乙基基团。
+2. c1cc2c(s1) - 代表苯环和硫原子的连接，形成苯并噻唑环。
+3. N(C(=O)CN=C2c3ccccc3Cl) - 代表连接在苯并噻唑环上的多个结构，包括一个氨基，一个甲酰基，一个亚胺基和一个氯苯环。
+4. C - 代表甲基基团。
+
+综上所述，'CCc1cc2c(s1)N(C(=O)CN=C2c3ccccc3Cl)C' 包含以上四个结构片段。"
+CCOc1nc2cccc(C(=O)OC(C)OC(=O)OC3CCCCC3)c2n1Cc4ccc(cc4)c5ccccc5c6nn[nH]n6,0,"'CCOc1nc2cccc(C(=O)OC(C)OC(=O)OC3CCCCC3)c2n1Cc4ccc(cc4)c5ccccc5c6nn[nH]n6' 包含以下结构片段：
+
+- 'CCO': 一个乙醇基。
+- 'c1nc2cccc(C(=O)OC(C)OC(=O)OC3CCCCC3)c2n1': 包含一个蒽环，并连接到一个具有酮基的噻唑环。
+- 'Cc4ccc(cc4)': 一个苯环。
+- 'c5ccccc5': 一个苯环。
+- 'c6nn[nH]n6': 一个嘧啶环。
+- '(=O)OC': 一个酯基。
+- 'OC(=O)': 一个酯基。
+
+这些结构片段组合在一起形成了整个分子的结构。"
+CN1CCN2c3ccccc3Cc4ccccc4C2C1,0,"'CN1CCN2c3ccccc3Cc4ccccc4C2C1' 包含以下结构片段：
+
+1. 'CN1CCN2'： 咪唑环（imidazole ring）
+2. 'c3ccccc3'： 苯环（benzene ring）
+3. 'Cc4ccccc4'： 苯环（benzene ring）
+4. 'C2C1'： 环己烷环（cyclohexane ring）"
+CC(C)(C)NCC(O)COc1ccc(NC(=O)NC2CCCCC2)cc1,0,"根据SMILES表示法，'CC(C)(C)NCC(O)COc1ccc(NC(=O)NC2CCCCC2)cc1' 包含以下结构片段：
+
+1. 'CC(C)(C)' 表示 tert-butyl 基团。
+2. 'NCC(O)CO' 表示 N,N-二甲基二乙醇胺基团。
+3. 'c1ccc' 表示芳香环。
+4. 'NC(=O)NC' 表示酰胺结构。
+5. '2CCCCC2' 表示五个碳原子的链状结构。
+
+综上所述，'CC(C)(C)NCC(O)COc1ccc(NC(=O)NC2CCCCC2)cc1' 包含 tert-butyl 基团、N,N-二甲基二乙醇胺基团、芳香环、酰胺结构和五个碳原子的链状结构等结构片段。"
+CC(=O)N1CCN(CC1)c2ccc(OCC3COC(Cn4ccnc4)(O3)c5ccc(Cl)cc5Cl)cc2,0,"'CC(=O)N1CCN(CC1)c2ccc(OCC3COC(Cn4ccnc4)(O3)c5ccc(Cl)cc5Cl)cc2' 包含了以下结构片段：
+- 'CC(=O)'：乙酸甲酯基团
+- 'N1CCN(CC1)'：哌嗪环
+- 'c2ccc(OCC3COC(Cn4ccnc4)(O3)c5ccc(Cl)cc5Cl)cc2'：苯环上有取代基的芳香环"
+CNC1(CCCCC1=O)C1=CC=CC=C1Cl,0,'CNC'是一个结构片段， '(CCCCC1=O)' 是一个结构片段， 'C1=CC=CC=C1Cl'也是一个结构片段。
+CCOC(=O)C1=C(C)NC(=C(C1c2cccc(Cl)c2Cl)C(=O)OC)C,0,"'CCOC(=O)C1=C(C)NC(=C(C1c2cccc(Cl)c2Cl)C(=O)OC)C'包含以下结构片段：
+
+1. 'CCOC(=O)C'：乙酸酯结构片段。
+2. '1=C(C)'：芳香环结构片段。
+3. 'NC(=C(C1c2cccc(Cl)c2Cl)'：芳香酮结构片段。
+4. 'C(=O)OC'：酯结构片段。
+5. 'C'：甲基结构片段。"
+O=C1C2C3CCC(C3)C2C(=O)N1CCCCN4CCN(CC4)c5ncccn5,0,"'O=C1C2C3CCC(C3)C2C(=O)N1CCCCN4CCN(CC4)c5ncccn5'包含以下结构片段：
+
+- 环状结构片段：1C2C3CCC(C3)C2C1（环戊二烯环）
+- 酮基：O=C
+- 腈基：C(=O)N
+- 脂肪环：CCCC
+- 脂肪链：CCN(CC4)
+- 唑环：c5ncccn5"
+CC(=O)Oc1cccc2C(=O)c3cc(cc(OC(=O)C)c3C(=O)c12)C(=O)O,0,"‘CC(=O)Oc1cccc2C(=O)c3cc(cc(OC(=O)C)c3C(=O)c12)C(=O)O’包含以下结构片段：
+
+- CC(=O)O：酯基
+- c1cccc2：芳香环
+- C(=O)c3cc(...)c3：酮基
+- (OC(=O)C)：酯基（与其他酯基连接）
+- C(=O)O：酸基"
+Cc1c(O)cccc1C(=O)NC(CSc2ccccc2)C(O)CN3CC4CCCCC4CC3C(=O)NC(C)(C)C,0,"结构片段包括：
+1. Cc1c(O)cccc1C(=O) - 苯甲酰基结构片段
+2. NC(CSc2ccccc2) - 硫醚结构片段
+3. C(O)CN3CC4CCCCC4CC3 - 叔胺结构片段
+4. C(=O)NC(C)(C) - 异丙酰胺结构片段
+5. C(C)C - 异丙基结构片段"
+CC1CC2C3CCC(C3(CC(C2C4(C1=CC(=O)C=C4)C)O)C)(C(=O)CO)O,0,"1. CC1CC2C3CCC(C3
+2. CC(C2C4(C1=CC(=O)C=C4)C)
+3. C3(CC(C2C4(C1=CC(=O)C=C4)C)O)
+4. C(=O)CO"
+CCC1(C(=O)NC(=O)N(C1=O)C)c2ccccc2,0,"'CCC1(C(=O)NC(=O)N(C1=O)C)c2ccccc2'包含以下结构片段：
+
+1. 'CCC' - 代表一个碳骨架，表示有3个相连的碳原子。
+2. '(C(=O)NC(=O)N(C1=O)C)' - 代表一个酰胺基团，其中包含一个酰基（C(=O)）、两个氨基（NH2）和一个环戊酮（C1=O）。
+3. 'c2ccccc2' - 代表一个苯环，其中包含6个相连的碳原子。
+"
+CCCOC(C(=O)OC1CCN(C)CC1)(c2ccccc2)c3ccccc3,0,"根据给出的结构式，""CCCOC(C(=O)OC1CCN(C)CC1)(c2ccccc2)c3ccccc3"" 可以分解为以下结构片段：
+
+1. CCC - 烷基，表示有三个碳原子的直链烷基
+2. OC - 醇基（羟基），表示有一个氧原子与一个碳原子相连的官能团
+3. C(=O) - 酰基，表示有一个碳原子和一个氧原子通过双键相连的官能团
+4. OC1CCN(C)CC1 - 咪唑环，表示由一羰基的氮原子与一个碳链和苯环相连形成的环状结构
+5. c2ccccc2 - 芳香环，表示由六个共轭的碳原子形成的苯环
+6. c3ccccc3 - 芳香环，表示由六个共轭的碳原子形成的苯环
+
+请注意，括号内的结构物 ""C(=O)OC1CCN(C)CC1"" 可以看作是一个整体，表示与整个分子相连的一个官能团。"
+CCCCc1oc2ccccc2c1C(=O)c3cc(I)c(OCCN(CC)CC)c(I)c3,0,"'CCCCc1oc2ccccc2c1C(=O)c3cc(I)c(OCCN(CC)CC)c(I)c3' 包含以下结构片段：
+
+1. 'CCCC'：4个碳原子的直链脂肪烷基。
+2. 'c1oc2ccccc2c1'：苯环。
+3. 'C(=O)'：酰基。
+4. 'c3cc(I)c(OCCN(CC)CC)c(I)c3'：两个碘原子取代的苯环，中间是含有一个氧原子的醚基，醚基与一个肟基和两个乙胺基（CCN(CC)CC）相连。
+
+综上所述，'CCCCc1oc2ccccc2c1C(=O)c3cc(I)c(OCCN(CC)CC)c(I)c3'包含烷基、苯环、酰基和取代苯环等结构片段。"
+COC1C(CC2CN3CCc4c([nH]c5cc(OC)ccc45)C3CC2C1C(=O)OC)OC(=O)C=Cc6cc(OC)c(OC)c(OC)c6,0,"'COC1C(CC2CN3CCc4c([nH]c5cc(OC)ccc45)C3CC2C1C(=O)OC)OC(=O)C=Cc6cc(OC)c(OC)c(OC)c6'包含以下结构片段：
+
+- COC1C：环氧环
+- CC2CN3CC：环氮化合物
+- c4c([nH]c5cc(OC)ccc45)：吡咯环
+- C3CC2C1C(=O)OC：环状酮
+- OC(=O)C=C：羧酸酯
+- c6cc(OC)：苯环
+- c(OC)c(OC)c6：苯环上带有甲氧基的苯环"
+CC(C)(C(=O)O)c1ccc(C(=O)CCCN2CCC(OC(c3ccccc3)c3ccccc3)CC2)cc1,0,"'CC(C)(C(=O)O)c1ccc(C(=O)CCCN2CCC(OC(c3ccccc3)c3ccccc3)CC2)cc1'包含以下结构片段：
+
+1. 'CC(C)' - 代表一个2-甲基的丙基基团。
+2. '(C(=O)O)' - 代表一个羧酸基团。
+3. 'c1ccc' - 代表苯环。
+4. '(C(=O)CCCN2CCC(OC(c3ccccc3)c3ccccc3)CC2)' - 代表一个包含羧酸酯、酰胺和二烷基氨基的结构。
+5. 'cc1' - 代表苯环。"
+CC(C)N1CCC(CC1)N(C(=O)Cc2ccccc2)c3ccc(Cl)cc3,0,"'CC(C)N1CCC(CC1)N(C(=O)Cc2ccccc2)c3ccc(Cl)cc3' 包含以下结构片段：
+
+1. CC(C)N1CCC(CC1)N( 指代一个带有两个氢原子的环丙胺基，固定在一个环状化合物上 )
+2. (C=O)C 指代一个脱掉两个氢原子的羰基甲基
+3. c2ccccc2 指代一个苯环 （重复6次，即一个取代苯环）
+4. c3ccc(Cl)cc3 指代一个氯取代的苯环
+
+这些结构片段构成了整个分子的组成。"
+CCCCC1C(=O)N(N(C1=O)c2ccccc2)c3ccccc3,0,"'CCCCC1C(=O)N(N(C1=O)c2ccccc2)c3ccccc3' 包含以下结构片段：
+
+1. 'CCCCC'：五个碳原子构成的直链烷基。
+2. 'C1C(=O)'：一个碳原子和一个带有双键的氧原子，形成一个酰基。
+3. 'N(N(C1=O)c2ccccc2)'：含有一个氮原子和一个酰基的环状结构。
+4. 'c2ccccc2'：苯环，由六个碳原子和六个氢原子组成。
+5. 'c3ccccc3'：苯环，由六个碳原子和六个氢原子组成。
+
+将以上结构片段组合在一起，可以得到整个化学式。"
+CC1(C)SC2C(NC(=O)C(N)c3ccc(O)cc3)C(=O)N2C1C(=O)O,0,"'CC1(C)SC2C(NC(=O)C(N)c3ccc(O)cc3)C(=O)N2C1C(=O)O' 包含以下结构片段：
+
+1. 'CC1(C)SC2C(NC(=O)C(N)c3ccc(O)cc3)'
+2. 'C(=O)N2C1C(=O)O'
+
+其中，结构片段1是一个环状结构，包含一个硫原子和一个氮原子，其上有连接多个碳原子的侧链。结构片段2也是一个环状结构，包含两个氮原子和一个羧酸基团。"
+COC(=O)C(N1CCc2sccc2C1)c3ccccc3Cl,0,"根据提供的分子式'COC(=O)C(N1CCc2sccc2C1)c3ccccc3Cl'，可以确定以下结构片段：
+
+1. COC：醚结构
+2. (=O)：酰基
+3. C：碳原子
+4. (N1CCc2sccc2C1)：环状结构，含有氮原子和硫原子
+5. c3ccccc3：含有苯环结构
+6. Cl：氯原子
+
+因此，该分子中含有醚结构、酰基、碳原子、环状结构、苯环结构和氯原子等结构片段。"
+CC(=O)NO,0,"'CC(=O)NO'包含以下结构片段：
+1. CC：代表两个碳原子相连形成的碳链。
+2. (=O)：代表一个酰基，由碳原子和一个双键氧原子组成。
+3. N：代表一个氮原子。
+4. O：代表一个氧原子。
+
+综上所述，'CC(=O)NO'包含碳链、酰基、氮原子和氧原子这些结构片段。"
+CCCN1CC(CC2C1Cc3c[nH]c4c3c2ccc4)CSC,0,"这个结构包含以下结构片段：
+
+1. CCC：乙烷基链
+2. N1：氮原子
+3. CC：乙烷基链
+4. (CC2C1Cc3c[nH]c4c3c2ccc4)：环状结构，由1个氧原子（O1）、1个氮原子（N2）和1个氮杂环组成
+5. CSC：硫代巯基链"
+CN(CCCN1c2ccccc2CCc3c1cccc3)CC(=O)c4ccc(cc4)Cl,0,"'CN(CCCN1c2ccccc2CCc3c1cccc3)CC(=O)c4ccc(cc4)Cl'中包含以下结构片段：
+
+1. 'CN' - 乙胺基基团
+2. 'CCCN' - 三乙胺基基团
+3. '1c2ccccc2' - 联苯环
+4. 'CCc3c1cccc3' - 环戊基
+5. '=O' - 酰基
+6. 'c4ccc(cc4)' - 苯环
+7. 'Cl' - 氯原子"
+[H][C@]12CC3=C(C(O)=C(O)C=C3)C3=CC=CC(CCN1C)=C23,0,"'[H][C@]12CC3=C(C(O)=C(O)C=C3)C3=CC=CC(CCN1C)=C23'包含以下结构片段：
+
+1. [H] - 氢原子
+2. [C@] - 手性中心
+3. 12CC - 两个碳原子构成的环
+4. 3=C - 双键连接
+5. C(O)=C(O) - 两个羟基氧化碳原子
+6. C=C - 双键连接
+7. C=C3 - 双键连接和一个碳原子形成环
+8. C3=CC=CC - 三个碳原子构成的环和苯环
+9. CCN1C - 一个氮原子和三个碳原子构成的环
+10. =C23 - 双键连接和两个碳原子构成环
+
+希望对你有所帮助！"
+NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl,0,"结构片段包括:
+1. 苯环(c1cc2c)；
+2. 氯原子(Cl)；
+3. 氮原子(N)；
+4. 硫原子(S)；
+5. 氧原子(O)；
+6. 亚硝基(=N=O)；
+7. 硝基(=NO2)；
+8. 硫醇基(SH)；
+9. 亚磺基(SO2)；
+10. 甲基基团(CH3)。"
+CC(Cc1ccccc1)NC,0,"'CC(Cc1ccccc1)NC'可以分解为以下结构片段：
+1. 'CC'：代表一个碳链，表示两个相连的碳原子。
+2. '(Cc1ccccc1)'：代表一个苯环结构，其中一个碳原子与前面的碳链相连。
+3. 'N'：代表一个氮原子。
+4. 'C'：代表一个碳原子，与前面的氮原子相连。"
+NCCC(O)(P(=O)(O)O)P(=O)(O)O,0,"'NCCC(O)(P(=O)(O)O)P(=O)(O)O'包含以下结构片段：
+
+1. N-乙基基团（NCC）
+2. 羟基（OH）
+3. 三个磷酸基团（P(=O)(O)O）"
+[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,0,"'[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C' 包含以下结构片段：
+
+1. '[H]' 表示一个氢原子。
+2. '[C@@]12' 表示一个手性碳原子，其立体配置为顺时针方向。
+3. 'CC[C@]' 表示一个碳链。
+4. '(O)' 表示一个氧原子。
+5. '(C(=O)CO)' 表示一个酯基，其中包含一个碳氧化合物。
+6. '[C@@]1(C)' 表示一个手性碳原子，其立体配置为顺时针方向。
+7. 'CC(=O)' 表示一个酮基，其中包含一个碳碳双键和一个碳氧化合物。
+8. '[C@@]2([H])' 表示一个手性碳原子，其立体配置为顺时针方向，并且与氢原子相连。
+9. 'CCC2=CC(=O)C=CC12' 表示一个含有多个碳碳双键和酮基的环状结构。
+
+请注意，这只是该结构的概述，更详细的结构可以根据需要进行分析。"
+CN1C(=O)CC(C1=O)c2ccccc2,0,"'CN1C(=O)CC(C1=O)c2ccccc2'包含以下结构片段：
+1. CN1C(=O)CC(C1=O) - 这是一个环状结构，由一个含氮杂环和一个酮基组成。
+2. (C1=O) - 这是一个酮基。
+3. c2ccccc2 - 这是一个苯环。
+
+综上所述，'CN1C(=O)CC(C1=O)c2ccccc2'包含一个环状结构，一个酮基和一个苯环。"
+CC12CCC(=O)C=C1CCC3C4CCC(O)(C(=O)CO)C4(C)CC(O)C23,0,"根据给定的化学式，可以识别出以下结构片段：
+
+1. CC12CCC(=O)C=C1CCC3C4CCC(O)(C(=O)CO)C4(C)CC(O)C23 - 包含一个环戊烯（C=C1CCC）结构片段。
+2. CC12CCC(=O)C=C1CCC3C4CCC(O)(C(=O)CO)C4(C)CC(O)C23 - 包含一个环戊烷（CCC3C4CCC）结构片段。
+3. CC12CCC(=O)C=C1CCC3C4CCC(O)(C(=O)CO)C4(C)CC(O)C23 - 包含一个烯酮（C(=O)CO）结构片段。
+4. CC12CCC(=O)C=C1CCC3C4CCC(O)(C(=O)CO)C4(C)CC(O)C23 - 包含一个羟基羧酸（C(=O)CO）结构片段。
+5. CC12CCC(=O)C=C1CCC3C4CCC(O)(C(=O)CO)C4(C)CC(O)C23 - 包含一个环己烷（C4CCC）结构片段。
+6. CC12CCC(=O)C=C1CCC3C4CCC(O)(C(=O)CO)C4(C)CC(O)C23 - 包含一个羟基（CC(O)C）结构片段。
+
+以上是根据提供的化学式识别出的主要结构片段，可能还有其他次要的结构片段。"
+CC1C(OCCN1)c2ccccc2,0,"'CC1C(OCCN1)c2ccccc2' 包含以下结构片段:
+1. 'CC' - 代表两个碳原子的甲基基团。
+2. 'C' - 代表一个碳原子。
+3. 'O' - 代表一个氧原子。
+4. 'CCN' - 代表一个尿囊素的基团，也就是 N-甲基二乙胺。
+5. 'c2ccccc2' - 代表一个苯环，其中的 'c' 代表环上的碳原子，'2' 代表两个相连的碳原子。"
+CN1CCN(CC1)C2=Nc3ccccc3Sc4c2cc(cc4)Cl,0,"这个化学式包含以下结构片段：
+
+1. 咪唑环（CN1CCN(CC1)）
+2. 苯环（c3ccccc3）
+3. 硫醚（Sc4c2cc(cc4)）
+4. 氯代苯环（Cl）"
+NC1C2CN(CC12)c3nc4N(C=C(C(=O)O)C(=O)c4cc3F)c5ccc(F)cc5F,0,"'NC1C2CN(CC12)c3nc4N(C=C(C(=O)O)C(=O)c4cc3F)c5ccc(F)cc5F'包含以下结构片段：
+
+1. 'NC1C2CN(CC12)'：这是一个咪唑环结构。
+2. 'c3nc4N(C=C(C(=O)O)C(=O)c4cc3F)'：这是一个含有氮原子的杂环结构，其中包含酮和酯功能团。
+3. 'c5ccc(F)cc5F'：这是一个含有氟原子的苯环结构。"
+COc1ccccc1Oc2c(NS(=O)(=O)c3ccc(cc3)C(C)(C)C)nc(nc2OCCO)c4ncccn4,0,"'COc1ccccc1Oc2c(NS(=O)(=O)c3ccc(cc3)C(C)(C)C)nc(nc2OCCO)c4ncccn4' 包含以下结构片段：
+
+1. 'Oc1ccccc1'：苯环上有一个甲氧基取代。
+
+2. 'Oc2c'：苯环上有一个二氧杂环。
+
+3. 'NS(=O)(=O)c3ccc(cc3)C(C)(C)C'：磺酰亚胺基团，带有侧链。
+
+4. 'nc(nc2OCCO)'：两个氮杂环相连，中间有一个醚桥连接。
+
+5. 'c4ncccn4'：吡啶环。
+
+所以，'COc1ccccc1Oc2c(NS(=O)(=O)c3ccc(cc3)C(C)(C)C)nc(nc2OCCO)c4ncccn4' 包含了苯环、吡啶环以及氮杂环等结构片段。"
+CN1CCC23CCCCC2C1Cc4c3cc(cc4)O,0,"'CN1CCC23CCCCC2C1Cc4c3cc(cc4)O'包含以下结构片段：
+
+1. CN：乙胺基（ethylamine）
+2. CCC：环戊烷（cyclopentane）
+3. CC23CCCCC2C：烷基链（alkyl chain）
+4. 1C：一个碳原子
+5. C：一个碳原子
+6. c4：一个芳香环（aromatic ring）
+7. 3cc(cc4)：一个3,4-二氢苯环（3,4-dihydroxybenzene）
+8. O：一个氧原子
+
+这些结构片段可以用于描述该分子的化学结构。"
+c1ccc(cc1)C2C(=O)N=C(O2)N,0,"'c1ccc(cc1)'中的结构片段有苯环。
+
+'C2C(=O)N=C(O2)N'中的结构片段有咪唑环（C2C1=NON=1）和酮（=O）基团。"
+CN(C)S(=O)(=O)c1ccc2c(c1)N(c3ccccc3S2)CCCN4CCC(CC4)CCO,0,"'CN(C)S(=O)(=O)c1ccc2c(c1)N(c3ccccc3S2)CCCN4CCC(CC4)CCO'包含以下结构片段：
+
+1. CN - 乙胺基团（氨基甲基）
+2. S(=O)(=O) - 磺酰基团（双氧化硫）
+3. c1ccc2c(c1) - 苯环
+4. N(c3ccccc3S2) - 联氮杂苯环（伴有硫原子）
+5. CCCC - 正丁基链
+6. N4CCC(CC4) - 氮杂环（伴有环己基链）
+7. CCO - 乙醇基团"
+CC(=O)OCC1=C(N2C(SC1)C(NC(=O)C(N)c3ccccc3)C2=O)C(=O)O,0,"'CC(=O)OCC1=C(N2C(SC1)C(NC(=O)C(N)c3ccccc3)C2=O)C(=O)O'包含以下结构片段：
+
+- CC(=O)OCC：乙酸酯结构片段；
+- 1=C(N2C(SC1)C(NC(=O)C(N)c3ccccc3)C2=O)：螺环结构片段，其中含有氨基酸和酮基；
+- C(=O)O：羧酸结构片段。"
+CN1CCCCC1CCN2c3ccccc3Sc4c2cc(cc4)SC,0,"分子式为'CN1CCCCC1CCN2c3ccccc3Sc4c2cc(cc4)SC'的结构片段包括：
+
+- CN：氰基（Cyano group）
+- CC：环状碳链（Cycloalkane）
+- CCC：非环状碳链（Alkane）
+- CCN：胺基（Amino group）
+- c3ccccc3：苯环（Benzene ring）
+- Sc4：硫杂环己烷（Thiacyclohexane）
+- c2cc：苯环（Benzene ring）
+- cc4：芳香环（Aromatic ring）
+- SC：硫代基（Thio group）"
+CCCCCOC(=O)NC1=NC(=O)N(C=C1F)C2OC(C)C(O)C2O,0,"'CCCCCOC(=O)NC1=NC(=O)N(C=C1F)C2OC(C)C(O)C2O'包含以下结构片段：
+
+1. 'CCCCC' - 代表5个碳原子的直链烷基。
+2. 'OC(=O)N' - 代表一个甲酰胺基，其中氧原子与一个碳原子和氮原子相连接。
+3. 'C1=NC(=O)N(C=C1F)' - 代表一个嘧啶核，其中有一个氮原子与一个酰基相连，并且有一个氟原子与一个碳原子相连。
+4. 'C2OC(C)C(O)C2O' - 代表一个环状结构，其中有两个氧原子分别与一个碳原子和一个碳原子相连，环上还有一个醇基和一个甲基。
+
+请注意，这只是对分子结构中的一些片段进行了简要描述，但没有包括全部的细节。"
+CC(C)(C)S(=O)(=O)C[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CC1=CN=CN1)C(=O)N[C@@H](CC1CCCCC1)[C@@H](O)[C@@H](O)C1CC1,0,"'CC(C)(C)S(=O)(=O)C[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CC1=CN=CN1)C(=O)N[C@@H](CC1CCCCC1)[C@@H](O)[C@@H](O)C1CC1'包含以下结构片段：
+
+1. 'CC(C)(C)S(=O)(=O)C'：烷基硫醚（alkyl sulfone）结构。
+2. '[C@@H](CC1=CC=CC=C1)'：手性环丙基取代基。
+3. 'C(=O)N[C@@H](CC1=CN=CN1)'：酰胺（amide）结构。
+4. '[C@@H](CC1CCCCC1)'：手性环己基取代基。
+5. '[C@@H](O)[C@@H](O)'：手性醇（chiral alcohol）结构。
+6. 'C1CC1'：环丙烷环（cyclopropane ring）结构。"
+CC(C)NCC(O)c1ccc(NS(=O)(=O)C)cc1,0,"'CC(C)NCC(O)c1ccc(NS(=O)(=O)C)cc1'这个化合物包含以下结构片段：
+
+1. 'CC(C)'：甲基引子。
+2. 'NCC(O)'：氨基醇基团。
+3. 'c1ccc(NS(=O)(=O)C)cc1'：苯环基团，其中还包含一个与苯环相连的硫酰亚胺基团（NS(=O)(=O)C）。"
+O=C1OC2=CC=CC=C2C=C1,0,"'O=C1OC2=CC=CC=C2C=C1' 包含以下结构片段：
+1. O=C1OC2=CC=CC=C2C=C1：这是一个环状的芳香酮结构。
+2. =C1：这是一个双键，与环状芳香酮结构相结合。
+3. C2=CC=CC=C2：这是苯环的结构，具有共轭的双键。
+综上所述，'O=C1OC2=CC=CC=C2C=C1' 包含一个环状的芳香酮结构和一个苯环结构。"
+CC(=O)SC1CC2=CC(=O)CCC2(C)C3CCC4(C)C(CCC45CCC(=O)O5)C13,0,"该化合物包含以下结构片段：
+
+1. CC(=O)SC - 咪唑环上的硫代酯基
+2. (C1CC2=CC(=O)CCC2(C)C3CCC4(C)C(CCC45CCC(=O)O5)C13) - 包含环状结构的部分
+3. =O - 酮基
+
+请注意，这些结构片段是根据化学方程式提供的信息推断得出的。"
+CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,0,"该分子包含以下结构片段：
+
+- `CCC`：正丙基烷基链
+- `(C)C`：甲基基团
+- `C(=O)NC(=O)`：酰胺基团
+- `NC1=O`：羧酰肼基团
+
+综上所述，该分子包含一个正丙基烷基链、一个甲基基团、一个酰胺基团和一个羧酰肼基团的结构片段。"
+CCN(CC)C(=O)NC1CN(C2Cc3c[nH]c4c3c(ccc4)C2=C1)C,0,"根据SMILES表示法，'CCN(CC)C(=O)NC1CN(C2Cc3c[nH]c4c3c(ccc4)C2=C1)C' 包含以下结构片段：
+
+1. 'CCN(CC)C(=O)NC1CN'：代表一个酰胺基团。
+2. 'C2Cc3c[nH]c4c3c(ccc4)C2=C1'：代表一个杂环结构，其中包含一个脱氢环己烯基团。
+
+综上所述，'CCN(CC)C(=O)NC1CN(C2Cc3c[nH]c4c3c(ccc4)C2=C1)C' 包含一个酰胺基团和一个杂环结构。"
+CCC(C)C1OC2(CCC1C)CC3CC(CC=C(C)C(OC4CC(OC)C(OC5CC(OC)C(O)C(C)O5)C(C)O4)C(C)C=CC=C6COC7C(O)C(=CC(C(=O)O3)C67O)C)O2,0,"1. CCC(C)C1OC2(CCC1C)CC3CC - 这是一个环结构，由CCC(C)C1OC2C组成
+2. CC(CC=C(C)C(OC4CC(OC)C(OC5CC(OC)C(O)C(C)O5)C(C)O4)C(C)C=CC=C6COC7C(O)C(=CC(C(=O)O3)C67O)C) - 这是一个大的结构，由CC(CC=C(C)C等多个结构片段组成
+3. OC4CC(OC)C(OC5CC(OC)C(O)C(C)O5)C(C)O4 - 这是一个环结构，由OC4CC(OC)C(OC5CC(OC)C(O)C(C)O5)C组成
+4. C(OC5CC(OC)C(O)C(C)O5) - 这是一个环结构，由OC5CC(OC)C(O)C(C)O5组成
+5. C(OC)O4 - 这是一个环结构，由OC和O4组成
+6. C(OC)C(O5) - 这是一个环结构，由OC和O5组成
+7. C(C)O4 - 这是一个环结构，由C和O4组成
+8. C(C)O - 这是一个氧化碳基，由C和O组成
+9. C(C)C=CC=C6COC7C(O)C(=CC(C(=O)O3)C67O)C - 这是一个环结构，由C(C)C=CC=C6COC7C(O)C(=CC(C(=O)O3)C67O)C组成
+10. C - 这是一个碳基
+11. CC - 这是一个碳碳单键
+12. O - 这是一个氧原子"
+OCC1OC(CC1O)N2C=C(C=CBr)C(=O)NC2=O,0,"'OCC1OC(CC1O)，N2C=C(C=CBr)，C(=O)NC2=O' 包含以下结构片段：
+
+1. 'OCC1OC(CC1O)'：环状的1,3-丙二醇
+2. 'N2C=C(C=CBr)'：含有溴的苯环和双键的二嗪衍生物
+3. 'C(=O)NC2=O'：酰胺和环状的二氧杂环己转移产物"
+CC1=C(CC(=O)O)c2cc(F)ccc2C1=Cc3ccc(cc3)S(=O)C,0,"根据SMILES表示，'CC1=C(CC(=O)O)c2cc(F)ccc2C1=Cc3ccc(cc3)S(=O)C'包含以下结构片段：
+
+1. 'CC' 表示乙基基团。
+2. 'C1=C' 表示苯环。
+3. 'CC(=O)O' 表示乙酰基基团。
+4. 'c2cc(F)ccc2' 表示含有氟原子的苯环。
+5. 'C1=Cc3ccc(cc3)S(=O)C' 表示含有硫原子的苯环，并且与另一个碳基团连接。
+
+因此，'CC1=C(CC(=O)O)c2cc(F)ccc2C1=Cc3ccc(cc3)S(=O)C'包含乙基基团、苯环、乙酰基基团、含氟的苯环和含硫的苯环。"
+OC(=O)C(S)C(S)C(=O)O,0,"根据SMILES表示法，'OC(=O)C(S)C(S)C(=O)O'可以分解成以下结构片段：
+
+1. O：羟基（hydroxy）
+2. C(=O)：酮基（ketone）
+3. C：碳原子
+4. (S)：硫原子（Sulfur）
+5. C(S)：硫取代的碳原子（Sulfur-substituted carbon）
+6. C(=O)O：羧酸基（carboxylic acid）
+7. (S)C(S)：两个硫原子相连（两硫的链）
+
+注意：以上仅列举了一部分结构片段，还有其他可能存在的结构片段可能未列举。"
+OC(=O)c1cc(ccc1O)N=Nc2ccc(O)c(c2)C(=O)O,0,"'OC(=O)c1cc(ccc1O)N=Nc2ccc(O)c(c2)C(=O)O'包含以下结构片段:
+
+1. OC(=O) - 酸酐
+2. c1cc(ccc1O) - 苯环
+3. N=N - 双键氮
+4. c2ccc(O)c(c2) - 苯环
+5. C(=O)O - 酸酯
+
+结构片段可用于识别、命名和描述化合物的不同部分，并帮助理解化合物的性质和反应。以上述化合物为例，可以看到存在苯环、酸酐和酸酯等功能团。"
+CN1C2=C(NC=N2)C(=O)N(C)C1=O,0,"'CN1C2=C(NC=N2)C(=O)N(C)C1=O'包含以下结构片段：
+
+1. 'C1C=NC=N1' ：咪唑环
+2. 'C=O' ：酮基
+3. 'NC=N' ：亚硝基
+4. 'N(C)C' ：次甲胺基
+5. 'C1=O' ：酮基
+6. 'NC=O' ：酰胺基"
+CCOc1ccccc1OC(c2ccccc2)C3CNCCO3,0,"'CCOc1ccccc1OC(c2ccccc2)C3CNCCO3' 包含以下结构片段：
+
+1. 'CCO'：乙基氧基（ethoxy）基团。
+2. 'c1ccccc1'：苯环（phenyl ring）。
+3. 'OC'：羟基（hydroxyl）基团。
+4. '(c2ccccc2)'：苯环。
+5. 'C3'：环丙基（cyclopropyl）基团。
+6. 'NCC'：二乙胺（diethylamine）基团。
+7. 'O3'：氧杂环戊基（oxazolyl）基团。
+
+综上所述，'CCOc1ccccc1OC(c2ccccc2)C3CNCCO3' 包含了乙基氧基、苯环、羟基、环丙基、二乙胺和氧杂环戊基等多个结构片段。"
+CCOC(=O)C1=C(C)NC(=C(C1c2ccccc2C=CC(=O)OC(C)(C)C)C(=O)OCC)C,0,"'CCOC(=O)C1=C(C)NC(=C(C1c2ccccc2C=CC(=O)OC(C)(C)C)C(=O)OCC)C' 包含以下结构片段：
+
+1. 'CCOC(=O)C1=C(C)NC(=C(C1'：代表一个吡咯环，由C、C、O和N原子组成。
+2. 'c2ccccc2'：代表一个苯环。
+3. 'C=CC(=O)OC(C)(C)C'：代表一个烯丙基酯基团，由C、C、O和若干个H原子组成。
+4. 'C(=O)OCC'：代表一个乙酰基团，由C、O和若干个H原子组成。
+
+因此，整个化合物 'CCOC(=O)C1=C(C)NC(=C(C1c2ccccc2C=CC(=O)OC(C)(C)C)C(=O)OCC)C' 可以分解为一个吡咯环、一个苯环、一个烯丙基酯基团和一个乙酰基团。"
+CNC[C@H](O)C1=CC(O)=C(O)C=C1,0,"'CNC[C@H](O)C1=CC(O)=C(O)C=C1' 包含以下结构片段：
+
+1. CN - 乙胺基基团。
+2. [C@H] - 手性中心的表示，表示化合物是手性的。
+3. (O) - 羟基。
+4. C - 碳原子。
+5. 1=CC(O)=C(O)C=C1 - 苯环，带有两个羟基和一个烯烃基团。"
+CCN1C=C(C(=O)O)C(=O)c2ccc(cc12)c3ccncc3,0,"'CCN1C=C(C(=O)O)C(=O)c2ccc(cc12)c3ccncc3'包含以下结构片段：
+
+1. 'CC' - 乙基基团（-C2H5）。
+2. 'N1' - 吡咯环氮原子。
+3. 'C=C' - 烯丙基双键。
+4. '(=O)O' - 羧基（-COOH）。
+5. 'C(=O)' - 酮基。
+6. 'c2ccc' - 苯环。
+7. '(cc12)' - 呈环形结构的苯环部分。
+8. 'c3ccncc3' - 呈环形结构的吡啶环。
+
+这些结构片段共同构成了该化合物的结构。"
+NS(=O)(=O)c1cc2c(NC(NS2(=O)=O)C(Cl)Cl)cc1Cl,0,"'NS(=O)(=O)c1cc2c(NC(NS2(=O)=O)C(Cl)Cl)cc1Cl'包含以下结构片段：
+
+1）NS(=O)(=O)：磺酰氧基
+2）c1cc2c：芳香环
+3）NC(：胺基
+4）NS2(=O)=O：磺酰氧基
+5）C(Cl)Cl：氯代甲烷或氯代乙烷基团
+6）cc1Cl：氯代苯环"
+Cc1cccc(OCC(O)CNC(C)C)c1,0,"Cc1cccc(OCC(O)CNC(C)C)c1包含以下结构片段：
+
+1. C：碳原子
+2. c：芳香环（苯环）
+3. O：氧原子
+4. C-C：碳-碳单键
+5. (OCC(O)C：醚结构
+6. N：氮原子
+7. C-N：碳-氮单键
+8. CNC(C)C：胺结构
+9. (C)C：甲基基团
+10. CC1：环烷结构"
+CCC(Cc1c(I)cc(I)c(N)c1I)C(=O)O,0,"根据给出的化学式，我们可以分解为以下结构片段：
+
+
+1. CCC：正丙基。
+2. (Cc1c(I)cc(I)c(N)c1I)：环丙基，其中有两个碘原子和一个氨基。
+3. C(=O)O：羰基酸。
+
+因此，'CCC(Cc1c(I)cc(I)c(N)c1I)C(=O)O' 包含正丙基、环丙基和羰基酸这些结构片段。"
+ClC1=CC=CC(Cl)=C1NC1=NCCN1,0,"'ClC1=CC=CC(Cl)=C1NC1=NCCN1' 包含以下结构片段:
+
+1. 苯环 (C1=CC=CC=C1): 包含一个六元环，由6个碳原子组成，每个碳原子上连接一个氢原子或一个氯原子。
+
+2. 氯代苯环 (ClC1=CC=CC(Cl)=C1): 这是一个氯代苯环，有两个氯原子取代苯环中的氢原子。
+
+3. 吡咯环 (NC1=NCCN1): 这是一个吡咯环，由一个氮原子和四个碳原子组成，两个氮原子之间通过一个碳碳双键连接。
+
+根据以上结构片段，'ClC1=CC=CC(Cl)=C1NC1=NCCN1' 可以解释为一个化合物，其中苯环和吡咯环通过氯代苯环相连。"
+CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C12,0,"根据SMILES表示法，'CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C12' 可以分解为以下结构片段：
+
+- 'CCC'：代表一个3碳直链烷基（烷烃）
+- '(C)(C)'：代表两个单独的甲基基团（烷烃）
+- 'C(=O)OC'：代表一个酯基团
+- '1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C12'：复杂的环状结构片段，含有烷烃、烯烃、芳香烃、羟基和酯键等。
+
+所以，'CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C12' 包含的结构片段有3碳直链烷基（'CCC'）、甲基基团（'(C)(C)'）、酯基团（'C(=O)OC'）和复杂的环状结构片段（'1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C12'）。"
+NS(=O)(=O)c1cc2c(cc1Cl)N=C(CSCc3ccccc3)NS2(=O)=O,0,"'NS(=O)(=O)c1cc2c(cc1Cl)N=C(CSCc3ccccc3)NS2(=O)=O'中包含的结构片段有以下几个：
+
+1. NS(=O)(=O)：亚硝基酰基（nitroso sulfonyl）。
+2. c1cc2c(cc1Cl)：苯环上有一个氯原子的芳香环。
+3. N=C：假设引入缩写N=C，表示该结构中的一个脱质子后的亚胺官能团（imine）。
+4. (CSCc3ccccc3)：嵌套在CSC和NS2之间的一个碳链及其上面的苯环。
+5. NS2(=O)=O：磺酰基（Sulfonyl）。
+"
+[H][C@@]1(NC(=O)CC2=CC=CS2)C(=O)N2C(C(O)=O)=C(COC(C)=O)CS[C@]12[H],0,"该结构包含以下结构片段：
+
+1. HC1: 环状结构片段1，含有一个碳原子和一个氮原子。
+
+2. NC(=O)CC2=CC=CS2: 含有一个氮原子和一个硫原子的取代苯环，连接有一个酰基和一个醇基。
+
+3. C(=O)N2: 含有一个酮基和一个氮原子的碳原子。
+
+4. C(O)=O: 含有一个羧酸基团的碳原子。
+
+5. COC(C)=O: 含有一个醚基和一个羧酸基团的碳原子。
+
+6. CS[C@]12[H]: 环状结构片段2，含有一个硫原子和两个碳原子。
+
+其中，'[H]'表示氢原子。"
+CCc1nc(N)nc(N)c1c2ccc(Cl)cc2,0,"'CCc1nc(N)nc(N)c1c2ccc(Cl)cc2' 包含以下结构片段:
+
+1. 'CC' - 代表两个甲基基团
+2. 'c1nc(N)nc(N)c1' - 代表一个咪唑环
+3. 'c2ccc(Cl)cc2' - 代表一个苯环上有一个氯原子的苯基团"
+CN(CCOc1ccc(NS(=O)(=O)C)cc1)CCc2ccc(NS(=O)(=O)C)cc2,0,"这个化合物包含了以下结构片段:
+
+- ""CN(CCOc""：甲胺基。
+- ""c1ccc(NS(=O)(=O)C)cc1""：苯环与连接到其上的氨基、亚磺酰基。
+- ""CCc2ccc(NS(=O)(=O)C)cc2""：烷基与另一个苯环，以及连接到它们上的氨基、亚磺酰基。"
+CN(C)CC(c1ccc(cc1)OC)C2(CCCCC2)O,0,"'CN(C)CC(c1ccc(cc1)OC)C2(CCCCC2)O' 包含以下结构片段：
+
+1. CN(C): 胺基（amine）
+2. CC: 烷烃链（alkane）中的碳链
+3. (c1ccc(cc1)OC): 苯环（benzene ring）上连接有一个乙氧基（ethoxy）基团
+4. C2(CCCCC2): 环戊烷（cyclopentane）环
+5. O: 氧原子"
+CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N2C3CCCCC3CC2C(=O)O,0,"'CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N2C3CCCCC3CC2C(=O)O'包含以下结构片段：
+
+1. 'CCOC(=O)C': 丁酯侧链
+2. '(CCc1ccccc1)': 苯环
+3. 'NC(C)C(=O)': 氨基酸
+4. 'N2C3CCCCC3CC2': 环状结构
+5. '(=O)O': 羧基"
+CCCCCCCCCCCCCCCC(=O)OCC(NC(=O)C(Cl)Cl)C(O)c1ccc(cc1)[N+](=O)[O],0,"'CCCCCCCCCCCCCCCC(=O)OCC(NC(=O)C(Cl)Cl)C(O)c1ccc(cc1)[N+](=O)[O]' 包含以下结构片段：
+
+1. CCCC：正丁基（四个碳原子构成的链状结构）
+2. (=O)：酰基（具有双键氧原子）
+3. OCC：乙二醇基（乙二醇分子中的两个碳原子构成的链状结构）
+4. (NC(=O)C(Cl)Cl)：甲磺酰氯基（含有一个氮原子和两个氯原子的磺酰氯化合物）
+5. C(O)：羟基（氧原子和碳原子的键结构）
+6. c1ccc(cc1)：苯环（具有6个碳原子的环形结构）
+7. [N+](=O)[O]：亚硝基（含有一个氮原子和两个氧原子的离子结构）
+"
+CCC(=C(CC)c1ccc(O)cc1)c2ccc(O)cc2,0,"该分子结构含有以下结构片段：
+- 1个乙烯基基团（CCC=C）
+- 1个羟基苯环（c1ccc(O)cc1）
+- 2个苯环（c1ccc(O)cc1 和 c2ccc(O)cc2）"
+CC(C)C(NC(=O)N(C)Cc1csc(n1)C(C)C)C(=O)NC(CC(O)C(Cc2ccccc2)NC(=O)OCc3cncs3)Cc4ccccc4,0,"1. CC(C)C: 此片段表示一个烷基链，其中CC表示两个碳原子的直接连接，C表示一个单独的碳原子连接到烷基链上。
+2. NC(=O)N(C)Cc1csc(n1)C(C)C: 此片段表示一个含有噻唑环（Cc1csc(n1)）的肽链，其中NC(=O)N(C)表示胺基酸的一部分，Cc1csc(n1)表示噻唑环，C(C)C表示烷基链。
+3. C(=O)NC(CC(O)C(Cc2ccccc2)NC(=O)OCc3cncs3): 此片段表示一个含有多个肽链的分子，其中C(=O)NC表示胺基酸的一部分，CC(O)C(Cc2ccccc2)NC(=O)OCc3cncs3表示另一个肽链和一个噻唑环。
+4. Cc4ccccc4: 此片段表示一个芳香环，其中Cc4ccccc4表示一个苯环。"
+CC(C(c1ccc(cc1)O)O)N2CCC(CC2)Cc3ccccc3,0,"'CC(C(c1ccc(cc1)O)O)N2CCC(CC2)Cc3ccccc3' 包含以下结构片段：
+
+- CC: 两个连续的碳原子，表示一个碳链。
+- C(c1ccc(cc1)O)O: 一个苯环（c1ccc(cc1)）上连接了一个氢原子的碳原子，然后连接了一个氧原子。
+- N2: 表示两个连续的氮原子。
+- CCC: 三个连续的碳原子，表示一个碳链。
+- CC2: 两个连续的碳原子，表示一个碳链。
+- Cc3ccccc3: 一个苯环（c3ccccc3）上连接了一个碳原子。
+
+结构片段的描述可以根据需要进行更详细和精确的定义，但上述是基本的结构片段。"
+Cc1ncc([N+](=O)[O])n1CCO,0,"'Cc1ncc([N+](=O)[O])n1CCO'包含以下结构片段：
+
+1. 'Cc' 表示一个乙基基团
+2. 'ncc' 表示一环丙胺基团
+3. '([N+](=O)[O])' 表示一个亚硝基团，其中 '[N+]' 表示带正电荷的氮原子，'(=O)' 表示带有双键氧的功能团，'[O]' 表示一个氧原子
+4. 'n1' 表示一个氮杂环，其中 '1' 表示这个氮原子被编号为1
+5. 'CCO' 表示一个甲基和两个氢原子的组合"
+CCN1CCCC1CNC(=O)c2cc(ccc2OC)S(=O)(=O)N,0,"'CCN1CCCC1CNC(=O)c2cc(ccc2OC)S(=O)(=O)N' 包含以下结构片段:
+
+1. 'CCN' - N-甲基基团
+2. '1CCCC1' - 环丁基环
+3. 'CNC(=O)' - 胺基甲酰基团
+4. 'c2cc(ccc2OC)' - 苯环
+5. 'S(=O)(=O)' - 磺酰基团
+6. 'N' - 氮原子
+
+这些结构片段可以帮助我们了解分子的化学性质和反应性。"
+OC1(CCN(CCCC(=O)C2=CC=C(F)C=C2)CC1)C1=CC=C(Cl)C=C1,0,"'OC1(CCN(CCCC(=O)C2=CC=C(F)C=C2)CC1)C1=CC=C(Cl)C=C1' 包含以下结构片段：
+1. OC1 - 醇基结构片段
+2. C1 - 环丙基结构片段
+3. CCN(CCCC(=O)C2=CC=C(F)C=C2)CC1 - 氨基甲基环戊烷乙酸酯结构片段
+4. CCCC(=O)C2=CC=C(F)C=C2 - 酮基苯环结构片段
+5. C1=CC=C(Cl)C=C1 - 氯代苯环结构片段"
+NNc1nncc2ccccc12,0,"'NNc1nncc2ccccc12'包含以下结构片段：
+
+- ""NN""：表示两个N原子之间的连接
+- ""c1nncc""：表示环结构1，其中包含一个N原子和四个C原子
+- ""cc2ccccc""：表示环结构2, 其中包含一个C原子和五个C原子
+- ""12""：表示两个环结构之间的连接"
+NC(Cc1ccc(cc1)N(CCCl)CCCl)C(=O)O,0,"'NC(Cc1ccc(cc1)N(CCCl)CCCl)C(=O)O' 包含以下结构片段：
+
+1. N-甲基胺基 (NC)
+2. 二氯代碳（CCCl）
+3. 二氯代(1,2-乙二基) （CCCl）
+4. 苯环（Cc1ccc(cc1)）
+5. 羰基（C(=O)O）"
+CCN(CCO)CCn1c(Cc2ccccc2)nc3N(C)C(=O)N(C)C(=O)c13,0,"'CCN(CCO)CCn1c(Cc2ccccc2)nc3N(C)C(=O)N(C)C(=O)c13'包含以下结构片段：
+
+1. 'CC' - 代表两个甲基基团。
+2. 'N(CCO)CC' - 代表一个二乙醇胺基团。
+3. 'n1c(Cc2ccccc2)nc3' - 代表一个吡咯环和连接着一个苯环的侧链。
+4. 'N(C)C(=O)N(C)C(=O)c1' - 代表一个肽链，其中含有两个甲基基团和两个酰胺基团。
+
+结构片段的数字表示不同的碳原子或氮原子的连接顺序。"
+C1CN=C(NC(C2CC2)C3CC3)O1,0,"""C1CN=C(NC(C2CC2)C3CC3)O1""包含以下结构片段：
+
+1. ""C1"": 单个碳原子
+2. ""C2CC2"": 一个环状碳链
+3. ""NC(C2CC2)C3CC3"": 包含一个氮原子、一个连接到环状碳链的碳原子和一个连接到另一个环状碳链的碳原子的碳链
+4. ""C3CC3"": 一个环状碳链
+5. ""NC(C2CC2)C3"": 存在于碳链中的一个氮原子和两个连接到环状碳链的碳原子的碳链"
+COC(=O)Nc1nc2cc(ccc2[nH]1)C(=O)c3ccccc3,0,"根据SMILES表示法可以将化学结构分解为各个结构片段。根据给出的SMILES字符串，可以将'COC(=O)Nc1nc2cc(ccc2[nH]1)C(=O)c3ccccc3'分解如下：
+
+1. COC(=O)N：这是一个酰胺结构片段，其中含有酯键和酰胺基团。
+
+2. c1nc2cc(ccc2[nH]1)：这是一个噻吩结构片段，其中含有一个五元的噻吩环和苯环。
+
+3. C(=O)c3ccccc3：这是一个苯甲酸结构片段，其中含有苯环和一个羧基。
+
+所以，该SMILES字符串包含一个酰胺结构、一个噻吩结构和一个苯甲酸结构。"
+OCC(CO)NC1CC(O)(CO)C(O)C(O)C1O,0,"结构片段是化合物中可以单独识别出来的一段化合物结构。根据提供的化合物' 
+
+OCC(CO)NC1CC(O)(CO)C(O)C(O)C1O'，可以识别出以下结构片段：
+
+1. C(CO)N - 代表一个N-甲基乙醇胺的结构。
+2. C1CC(O)C(O)C(O)C1 - 代表一个环状的五碳糖结构，可能是葡萄糖或其他类似的糖分子。
+3. CO - 代表一个羟基甲基的结构。
+4. C(O) - 代表一个羟基的结构。
+5. C(O)C - 代表一个羟基乙基的结构。
+
+以上是一些可以在提供的化合物中识别出的结构片段，但这不是一个详尽的列表。化合物中可能还有其他更小的结构片段。"
+c1cc(ccc1N2CCCCS2(=O)=O)S(=O)(=O)N,0,"'c1cc(ccc1N2CCCCS2(=O)=O)S(=O)(=O)N' 包含以下结构片段：
+
+1. 'c1ccccc1': 芳香环结构。
+2. 'N': 氮原子。
+3. '2CCCC': 4个碳原子组成的链状结构。
+4. 'S': 硫原子。
+5. '(=O)=O': 两个氧原子连接的酸酐结构。
+6. 'S(=O)(=O)N': 硫酸酰胺结构。"
+CCOc1cc(CC(=O)NC(CC(C)C)c2ccccc2N3CCCCC3)ccc1C(=O)O,0,"'CCOc1cc(CC(=O)NC(CC(C)C)c2ccccc2N3CCCCC3)ccc1C(=O)O' 包含以下结构片段：
+
+1. 'CCOc1cc(CC(=O)NC(CC(C)C)c2ccccc2N3CCCCC3)ccc1' - 这是一个取代苯环，有一个缺失的羟基和一个取代基'CC(=O)NC(CC(C)C)c2ccccc2N3CCCCC3'。
+
+2. 'CC(=O)NC(CC(C)C)c2ccccc2N3CCCCC3' - 这是一个酰胺基团'NC(CC(C)C)c2ccccc2N3CCCCC3'，取代在一个酮基上，该酮基还连接一个碳链。
+
+3. 'CC(C)C' - 这是一个取代的异丙基基团。
+
+综上所述，'CCOc1cc(CC(=O)NC(CC(C)C)c2ccccc2N3CCCCC3)ccc1C(=O)O' 包含一个取代的苯环，一个酰胺基团和一个异丙基基团。"
+CC1(C)SC2C(NC(=O)C(N)c3ccccc3)C(=O)N2C1C(=O)OCOC(=O)C4N5C(CC5=O)S(=O)(=O)C4(C)C,0,"1. CC1(C)SC2C(NC(=O)C(N)c3ccccc3)C(=O)N2C1C(=O): 这部分结构片段是环状的，包含硫原子和氧原子，并且连接着多个碳原子和氮原子。
+
+2. c3ccccc3: 这部分结构片段是一个芳香环，包含六个碳原子，每个碳原子上都连接着一个氢原子。
+
+3. OCOC(=O): 这部分结构片段是两个羧酸酯基团，通过一个氧原子连接着。
+
+4. C4N5C(CC5=O)S(=O)(=O)C4(C)C: 这部分结构片段是一个环状的硫代嘧啶化合物，其中包含一个硫原子、多个碳原子和氮原子，以及多个氧原子和氢原子。"
+C[N+]1(C)CCCC(C1)OC(=O)C(O)(c2ccccc2)c3ccccc3,0,"根据IUPAC命名规则，结构'C[N+]1(C)CCCC(C1)OC(=O)C(O)(c2ccccc2)c3ccccc3'可以分解为以下结构片段：
+
+1. 烷基链：'C[N+]1(C)CCCC(C1)' 表示一个四碳链上有一个氮原子的烷基链。
+2. 酯基：'OC(=O)' 表示一个含有酯基的官能团。
+3. 苯环：'(c2ccccc2)' 和 '(c3ccccc3)' 分别表示两个苯环。
+4. 羟基：'C(O)' 表示一个羟基官能团。
+
+综上所述，结构'C[N+]1(C)CCCC(C1)OC(=O)C(O)(c2ccccc2)c3ccccc3' 包含一个烷基链、一个酯基、两个苯环和一个羟基。"
+Nc1nc(NC2CC2)c3ncn(C4CC(CO)C=C4)c3n1,0,"'Nc1nc(NC2CC2)c3ncn(C4CC(CO)C=C4)c3n1' 包含以下结构片段：
+
+1. 'Nc1nc(NC2CC2)' - 这是一个嘧啶类环结构，含有一个胺基。
+
+2. 'c3ncn(C4CC(CO)C=C4)c3n' - 这是一个嘌呤类环结构，含有两个氮原子和两个嘧啶类环结构。在其中的一个嘧啶类环结构上，有一个与环连接的苯环（C4CC(CO)C=C4）。
+
+因此，'Nc1nc(NC2CC2)c3ncn(C4CC(CO)C=C4)c3n1' 包含嘧啶类环结构、嘌呤类环结构和苯环。"
+N#Cc1ccc(cc1)C(c2ccc(cc2)C#N)n3cncn3,0,"'N#Cc1ccc(cc1)C(c2ccc(cc2)C#N)n3cncn3' 包含以下结构片段：
+
+- C#N (氰基)
+- c1ccc(cc1) (芳香环)
+- n3cncn3 (嘧啶环)"
+CC(C)CC1Nc2cc(Cl)c(cc2S(=O)(=O)N1)S(=O)(=O)N,0,"'CC(C)CC1Nc2cc(Cl)c(cc2S(=O)(=O)N1)S(=O)(=O)N'包含以下结构片段：
+
+1. 'C'代表一个碳原子。
+2. 'CC'代表两个相连的碳原子。
+3. '(C)'代表一个甲基基团，其中一个碳原子与主链上的碳原子相连。
+4. '1'代表一个氮原子，它与主链上的碳原子相连。
+5. 'c'代表一个芳香环的碳原子。
+6. '(c(cc2S(=O)(=O)N1))'代表一个苯环，其中'S(=O)(=O)N1'是一个取代基。
+7. 'S'代表一个硫原子。
+8. '(=O)'代表一个酰基，其中一个氧原子与主链上的硫原子相连。
+9. 'N'代表一个氮原子。
+10. '()'括号代表所组成的一个取代基。
+
+总结：'CC(C)CC1Nc2cc(Cl)c(cc2S(=O)(=O)N1)S(=O)(=O)N' 包含一个甲基基团，一个苯环取代基，一个酰基，一对硫原子和一个氮原子。"
+CN1C2=C(C=C(Cl)C=C2)N(C2=CC=CC=C2)C(=O)CC1=O,0,"分子'CN1C2=C(C=C(Cl)C=C2)N(C2=CC=CC=C2)C(=O)CC1=O'包含以下结构片段：
+
+1. CN：乙醇胺基团；
+2. C1C2=C(C=C(Cl)C=C2)N：四氢嘧啶环；
+3. (C2=CC=CC=C2)：苯环；
+4. C(=O)：酰基团；
+5. CC1=O：乙酸酯基团。
+
+这些结构片段共同组成了复杂的有机化合物。"
+CC(C)C1CCC(CC1)C(=O)NC(Cc2ccccc2)C(=O)O,0,"1. CC(C)C - 含有一个甲基和两个乙基的碳链。
+2. 1CCC(CC1) - 带有一个环的碳链，环上有四个碳原子。
+3. C(=O)NC - 包含一个酰基和一个氮原子的胺基团。
+4. (Cc2ccccc2) - 含有一个芳香环和一个氨基丙基侧链。
+5. C(=O)O - 包含一个羧基的酸基团。"
+CCOC(=O)c1c(CSc2ccccc2)n(C)c3cc(Br)c(O)c(CN(C)C)c13,0,"这个分子包含以下结构片段：
+
+1. 羧酸（-COOH）
+2. 咪唑环（imidazole ring）
+3. 硫醚（thioether）
+4. 苯环（benzene ring）
+5. 溴代烷（bromoalkane）
+6. 酚（phenol）
+7. 次甲胺（secondary amine）
+8. 丙烯酰基（acryloyl group）
+
+请注意，这只是粗糙地列举了一些显著的结构片段，并不意味着列出了该分子的所有可能结构片段。"
+CN1CCN(CC1)CCCN2c3ccccc3Sc4c2cc(cc4)C(F)(F)F,0,"'CN1CCN(CC1)CCCN2c3ccccc3Sc4c2cc(cc4)C(F)(F)F'中包含以下结构片段：
+
+1. 'CN1CCN(CC1)CCCN'：氮杂环丙基取代基
+
+2. '2c3ccccc3'：苯环
+
+3. 'Sc4c2cc(cc4)'：硫杂环己基取代基
+
+4. 'C(F)(F)F'：三氟甲基取代基"
+CNC(C)C(O)c1ccc(O)cc1,0,"'CNC(C)C(O)c1ccc(O)cc1'包含以下结构片段：
+
+- CN-C
+- C-C-C
+- C-O
+- C-C
+- O-c1ccc(O)cc1
+- c1ccc(O)cc1"
+CCCCC1=NC2(CCCC2)C(=O)N1Cc3ccc(cc3)c4ccccc4c5nnn[nH]5,0,"'CCCCC1=NC2(CCCC2)C(=O)N1Cc3ccc(cc3)c4ccccc4c5nnn[nH]5' 包含以下结构片段：
+
+1. CCCCC: 五个碳原子构成的直链烷基基团。
+2. 1=NC2(CCCC2)C(=O)N1: 1,2-二氮杂环己烷酮结构，其中氮原子与两个碳原子相连。
+3. Cc3ccc(cc3): 芳香环基团，其中碳原子形成苯环。
+4. c4ccccc4: 芳香环基团，其中碳原子形成苯环。
+5. c5nnn[nH]5: 五元杂环结构，其中有一个氮原子和四个碳原子组成。
+
+以上是根据给定的化学式分析可能包含的结构片段，具体情况还需根据化学实验或其他方法进行确认。"
+CC(=CC=CC(=CC(=O)O)C)C=CC1=C(C)CCCC1(C)C,0,"该化合物包含以下结构片段：
+1. CC(=CC=CC(=CC(=O)O)C)C：乙烯基侧链
+2. CC=CC(=CC(=O)O)C：环状芳香酮结构
+3. C=CC1=C(C)CCCC1(C)C：环状碳氢化合物结构"
+CCC(=O)c1ccc2c(c1)N(c3ccccc3S2)CCCN4CCN(CC4)CCO,0,"该分子包含以下结构片段：
+
+1. CCC(=O) - 该片段是一个酮基，表示一个羰基与三个碳原子的醇基的组合。它位于分子的开头。
+
+2. c1ccc2c(c1) - 该片段表示一个芳香环，其中两个苯环通过一个碳-碳单键相连。
+
+3. N(c3ccccc3S2) - 该片段表示一个芳香环上连接着一个硫原子和一个氮原子的基团。
+
+4. CCCN4CCN(CC4) - 该片段表示一个含有两个氨基和两个酯基的环。
+
+5. CCO - 该片段表示一个醇基，连接在上述环结构之后。
+
+因此，'CCC(=O)c1ccc2c(c1)N(c3ccccc3S2)CCCN4CCN(CC4)CCO'分子包含以上这些结构片段。"
+CCOC(=O)C(CCc1ccccc1)NC2CCc3ccccc3N(CC(=O)O)C2=O,0,"'CCOC(=O)C(CCc1ccccc1)NC2CCc3ccccc3N(CC(=O)O)C2=O' 包含一下结构片段：
+
+1. CCOC(=O)C- 包含一个乙基氧羰基(acetyl ester)基团。
+2. CCc1ccccc1- 包含一个苯基(benzyl)基团。
+3. NC2CCc3ccccc3N- 包含一个二氮杂环(heterocycle)基团，其中包括一个咪唑(imidazole)环和一个咪唑啉(imidazolidine)环。
+4. CC(=O)O- 包含一个乙酰基(acetyl)基团和一个羧酸(carboxylic acid)基团。
+
+请注意，这些结构片段是根据SMILES表示法进行识别的。"
+CCOC(=O)c1ccc(N)cc1,0,"'CCOC(=O)c1ccc(N)cc1' 包含以下结构片段：
+
+1. 'CC': 两个碳原子组成的烷基(Alkyl)链。
+2. 'OC(=O)': 酯(Ester)基团，其中含有一个氧原子和一个碳氧化合物化学键(=O)。
+3. 'c1ccc(N)cc1': 苯(Benzene)环，其中一个氢原子被氨基(NH2)取代。"
+CN(C)CCc1c[nH]c2c1cc(cc2)Cn3cncn3,0,"'CN(C)CC' 包含氮原子和碳原子的一段结构
+'c1c[nH]c2c1cc(cc2)' 包含吡啶环和苯环的一段结构
+'Cn3cncn3' 包含两个苯环连接的一段结构"
+[H][C@@]1(CC[C@@]2([H])[C@]3([H])CCC4=CC(=O)CC[C@]4(C)[C@@]3([H])[C@@]([H])(O)C[C@]12C)C(=O)CO,0,"'[H][C@@]1(CC[C@@]2([H])[C@]3([H])CCC4=CC(=O)CC[C@]4(C)[C@@]3([H])[C@@]([H])(O)C[C@]12C)C(=O)CO'包含以下结构片段：
+
+- [H][C@@]1(CC[C@@]2([H])[C@]3([H])CCC4=CC(=O)CC[C@]4(C)[C@@]3([H])[C@@]([H])(O)C[C@]12C): 这是一个环糖核，有一系列立体配置的原子。
+- CC[C@@]2([H]): 这是一个顺式烷基链。
+- [C@@]3([H])CCC4=CC(=O)CC[C@]4(C): 这是一个环环相接的结构，其中包含一个羰基基团。
+- [C@@]([H])(O): 这是一个羟基团。
+- C[C@]12C: 这是一个环环相接的结构。"
+CC(N)C(=O)Nc1c(C)cccc1C,0,"'CC(N)C(=O)Nc1c(C)cccc1C' 包含以下结构片段:
+1. CC(N)C(=O)N - 代表一个酰胺基团。
+2. c1c(C)cccc1 - 代表一个取代了苯环的芳香环。
+3. C - 代表一个甲基。
+总结: 'CC(N)C(=O)Nc1c(C)cccc1C' 包含一个酰胺基团、一个取代了苯环的芳香环和一个甲基。"
+CN(C)CCC=C1C=C2C=CC=CC2=Cc3ccccc13,0,"'CN(C)CCC=C1C=C2C=CC=CC2=Cc3ccccc13'包含以下结构片段：
+
+- CN(C)CCC：脂肪胺基（N-甲基-N-环丙基乙胺）
+- CCC=C：烯丙基
+- 1C=C2C=CC=CC2=C：苯环
+- c3ccccc13：苯环
+
+综上所述，该分子包含脂肪胺基、烯丙基和苯环的结构片段。"
+CCN(CC)Cc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O,0,"'CCN(CC)Cc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O' 包含以下结构片段：
+
+1. 'CCN' - 乙基胺基团；
+2. '(CC)' - 二甲胺基团；
+3. 'Cc1cc' - 碳链上的芳香环；
+4. '(Nc2ccnc3cc(Cl)ccc23)' - 含有氮杂环和氯取代的芳香环；
+5. 'ccc1' - 碳链上的芳香环；
+6. 'O' - 羟基团。
+
+这些结构片段可以通过分析化合物的结构来确定。"
+CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC3OC(C)CC(C3O)N(C)C)C(C)(O)CC(C)C4NC(COCCOC)OC(C4C)C1(C)O,0,"'CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC3OC(C)CC(C3O)N(C)C)C(C)(O)CC(C)C4NC(COCCOC)OC(C4C)C1(C)O'包含以下结构片段：
+
+1. 'CCC'：丙基链。
+2. '1OC(=O)C(C)'：羧酸酯基团。
+3. 'OC2CC(C)(OC)C(O)C(C)O2'：环状结构，含有羟基和甲基。
+4. 'C(C)C'：丙基链。
+5. 'OC3OC(C)CC(C3O)N(C)C'：环状结构，含有氮原子和氧原子。
+6. 'C(C)(O)CC(C)C'：丙基链。
+7. 'C4NC(COCCOC)OC(C4C)C'：环状结构，含有氮原子和氧原子，丙基链和氧化链。
+8. '(C)O'：醇基团。"
+NCC1OC(OC2C(N)CC(N)C(OC3OC(CO)C(O)C(N)C3O)C2O)C(O)C(O)C1O,0,"'NCC1OC(OC2C(N)CC(N)C(OC3OC(CO)C(O)C(N)C3O)C2O)C(O)C(O)C1O' 包含以下结构片段：
+
+1. 'N' ：一端连接氮原子的碳链。
+2. 'CC1' ：一段连接两个碳原子的链。
+3. 'OC' ：连接一个氧原子和一个碳原子的链。
+4. 'C2' ：连接两个碳原子的链。
+5. '(N)' ：一个连接氮原子的链。
+6. 'C(N)' ：连接碳原子和氮原子的链。
+7. '(OC3OC(CO)C(O)C(N)C3O)' ：连接多个氧原子和碳原子的链。
+8. 'C(O)' ：连接碳原子和氧原子的链。
+9. 'C(O)C1' ：连接一个碳原子和一个碳原子的链。
+10. 'C1' ：一个连接碳原子的链。
+11. 'C(O)C(O)' ：连接两个碳原子和两个氧原子的链。
+12. 'C(O)' ：连接碳原子和氧原子的链。
+13. 'C1' ：一个连接碳原子的链。
+14. 'O' ：一个氧原子。
+
+以上就是分析出的结构片段，每个片段都是链状的连接。"
+[H][C@@]1(CC[C@]2(O)[C@]3([H])CCC4=C[C@]([H])(CC[C@]4(C)[C@@]3([H])CC[C@]12C)O[C@]1([H])O[C@@]([H])(C)[C@]([H])(O)[C@@]([H])(O)[C@@]1([H])O)C1=COC(=O)C=C1,0,"[H][C@@]1(CC[C@]2(O)[C@]3([H])CCC4=C[C@]([H])(CC[C@]4(C)[C@@]3([H])CC[C@]12C)O[C@]1([H])O[C@@]([H])(C)[C@]([H])(O)[C@@]([H])(O)[C@@]1([H])O)C1=COC(=O)C=C1 包含以下结构片段：
+
+1. [H][C@@]1 - 代表一个立体中心，它是以[正向顺时针方向]环绕1号碳原子的。
+2. (CC[C@]2(O)[C@]3([H])CCC4=C[C@]([H])(CC[C@]4(C)[C@@]3([H])CC[C@]12C)O[C@]1([H])O[C@@]([H])(C)[C@]([H])(O)[C@@]([H])(O)[C@@]1([H])O) - 这个括号内的结构表示一整个复杂的环烷化合物，包含多个环和立体中心。
+3. C1=COC(=O)C=C1 - 这个结构链包含了一个芳香环。
+4. O[C@]1([H])O - 这个结构链代表一个连接在一起的两个氧原子。
+5. [C@@]([H])(O) - 这个结构代表一个立体中心，它是以[反向逆时针方向]环绕一个氧原子的。
+6. [C@@]1([H])O - 这个结构代表一个立体中心，它是以[反向逆时针方向]环绕一个碳原子的。
+7. [C@@]([H])(O)[C@@]([H])(O)[C@@]1([H])O - 这个结构链代表多个连接在一起的立体中心和氧原子。
+
+以上是一些比较显著的结构片段，可能还有其他较小的结构片段被遗漏。"
+CCCN(CCC)C(=O)C(CCC(=O)O)NC(=O)c1ccccc1,0,"'CCCN(CCC)C(=O)C(CCC(=O)O)NC(=O)c1ccccc1' 包含以下结构片段：
+
+- CCC：丙基基团
+- N(CCC)C：生理活性分子组成的亚胺，通常称为一肌胺(methylamine)组
+- (=O)C：酮基团
+- (CCC(=O)O)NC(=O)：肽链的核心结构
+- c1ccccc1：苯环
+- 其中包含一个苯环和一个酮基团的芳香化合物
+
+注意：以上所列结构片段是基于分子式推断，并且没有考虑具体的立体结构。实际上，该化合物的结构应由具有特定化学键的原子组成。"
+CN(C)c1nc(nc(n1)N(C)C)N(C)C,0,"'CN(C)c1nc(nc(n1)N(C)C)N(C)C'包含以下结构片段：
+
+1. 'CN'：乙基胺基团。
+2. '(C)'：甲基基团。
+3. 'c1nc(nc(n1)'：嘌呤环（包含1个氮原子和2个氧原子）。
+4. 'N(C)C'：N,N-二甲基胺基团。
+5. '(C)'：甲基基团。
+
+综上所述，该分子包含乙基胺基团、甲基基团、嘌呤环和N,N-二甲基胺基团等结构片段。"
+OC(=O)C1=CC=CC=C1O,0,"结构分析结果如下：
+
+- OC(=O)C：酯基（Ester group）
+- =O：羰基（Carbonyl group）
+- C1=CC=CC=C1：苯环（Phenyl ring）
+- O：羟基（Hydroxyl group）"
+COc1ccc2c(c1)c(CC(=O)OCC=C(C)CCC=C(C)CCC=C(C)C)c(C)n2C(=O)c3ccc(Cl)cc3,0,"根据提供的化学式，'COc1ccc2c(c1)c(CC(=O)OCC=C(C)CCC=C(C)CCC=C(C)C)c(C)n2C(=O)c3ccc(Cl)cc3' 包含以下结构片段：
+
+1. COc1ccc2c(c1)：芳香环，由苯环和甲氧基（OCH3）基团组成。
+2. c(CC(=O)OCC=C(C)CCC=C(C)CCC=C(C)C)：乙酰基（CC(=O)）和多个双键（C=C）构成的碳链。
+3. n2：芳香氮杂环。
+4. c3ccc(Cl)cc3：芳香环，由苯环和氯（Cl）基团组成。
+
+综上所述，该化学式包含苯环、甲氧基、乙酰基、双键、氮杂环和氯基团等多个结构片段。"
+CN(C)CCC=C1c2ccccc2CCc2ccccc21,0,"'CN(C)CCC=C1c2ccccc2CCc2ccccc21'包含以下结构片段：
+
+- CN(C): 氨基甲基（secondary amine）
+- CCC: 烷基链（propyl chain）
+- C=C: 双键（double bond）
+- 1c2ccccc2: 苯环（benzene ring）
+- CC: 烷基链（ethyl chain）
+- c2ccccc2: 苯环（benzene ring）
+- 1: 索引号，表示第一个苯环的位置
+
+因此，它包含一个氨基甲基、一个烷基链、一个双键和两个苯环。"
+CS(=O)(=O)c1ccc(cc1)C(O)C(CO)NC(=O)C(Cl)Cl,0,"CS(=O)(=O)c1ccc(cc1): 苯环上有亚砜基 (SO2)
+C(O): 醇基 (OH)
+C(CO): 乙醇基 (CH2OH)
+NC(=O): 酰胺基 (CONH)
+C(Cl)Cl: 氯代甲烷基 (CH2Cl)"
+Cc1c(OCC(F)(F)F)ccnc1CS(=O)c2nc3ccccc3[nH]2,0,"'Cc1c(OCC(F)(F)F)ccnc1CS(=O)c2nc3ccccc3[nH]2' 包含以下结构片段:
+
+1. 'Cc1c(OCC(F)(F)F)ccnc1' - 环己基结构
+2. 'CS(=O)c2' - 亚砜基结构
+3. 'nc3ccccc3' - 苯环结构
+4. '[nH]2' - 含氮杂环结构"
+COc1cc(ccc1Cc2cn(C)c3ccc(NC(=O)OC4CCCC4)cc23)C(=O)NS(=O)(=O)c5ccccc5C,0,"'COc1cc(ccc1Cc2cn(C)c3ccc(NC(=O)OC4CCCC4)cc23)C(=O)NS(=O)(=O)c5ccccc5C'分子中包含以下结构片段：
+
+1. COc1ccccc1：苯环上连接有一个甲氧基的苯环。
+
+2. c2cn(C)c3ccc(NC(=O)OC4CCCC4)cc23：含氮杂环（噻吩）连接有苯环和取代苯环的结构。
+
+3. NC(=O)OC4CCCC4：脲基（CONH）连接有一个环状酯基（环戊酯）。
+
+4. c23：苯环上取代的取代基。
+
+5. (=O)NS(=O)(=O)c5ccccc5C：硫酰基（SO2）连接有一个苯环和取代苯环的结构。
+
+请注意，这只是分子中的一些结构片段，并不包含所有的结构片段。"
+CC(C)(C)NC(=O)C1CCC2C3CCC4NC(=O)C=CC4(C)C3CCC12C,0,"'CC(C)(C)NC(=O)C1CCC2C3CCC4NC(=O)C=CC4(C)C3CCC12C' 包含以下结构片段：
+
+1. CC(C)(C)NC(=O)C：代表一个二级胺，其中C代表一个碳原子，N代表一个氮原子，O代表一个氧原子，=O代表一个羰基，C代表一个碳原子。
+2. C1CCC2C3CCC4NC(=O)C=CC4(C)C3CCC12C：代表一个多环化合物，其中1、2、3、4代表环上的碳原子，NC表示二级胺，=O代表羰基，=CC代表共轭双键，(C)表示一个甲基基团。"
+CN(C)C1C2C(O)C3C(=C)c4cccc(O)c4C(=O)C3=C(O)C2(O)C(=O)C(=C1O)C(=O)N,0,"'CN(C)C1C2C(O)C3C(=C)c4cccc(O)c4C(=O)C3=C(O)C2(O)C(=O)C(=C1O)C(=O)N' 包含以下结构片段：
+
+- CN(C)C：氨基甲基基团
+- C1C2：环状碳原子1和2之间的连接
+- C(O)C3：羟基和碳原子3之间的连接
+- O：氧原子
+- C(=C)c4cccc(O)c4：共轭烯丙基基团
+- C(=O)C3=C(O)C2(O)C(=O)C(=C1O)C(=O)N：含有多个羟基和酮基的环状结构
+
+请注意，这只是对给定字符串的片段分析，具体的结构确定需要进一步的化学分析和信息。"
+CC(C)CN(CC(OP(=O)(O)O)C(Cc1ccccc1)NC(=O)OC2CCOC2)S(=O)(=O)c3ccc(N)cc3,0,"'CC(C)CN(CC(OP(=O)(O)O)C(Cc1ccccc1)NC(=O)OC2CCOC2)S(=O)(=O)c3ccc(N)cc3'包含以下结构片段：
+
+- CC(C)CN：脂肪链烷基胺基组
+- CC(OP(=O)(O)O)：磷酸单酯基（磷酸二酯）
+- C(Cc1ccccc1)：芳香环基
+- NC(=O)OC2CCOC2：酰胺骨架
+- S(=O)(=O)：磺酰基
+- c3ccc(N)cc3：芳香环基（含有胺基）"
+CNNCc1ccc(cc1)C(=O)NC(C)C,0,"'CNNCc1ccc(cc1)C(=O)NC(C)C' 包含以下结构片段：
+
+1. 'CCC'：乙基基团。
+2. 'CNC'：C-N-C 的连续碳氮碳链。
+3. 'C=O'：存在酮基的碳氧键。
+4. 'C1=CC=CC=C1'：苯环，也被称为芳香环。
+5. 'CC(NC(C))'：代表剩余的碳链和氨基。
+
+请注意，这些仅仅是我在给定的结构中识别到的一些片段，还可能存在其他不太明显的结构特征。"
+c1ccc(cc1)C2=NCc3nncn3c4c2cc(cc4)Cl,0,"'c1ccc(cc1)C2=NCc3nncn3c4c2cc(cc4)Cl'包含以下结构片段：
+
+1. 'c1ccc(cc1)': 这是一个芳香环，由六个碳原子和相应的氢原子组成。每个碳原子都与相邻的碳原子共享一个电子，形成一个环状结构。
+
+2. 'C2=NC': 这是一个三元环结构，由两个碳原子和一个氮原子组成。碳原子之间通过双键连接，并且氮原子与其中一个碳原子通过单键连接。
+
+3. 'c3nncn3': 这是一个芳香环，由五个原子组成。有两个氮原子和三个碳原子。氮原子和相邻的碳原子之间通过共轭键相连。
+
+4. 'c4c2cc(cc4)': 这是一个芳香环，由六个原子组成。有四个碳原子和两个氢原子。碳原子之间通过共轭键相连。
+
+5. 'Cl': 这是氯原子，表示一个单独的氯化合物。
+
+因此，'c1ccc(cc1)C2=NCc3nncn3c4c2cc(cc4)Cl'可以被分解为以上五个结构片段。"
+Cn1c2c(c(=O)n(c1=O)C)nc[nH]2,0,"该化合物'Сппецл6ллтты5ждьзжлдщж7ьтун2'包含以下结构片段：
+
+1. Cn1c2c(c(=O)n(c1=O)C)nc[nH]2：核苷酸片段
+2. c1c2c([nH]1)nc[nH]2：嘧啶环片段
+3. c(=O)n(c1=O)：酮基片段
+4. C：碳原子
+5. n：氮原子
+6. H：氢原子"
+ClC(Cl)C(c1ccc(Cl)cc1)c2ccccc2Cl,0,"'ClC(Cl)C(c1ccc(Cl)cc1)c2ccccc2Cl'包含以下结构片段：
+
+- Cl：氯原子
+- C(Cl)：氯取代的碳原子
+- C(c1ccc(Cl)cc1)：取代有苯环的碳原子
+- c1ccc(Cl)cc1：苯环其中一个碳原子上取代了氯原子
+- c2ccccc2：苯环
+- CC：两个相邻的碳原子
+- ClC(Cl)C：叶立德碳（tert-butyl碳）"
+NS(=O)(=O)C1=C(Cl)C=C(NCC2=CC=CO2)C(=C1)C(O)=O,0,"'NS(=O)(=O)C1=C(Cl)C=C(NCC2=CC=CO2)C(=C1)C(O)=O' 包含以下结构片段：
+
+- NS(=O)(=O): 磺酰亚氧基
+- C1=C(Cl): 双键的环状碳结构，其中一个碳原子上连接有氯原子
+- Cl: 氯原子
+- C=C: 双键的碳碳连接
+- (NCC2=CC=CO2): 包含有1个氮原子，连接有一个碳基团，而碳基团又连接有一个环状结构，其中一个碳原子上连接有醇基
+- C(=C1)C(O)=O: 包含有1个双键的碳基团，其中一个碳原子上连接有醇基，另一个碳原子连接有羧基"
+c1cc(c2c3c1CC4C5(C3(CCN4CC6CCC6)C(O2)C(CC5)O)O)O,0,"'c1cc(c2c3c1CC4C5(C3(CCN4CC6CCC6)C(O2)C(CC5)O)O)O' 包含以下结构片段：
+
+- c1cc(c2c3c1CC4C5(C3(CCN4CC6CCC6)C(O2)C(CC5)O)O)O
+
+- c2c3c1CC4C5(C3(CCN4CC6CCC6)C(O2)C(CC5)O
+
+- c3c1CC4C5(C3(CCN4CC6CCC6)C(O2)C(CC5)O
+
+- CCN4CC6CCC6
+
+- O2
+
+- CC5
+
+- N4
+
+- CC6
+
+- CCC6
+
+- O"
+COc1ccc(cc1)C(=O)Nc2ccccc2C(C)CN3CCCCC3,0,"COc1ccc(cc1)：苯环
+C(=O)N：酰胺
+c2ccccc2：苯环
+C(C)：甲基
+CN：胺
+3CCCCC3：环丙基"
+c1ccc2c(c1)CCc3ccccc3N2CCCN4CCC(CC4)(C(=O)N)N5CCCCC5,0,"'c1ccc2c(c1)CCc3ccccc3N2CCCN4CCC(CC4)(C(=O)N)N5CCCCC5'包含以下结构片段：
+
+1. c1ccc2c(c1) - 苯环结构
+
+2. CCc3ccccc3N2 - 联苯环结构
+
+3. CCCN4 - 丁基胺基团
+
+4. CC4 - 丁基碳链
+
+5. (C(=O)N) - 酰胺基团
+
+6. N5CCCCC5 - 环己基胺基团"
+CCC1(O)CCC2C3CCC4=CCCCC4C3CCC12C,0,"'CCC1(O)CCC2C3CCC4=CCCCC4C3CCC12C' 包含以下结构片段：
+
+- CCC：丙基基团
+- 1(O)：羟基取代的1号碳原子
+- CCC2：正丁基基团
+- C3CCC4：环状碳原子链
+- =CCCCC4：双键取代的环状碳原子链
+- C3CCC12：环状碳原子链
+- C：甲基基团"
+CNCCC=C1c2ccccc2CCc3c1cccc3,0,"'CNCCC=C1c2ccccc2CCc3c1cccc3'包含以下结构片段：
+
+1. CN - 乙基胺基基团
+2. CCC - 丁基碳链
+3. =C - 双键
+4. 1,2-环己二烯环
+5. cc - 芳香环上的两个碳原子
+6. ccc - 芳香环上的三个碳原子
+7. CC - 两个相邻的碳原子形成的碳链
+8. c1 - 芳香环上的一个碳原子
+9. c2 - 芳香环上的一个碳原子
+10. c3 - 芳香环上的一个碳原子
+
+希望对你有所帮助！"
+Cc1cccc(C)c1NC(=O)CN2CCN(CCCC(c3ccc(F)cc3)c4ccc(F)cc4)CC2,0,"该化合物的结构可以分成以下片段：
+
+1. Cc1cccc(C)c1：芳香环片段
+
+2. CN2CCN：二氮杂环片段
+
+3. CCCC：烷基链片段
+
+4. (c3ccc(F)cc3)：芳香环片段
+
+5. c4ccc(F)cc4：芳香环片段
+
+6. CC：烷基链片段
+
+综上所述，该化合物包含芳香环片段、二氮杂环片段和烷基链片段。"
+CCOC(=O)C1(CCN(C)CC1)C1=CC=CC=C1,0,"'CCOC(=O)C1(CCN(C)CC1)C1=CC=CC=C1' 包含以下结构片段：
+
+1. CC ：两个碳原子之间的单键。
+2. OC(=O) ：羧酸酯基团，包括一个碳氧双键和一个羧基。
+3. C1(CCN(C)CC1) ：哌嗪环，由一个氮原子和两个碳原子组成的环。
+4. 1=CC=CC=C1 ：苯环，由六个碳原子和六个氢原子组成的环。"
+CN(C)CCCN1C2=CC=CC=C2SC2=CC=CC=C12,0,"'CN(C)CCCN1C2=CC=CC=C2SC2=CC=CC=C12' 包含以下结构片段：
+1. CN(C)CCCN1C2=CC=CC=C2 - 这是一个四元环结构，其中第二个碳原子与氮原子相连，周围还有两个苯环和一个氮原子。
+2. 2=CC=CC=C2 - 这是一个苯环结构。
+3. SC2=CC=CC=C12 - 这是一个联苯环结构，其中有一个硫原子与一个苯环相连。
+4. =CC= - 这是一个双键结构，连接着两个苯环。
+
+总结：'CN(C)CCCN1C2=CC=CC=C2SC2=CC=CC=C12' 包含了四元环、苯环、联苯环和双键等结构片段。"
+NC1=NC(=O)N(C=C1)C2CCC(CO)O2,0,"根据SMILES表示法，'NC1=NC(=O)N(C=C1)C2CCC(CO)O2'包含以下结构片段：
+
+1. 'NC1=NC(=O)N'：代表含有一个吡咯环和一个尿素的结构。
+2. '(C=C1)'：代表一个含有一个双键的环状结构。
+3. 'C2CCC'：代表一个含有四个碳原子的环状结构。
+4. '(CO)'：代表一个氢氧基（羟基）的结构。
+
+综上所述，'NC1=NC(=O)N(C=C1)C2CCC(CO)O2' 包含吡咯环、尿素、双键环状结构、四碳环状结构和羟基等多个结构片段。"
+NC(=O)CCC1NC(=O)C(Cc2ccccc2)NC(=O)C(Cc3ccc(O)cc3)NC(=O)CCSSCC(NC(=O)C(CC(=O)N)NC1=O)C(=O)N4CCCC4C(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)N,0,"'NC(=O)CCC1NC(=O)C(Cc2ccccc2)NC(=O)C(Cc3ccc(O)cc3)NC(=O)CCSSCC(NC(=O)C(CC(=O)N)NC1=O)C(=O)N4CCCC4C(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)N'包含以下几个结构片段：
+
+- 'NC(=O)CCC1NC(=O)C(Cc2ccccc2)'：这是一个肽链片段。
+- 'NC(=O)C(Cc3ccc(O)cc3)'：这是另一个肽链片段。
+- 'NC(=O)CCSSCC(NC(=O)C(CC(=O)N)NC1=O)'：这是一个二硫键桥连接的肽链片段。
+- 'C(=O)N4CCCC4C(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)N'：这是一个小分子片段，可能是一个结构未知的化合物或配体。"
+CCCc1nc(c(C(=O)OCC2=C(C)OC(=O)O2)n1Cc3ccc(cc3)c4ccccc4c5nnn[nH]5)C(C)(C)O,0,"'CCCc1nc(c(C(=O)OCC2=C(C)OC(=O)O2)n1Cc3ccc(cc3)c4ccccc4c5nnn[nH]5)C(C)(C)O' 包含以下结构片段：
+
+1. 'CCCC'： 代表正丁基。
+2. 'c1nc(c(C(=O)OCC2=C(C)OC(=O)O2)n1'： 代表吡啶环。
+3. 'Cc3ccc(cc3)' ： 代表芳香环。
+4. 'c4ccccc4' ： 代表苯环。
+5. 'c5nnn[nH]5' ： 代表吡嗪环。
+6. 'C(C)(C)O' ： 代表叔丁醇基。
+
+综上所述，'CCCc1nc(c(C(=O)OCC2=C(C)OC(=O)O2)n1Cc3ccc(cc3)c4ccccc4c5nnn[nH]5)C(C)(C)O' 包含了吡啶环、芳香环、苯环、吡嗪环、正丁基和叔丁醇基等多个结构片段。"
+Nc1n[n+]([O])c2ccccc2[n+]1[O],0,"'Nc1n[n+]([O])c2ccccc2[n+]1[O]'包含的结构片段有： Nc1n[n+], [O], c2ccccc2, [n+]1[O]。"
+c1ccc2c(c1)/C(=C\CCN3CCN(CC3)CCO)/c4cc(ccc4S2)C(F)(F)F,0,"['c1ccc2c(c1)', 'C(=C\\CCN3CCN(CC3)CCO)', 'c4cc(ccc4S2)', 'C(F)(F)F']"
+NC1=NC(=O)NC=C1F,0,"""NC1=NC(=O)NC=C1F"" 包含以下结构片段:
+
+1. NC: 胺基
+2. =O: 酰基
+3. =N: 唑环的氮原子
+4. C1=NC: 含有芳环的嘧啶环结构
+5. C=NC: 烯腈基
+6. C1F: 芳环上有氟原子
+
+请注意，这只是将分子式分解为结构片段的一个例子，并不代表该分子的全部结构特征。"
+CC(C)CC1CN2CCc3cc(c(cc3C2CC1=O)OC)OC,0,"'CC(C)CC1CN2CCc3cc(c(cc3C2CC1=O)OC)OC' 包含以下结构片段：
+
+1. 'CC(C)CC'：正丁基结构片段。
+2. '1CN2CCc3cc(c(cc3C2CC1=O)OC)'：噻吩环和吡嗪环组成的杂环结构。
+3. 'CC1CN2CCc3cc(c(cc3C2CC1=O)OC)'：噻吩环、吡嗪环和环丁基组成的环结构。
+4. 'c3cc(c(cc3C2CC1=O)OC)'：苯环结构。
+
+请注意，由于 'CC(C)CC1CN2CCc3cc(c(cc3C2CC1=O)OC)OC' 是一个较长的化学式，因此存在多种不同的方式可以解释它所包含的结构片段。以上仅是其中的一种解释。"
+CC1(O)CCC2C3CCC4CC(=O)OCC4(C)C3CCC12C,0,"根据SMILES表示，'CC1(O)CCC2C3CCC4CC(=O)OCC4(C)C3CCC12C' 包含以下结构片段：
+
+1. 'CC'：表示一个碳原子与另一个碳原子通过单键相连接，表示一个甲基基团。
+2. '(O)'：表示一个氧原子。
+3. 'CCC'：表示三个碳原子通过单键相连接，表示一个丙基基团。
+4. '2C3CCC4CC(=O)OCC4(C)C3'：这是一个较为复杂的结构片段，由多个碳原子和氧原子组成，其中包含环状结构。
+5. '12C'：表示两个碳原子通过单键连接。
+"
+OC(=O)c1cc(ccc1O)N=Nc2ccc(cc2)S(=O)(=O)Nc3ccccn3,0,"'OC(=O)c1cc(ccc1O)N=Nc2ccc(cc2)S(=O)(=O)Nc3ccccn3'包含以下结构片段：
+
+1. OC(=O)c1cc(ccc1O)：一个苯甲酸（benzoic acid）片段，带有羟基和羧基。
+2. c1cc(ccc1O)：苯环片段，上面带有一个羟基。
+3. N=N：双键氮（diazene）片段。
+4. c2ccc(cc2)：苯环片段。
+5. S(=O)(=O)：双氧化硫（sulfonyl）片段，带有两个氧化硫基团。
+6. Nc3ccccn3：吡嗪环（pyridine）片段，上面带有一个氮原子和一个羰基基团。
+7. ccccn：咪唑环（imidazole）片段。"
+NC1=NC(=O)c2nc(CNc3ccc(cc3)C(=O)NC(CCC(=O)O)C(=O)O)cnc2N1,0,"'NC1=NC(=O)c2nc(CNc3ccc(cc3)C(=O)NC(CCC(=O)O)C(=O)O)cnc2N1'包含以下结构片段：
+
+1. ""NC1=NC(=O)""表示一个嘌呤核苷酸碱基，其中的""NC""表示氨基和嘌呤核糖的碳基组成。
+2. ""c2nc(CNc3ccc(cc3)C(=O)NC(CCC(=O)O)C(=O)O)""表示一个苯环和嘧啶环的连接部分。其中的""CN""表示一个氨基和苯环的碳基组成。
+3. ""c3ccc(cc3)""表示一个芳香环，其中的""cc""表示两个相邻的芳香碳原子。
+4. ""C(=O)NC(CCC(=O)O)C(=O)O""表示一个脂肪酰胺，其中的""C(=O)N""表示酰胺基团，""CCC""表示一个直链烷基，""(=O)O""表示羧酸基团。
+
+这些结构片段描述了该化合物的不同部分和功能基团。"
+CC1Nc2cc(Cl)c(cc2C(=O)N1c3ccccc3C)S(=O)(=O)N,0,"CC1Nc2cc(Cl)c(cc2C(=O)N1c3ccccc3C)S(=O)(=O)N 包含以下结构片段：
+- CC1：乙基链；
+- N：氮原子；
+- c2cc(Cl)：包含氯原子的芳环；
+- c(cc2C(=O)N1c3ccccc3C)：芳环结构，其上连接有羰基（C=O）和氮原子；
+- S(=O)(=O)：硫酰基（S(=O)(=O)）；
+- N：氮原子；"
+CC(C)N=C1C=C2N(c3ccc(Cl)cc3)c4ccccc4N=C2C=C1Nc5ccc(Cl)cc5,0,"'CC(C)N=C1C=C2N(c3ccc(Cl)cc3)c4ccccc4N=C2C=C1Nc5ccc(Cl)cc5' 包含以下结构片段：
+
+1. CC(C) - 甲基（Methyl）结构片段
+2. N=C - 脱氢甲基（Dehydro Methyl）结构片段
+3. 1,3,5-cyclohexatriene - 芳香环（Aromatic Ring）结构片段
+4. c3ccc(Cl)cc3 - 氯代苯（Chlorobenzene）结构片段
+5. c4ccccc4 - 苯环（Benzene Ring）结构片段
+6. c5ccc(Cl)cc5 - 氯代苯（Chlorobenzene）结构片段"
+CC(C(=O)O)c1ccc(s1)C(=O)c2ccccc2,0,"CC(C(=O)O) - 乙酸乙酯基
+c1ccc(s1) - 苯环与硫原子
+C(=O) - 酮基
+c2ccccc2 -苯环"
+CC(C(=O)O)c1cccc(Oc2ccccc2)c1,0,"'CC(C(=O)O)c1cccc(Oc2ccccc2)c1' 包含以下结构片段：
+
+1. CC：表示乙基基团。
+2. C(=O)O：表示一个酯基团。
+3. c1cccc：表示一个芳香环。
+4. Oc2ccccc2：表示一个含有酚基的芳香环。"
+Nc1ccc(cc1)S(=O)(=O)Nc2ncccn2,0,"'Nc1ccc(cc1)S(=O)(=O)Nc2ncccn2'包含以下结构片段：
+
+1. 'Nc1ccc(cc1)': 这是一个苯环，其中一个氢原子被氨基取代。这是一个芳香胺的结构。
+
+2. 'S(=O)(=O)': 这是一个硫酸酯基，表示硫原子与两个氧原子通过双键连接。它是一个酯的结构。
+
+3. 'Nc2ncccn2': 这是一个吡啶环，其中有一个氢原子被氨基取代。这是一个氮芳环的结构。
+
+所以，'Nc1ccc(cc1)S(=O)(=O)Nc2ncccn2'包含苯环、硫酸酯基和吡啶环这三个结构片段。"
+OC(=O)COCCN1CCN(CC1)C(C1=CC=CC=C1)C1=CC=C(Cl)C=C1,0,"'OC(=O)COCCN1CCN(CC1)C(C1=CC=CC=C1)C1=CC=C(Cl)C=C1' 分子中包含的结构片段是：
+
+1. 'OC(=O)CO' - 这是羧酸酯结构片段。
+2. 'CCN1CCN(CC1)' - 这是哌嗪结构片段。
+3. 'C(C1=CC=CC=C1)' - 这是苯环结构片段。
+4. 'C1=CC=C(Cl)C=C1' - 这是含氯苯环结构片段。
+
+注意：此分子中还包含其他原子和键，但上述结构片段是比较显著和重要的部分。"
+c1ccc(cc1)C2=NCC(=O)N(c3c2cc(cc3)Cl)CC4CC4,0,"'c1ccc(cc1)' - 苯环结构
+'C2=NCC(=O)N(c3c2cc(cc3)Cl)' - cyclohexanecarboxamide 结构
+'CC4CC4' - 碳环结构"
+CNC(=NC)NCc1ccccc1,0,"CNC(=NC)NCc1ccccc1 包含的结构片段有：
+
+- CNC：氮氮双键和邻位的两个甲基基团
+- (=NC)：含有双键的氮原子和一个甲基基团
+- NC：氮氮双键和一个甲基基团
+- c1ccccc1：芳香环，由六个碳原子和六个氢原子组成的环结构"
+CCN(CC)CCNC(=O)c1ccc(N)cc1,0,"'CCN(CC)CCNC(=O)c1ccc(N)cc1' 包含以下结构片段:
+
+1. 'CC' 表示乙基基团。
+2. 'N(CC)CCN' 表示四个乙胺基基团，其中一个与中间的乙基基团相连，形成了一个二级胺结构。
+3. 'C(=O)' 表示一个羰基（碳氧双键）。
+4. 'c1ccc(N)cc1' 表示一个苯环，其中一个氢原子被一个氨基（NH2）取代。
+5. 'NC' 表示一个氨基。
+
+综上所述，'CCN(CC)CCNC(=O)c1ccc(N)cc1' 包含乙基基团、胺基、羰基和苯环等多个结构片段。"
+COC1CC(CCC1O)C=C(C)C2OC(=O)C3CCCCN3C(=O)C(=O)C4(O)OC(C(CC(C)CC(=CC(CC=C)C(=O)CC(O)C2C)C)OC)C(CC4C)OC,0,"结构片段：
+- COC1CC(CCC1O)C=C(C)
+- C2OC(=O)
+- C3CCCCN3C(=O)
+- C(=O)C4(O)OC(C
+- CC(C)CC(=CC(CC=C)C(=O)CC(O)C2C)
+- CC)OC)C(CC4C)OC"
+CC(=O)Oc1ccc(cc1)C(c2ccc(OC(=O)C)cc2)c3ccccn3,0,"'CC(=O)Oc1ccc(cc1)C(c2ccc(OC(=O)C)cc2)c3ccccn3' 包含以下结构片段：
+
+1. 'CC(=O)O'：一个乙酸酯基团。
+2. 'c1ccc(cc1)'：一个苯环。
+3. 'C'：一个碳原子。
+4. '(c2ccc(OC(=O)C)cc2)'：一个苯环接上一个乙酸酯基团。
+5. 'c3ccccn3'：一个吡啶环。
+
+可以根据这些结构片段来了解该化合物的功能基团和环状结构。"
+Oc1ccc(cc1)C2(OC(=O)c3ccccc23)c4ccc(O)cc4,0,"'Oc1ccc(cc1)'表示苯环上有一个羟基取代物。
+'C2(OC(=O)c3ccccc23)'表示一个2位的环氧环上有一个羧基以及一个含芳香环的酯结构。
+'c4ccc(O)cc4'表示另一个苯环上有一个羟基取代物。"
+COc1ccc(CCN(C)CCCN2CCc3cc(OC)c(OC)cc3CC2=O)cc1OC,0,"'COc1ccc(CCN(C)CCCN2CCc3cc(OC)c(OC)cc3CC2=O)cc1OC' 包含以下结构片段：
+
+- 'CCN(C)CCCN2CCc3cc(OC)c(OC)cc3CC2=O' 表示一个连接在苯环上的杂环结构。
+- 'CC' 表示一个碳链。
+- 'OC' 表示一个连接在苯环上的羟基，也可以被看作是一个醇基。
+- '=O' 表示一个连接在苯环上的酮基。"
+CCCN1CC(CC2C1Cc3cccc(c3C2)O)NS(=O)(=O)N(CC)CC,0,"'CCCN1CC(CC2C1Cc3cccc(c3C2)O)NS(=O)(=O)N(CC)CC'包含以下结构片段：
+
+1. CCCC：双烷基链。
+2. N：胺基。
+3. 1CC：环状结构。
+4. 2C1CC：环状结构。
+5. c3cccc(c3C2)O：苯环结构。
+6. NS(=O)(=O)：磺酰亚胺基团。
+7. N(CC)CC：胺链。
+
+综上所述，'CCCN1CC(CC2C1Cc3cccc(c3C2)O)NS(=O)(=O)N(CC)CC'包含上述七个结构片段。"
+C1C2CC3CC1CC(C2)(C3)N,0,"'C1C2CC3CC1CC(C2)(C3)N' 包含以下的结构片段：
+
+1. 'C1'：代表一个碳原子。
+2. 'C2'：代表一个碳原子。
+3. 'CC3'：代表一个碳原子与另一个碳原子的双键连接。
+4. 'CC1'：代表一个碳原子与另一个碳原子的单键连接。
+5. 'C'：代表一个碳原子。
+6. '(C2)'：代表一个环状结构，其中包含一个碳原子和一个另外的碳原子。
+7. '(C3)'：代表一个环状结构，其中包含一个碳原子和一个另外的碳原子。
+8. 'N'：代表一个氮原子。
+
+综上所述，'C1C2CC3CC1CC(C2)(C3)N' 包含了碳原子、环状结构和氮原子等不同的结构片段。"
+CCC(C1=C(O)Oc2ccccc2C1=O)c3ccccc3,0,"该分子包含以下结构片段：
+- C1=C(O)O：芳香酮环
+- c2ccccc2：苯环"
+OCC(O)C(O)C(OC1OC(CO)C(O)C(O)C1O)C(O)CO,0,"'OCC(O)C(O)C(OC1OC(CO)C(O)C(O)C1O)C(O)CO' 包含以下结构片段：
+
+1. OCC(O)C(O)C(O)C(OC1OC(CO)C(O)C(O)C1O)C(O)CO：主链结构
+2. OC1OC(CO)C(O)C(O)C1O：环状结构1
+3. CO：甲氧基基团
+4. C(O)C(O)C(O)C(O)C(O)：辅助骨架结构，包含五个羟基基团
+5. C(O)CO：辅助骨架结构，包含一个羟基和一个甲氧基基团"
+OC(CCN1CCCC1)(C1CCCCC1)C1=CC=CC=C1,0,"'OC(CCN1CCCC1)(C1CCCCC1)C1=CC=CC=C1' 包含以下结构片段：
+
+1. O：表示氧原子。
+2. C：表示碳原子。
+3. CN1CCCC1：表示一环丙基胺基（cyclopropylamine）。
+4. C1CCCCC1：表示六环烷基（cyclohexyl）。
+5. C1=CC=CC=C1：表示苯环（benzene ring）。
+
+综上所述，'OC(CCN1CCCC1)(C1CCCCC1)C1=CC=CC=C1' 包含氧原子、碳原子、一环丙基胺基、六环烷基和苯环等结构片段。"
+NC(=O)NO,0,"'NC(=O)NO' 包含以下结构片段：
+
+1. Carboxylic Acid Group (RCOOH)：R-C=O-OH，其中 R 为含有碳骨架的基团。在这个结构中的 C(=O)OH就是一个羧酸基团。
+
+2. Amide Group (RCONH2)：R-C(=O)NH2，其中 R 为含有碳骨架的基团。在这个结构中的 C(=O)NH2 就是一个酰胺基团。
+
+3. Nitro Group (-NO2)：即两个氧原子与一个氮原子连接。在这个结构中，NO就是一个硝基。
+
+综上所述，'NC(=O)NO' 包含羧酸基团、酰胺基团和硝基。"
+CCOC(=O)C1=CC(OC(CC)CC)C(NC(=O)C)C(N)C1,0,"在这个化学结构中，可以找到以下结构片段：
+
+1. CCOC(=O)C：乙酸酯顺式取代基。
+2. 1=CC(OC(CC)CC)C：苯环上的取代基。
+3. (NC(=O)C)：胺基取代的碳酰氮。
+4. C(N)：氨基取代的碳。
+
+综合起来，这个化学结构可以包含一个乙酸酯、一个苯环取代基、一个碳酰氮和一个氨基。"
+CCOC(=O)C=C(C)C=CC=C(C)C=Cc1c(C)cc(OC)c(C)c1C,0,"'CCOC(=O)C=C(C)C=CC=C(C)C=Cc1c(C)cc(OC)c(C)c1C' 包含以下结构片段：
+
+1. CC - 代表两个碳原子相连的碳链。
+2. OC(=O) - 代表一个羧酸基团，其中一个氧原子与碳原子相连，另一个氧原子与氧原子相连。
+3. C=C - 代表一个碳碳双键。
+4. (C) - 表示一个甲基基团。
+5. C=CC=C - 代表苯环。
+6. (OC) - 表示一个甲氧基基团。
+7. (C)c - 表示一个氢原子与碳原子相连的甲基。
+
+所以，'CCOC(=O)C=C(C)C=CC=C(C)C=Cc1c(C)cc(OC)c(C)c1C' 包含一个羧酸基团、甲氧基基团、苯环和甲基等结构片段。"
+[O][N+](=O)OCC(CO[N+](=O)[O])O[N+](=O)[O],0,"'[O][N+](=O)OCC(CO[N+](=O)[O])O[N+](=O)[O]' 包含以下结构片段：
+
+1. [O] - 单个氧原子
+2. [N+] - 单价阳离子氮原子
+3. (=O) - 羰基（酰基）功能团
+4. OCC - 乙二醇链
+5. (CO[N+](=O)[O]) - 含有羧酸和亚硝酰基的乙二醇链
+6. [O] - 单个氧原子"
+CC(C)(Oc1ccc(Cl)cc1)C(=O)O,0,"'CC(C)(Oc1ccc(Cl)cc1)C(=O)O'包含以下结构片段:
+
+1. C-C: 代表两个碳原子通过一个碳碳单键连接在一起。
+2. (C): 表示一个甲基基团，即一个碳原子与三个氢原子结合。
+3. (Oc1ccc(Cl)cc1): 表示一个苯环，其中一个氢原子被一个氯原子取代。
+4. (C(=O)O): 表示一个羧酸基团，包括一个碳原子与一个双键氧原子和一个羟基氧原子连接在一起。
+5. (OC): 表示一个甲氧基基团，即一个碳原子与三个氢原子和一个氧原子结合。"
+CN1N=C(SC1=NC(=O)C)S(=O)(=O)N,0,"根据SMILES表示法，'CN1N=C(SC1=NC(=O)C)S(=O)(=O)N'可以分为以下结构片段：
+
+1. 'CN1N=C': 这是一个含有一个苯并嘌呤环的结构片段。
+2. '(SC1=NC(=O)C)': 这是一个含有一个噻吩环的结构片段，并在噻吩环上键合了一个酮基和一个甲基。
+3. '(S(=O)(=O)N)': 这是一个含有一个磺酰胺基的结构片段。
+
+因此，'CN1N=C(SC1=NC(=O)C)S(=O)(=O)N'包含了苯并嘌呤环、噻吩环和磺酰胺基三个结构片段。"
+CCN(CC)CCN1c2ccc(cc2C(=NCC1=O)c3ccccc3F)Cl,0,"'CCN(CC)CCN1c2ccc(cc2C(=NCC1=O)c3ccccc3F)Cl' 包含以下结构片段：
+
+1. 'CCN(CC)CCN'：二乙胺（Diethylamine）的化学结构片段。
+2. 'CCN1c2ccc(cc2C(=NCC1=O)c3ccccc3F)Cl'：一个杂环化合物，包含一个三环结构，中间有一个氮原子和一个酰基。
+3. 'C(=NCC1=O)'：亚硝基（Nitroso）官能团，由一个氮原子和一个酰基（含有双键氧原子）组成。
+4. 'c3ccccc3F'：含有一个氟原子的苯环。
+5. 'Cl'：氯原子。
+
+综上所述，'CCN(CC)CCN1c2ccc(cc2C(=NCC1=O)c3ccccc3F)Cl' 包含了二乙胺、一个杂环化合物、亚硝基、苯环、氟原子和氯原子等多个结构片段。"
+CN1CCCN=C1C=Cc2cccs2,0,"'CN1CCCN=C1C=Cc2cccs2' 包含以下的结构片段：
+
+1. CN1CCCC1：带有环的胺基（piperidine）
+2. =C1C=：带有双键（alkene）
+3. C=C：另一个带有双键（alkene）
+4. c2cc：芳香环（benzene）
+5. ccs2：含有硫原子的环（thiophene）"
+CC12CCC3C(CCC4=CC(=O)CCC34)C1CCC2(O)C#C,0,"'CC12CCC3C(CCC4=CC(=O)CCC34)C1CCC2(O)C#C' 包含以下结构片段：
+
+1. 'CC' - 代表 2 个碳原子的饱和碳链
+2. 'C12' - 代表一个环状的 12 个碳原子骨架
+3. 'CCC' - 代表 3 个连续的碳原子
+4. 'C(CCC4=CC(=O)CCC34)' - 代表这个碳原子与一个含有烯丙基、酮基和环状结构的碳链
+5. 'C1CCC2' - 代表一个环状的 4 个碳原子骨架
+6. '(O)' - 代表一个氧原子
+7. 'C#C' - 代表一个碳碳三键连接"
+CC(C)n1c(C=CC(O)CC(O)CC(=O)O)c(c2ccc(F)cc2)c3ccccc13,0,"'CC(C)n1c(C=CC(O)CC(O)CC(=O)O)c(c2ccc(F)cc2)c3ccccc13'包含以下结构片段：
+
+1. CC(C)n1c：氨基甲基取代的环戊二烯基结构。
+2. c(C=CC(O)CC(O)CC(=O)O)c：环丙烯基结构。
+3. (c2ccc(F)cc2)：苯环上取代的氟原子。
+4. c3ccccc13：苯环。
+
+因此，该化合物包含氨基甲基环戊二烯基结构、环丙烯基结构、苯环和苯环上取代的氟原子。"
+CCCC1OC2CC3C4CCC5=CC(=O)C=CC5(C)C4C(O)CC3(C)C2(O1)C(=O)CO,0,"结构片段包括：
+-1个杂环(C1OC2CC3C4CCC5=CC(=O)C=CC5(C)C4C(O)CC3(C)C2(O1)C(=O)CO)，
+-1个环酮(=O)，
+-1个芳香环(=CC=)。"
+C[N+]1(C)CCC(=C(c2ccccc2)c3ccccc3)CC1,0,"根据提供的分子式'C[N+]1(C)CCC(=C(c2ccccc2)c3ccccc3)CC1'，我可以确定它包含以下结构片段：
+
+1. C[N+] - 这是一个含有正电荷氮原子的氨基甲基结构片段。
+2. (C)CCC - 这是一个四个碳原子构成的脂肪环结构片段。
+3. (=C - 这是一个含有双键的碳原子结构片段。
+4. (c2ccccc2) - 这是一个含有苯环的结构片段。
+5. c3ccccc3 - 这是另一个含有苯环的结构片段。
+6. CC1 - 这是一个两个碳原子构成的链结构片段。
+
+这些是我在提供的分子式中发现的结构片段。请注意，还可能有其他不太明显的结构片段存在，这些片段可能需要更详细的分析才能确定。"
+c1ccc(c(c1)C2=NC(C(=O)N(c3c2cc(cc3)Cl)CCC#N)O)F,0,"该化合物包含以下结构片段：
+
+1. 扁平的苯环：c1ccc(c(c1)
+2. 另一个关联的苯环：c2cc(cc3)Cl)
+3. 含氮环：C2=NC
+4. 脱氢代谢产物：C(=O)
+5. 酰胺基团：C(=O)N
+6. 氰基团：CCC#N
+7. 醇基团：O
+8. 氟原子：F"
+CCNC(=O)N(CCCN(C)C)C(=O)C1CC2c3cccc4c3c(c[nH]4)CC2N(C1)CC=C,0,"'CCNC(=O)N(CCCN(C)C)C(=O)C1CC2c3cccc4c3c(c[nH]4)CC2N(C1)CC=C' 包含以下结构片段：
+
+1. CCN：乙胺基基团。
+2. C(=O)：酰基。
+3. CCCN(C)C：丙胺基基团。
+4. C(=O)C1CC2：环戊基。
+5. c3cccc4c3c(c[nH]4)：芳香环。
+6. CC2N(C1)CC=C：咪唑环。
+
+这些结构片段有助于描述和确定化合物的化学性质和活性。"
+CNC(CC(C)C)C(=O)NC1C(O)c2ccc(Oc3cc4cc(Oc5ccc(cc5Cl)C(O)C6CC(=O)C(NC(=O)C4NC(=O)C(CC(=O)N)NC1=O)c7ccc(O)c(c7)c8c(O)cc(O)cc8C(NC6=O)C(=O)O)c3OC9OC(CO)C(O)C(O)C9OC%10CC(C)(N)C(O)C(C)O%10)c(Cl)c2,0,"结构片段包括:
+- CC(C)C
+- C(=O)NC1C(O)
+- c2ccc(O)
+- Oc3cc4cc(O
+- c5ccc(cc5Cl)
+- C(O)C6CC(=O)C(NC(=O)C4NC(=O)C(CC(=O)N)NC1=O)c7ccc(O)c(c7)c8c(O)cc(O)cc8C(NC6=O)C(=O)O
+- c3OC9OC(CO)C(O)C(O)C9OC
+- %10CC(C)(N)C(O)C(C)O%10
+- c(Cl)c2"
+CN1CCN(CC(=O)N2c3ccccc3C(=O)Nc4cccnc24)CC1,0,"'CN1CCN(CC(=O)N2c3ccccc3C(=O)Nc4cccnc24)CC1' 包含以下结构片段：
+
+1. 'CCN(CC(=O)N2c3ccccc3C(=O)Nc4cccnc24)CC'：阿片受体激动剂。
+2. 'CC(=O)N2c3ccccc3C(=O)Nc4cccnc24'：苯二氮平类抗精神病药物。
+3. 'C(=O)Nc4cccnc24'：吡咯并[3,4-c]吡咯啉-5-酮类化合物。
+4. 'c3ccccc3'：苯环。
+5. 'c4cccnc24'：吡啶环。"
+COc1ccc(cc1)C(=C(CCC(=O)O)C#N)c2ccc(OC)cc2,0,"'COc1ccc(cc1)C(=C(CCC(=O)O)C#N)c2ccc(OC)cc2' 包含以下结构片段:
+
+1. COc1ccc(cc1): 甲氧基苯环
+2. C(=C(CCC(=O)O)C#N): 双键连接的碳链和氰基
+3. c2ccc(OC)cc2: 甲氧基苯环"
+c1ccc2c(c1)[nH]c(=O)n2C3CCN(CC3)CCCC(c4ccc(cc4)F)c5ccc(cc5)F,0,"'c1ccc2c(c1)[nH]c(=O)n2C3CCN(CC3)CCCC(c4ccc(cc4)F)c5ccc(cc5)F' 包含以下结构片段：
+
+1. 'c1ccc2c(c1)': 这是一个芳香环（芳香烃的一种），其中的碳原子上分别连接有氢原子和芳香环的其他碳原子。
+
+2. '[nH]': 这是一个氮原子，它连接在芳香环上的一个碳原子上，同时它的一个化学键上结合有一个氢原子。
+
+3. '=O': 这是一个碳-氧双键，表示一个羰基。
+
+4. 'C3CCN(CC3)': 这是一个环丙胺基（环丙胺基和环己胺基是两个常见的胺基衍生物），它由一个碳原子和三个氢原子组成，同时连接在一个碳原子上。
+
+5. 'CCCC': 这是一个正丁基，由四个碳原子和十个氢原子组成。
+
+6. '(c4ccc(cc4)F)': 这是一个芳香环，其中的一个碳原子上连接有一个氟原子。
+
+7. 'c5ccc(cc5)F': 这是一个芳香环，其中的一个碳原子上连接有一个氟原子。
+
+这些结构片段描述了该化合物的不同功能团和结构特征。"
+CCC1(C(=O)N(C(=O)N1)C)c2ccccc2,0,"以下为'CCC1(C(=O)N(C(=O)N1)C)c2ccccc2'中的结构片段：
+
+- CCC1: 丙基基团
+- (C(=O)N(C(=O)N1)C): 环状结构，含有两个氮原子和一个酰胺基团
+- c2ccccc2: 苯环"
+c1cnc(nc1)N2CCN(CC2)CCCCN3C(=O)CC4(CCCC4)CC3=O,0,"'c1cnc(nc1)', 'N2CCN(CC2)', 'CCCCN3C(=O)CC4(CCCC4)CC3=O' 是'MTANDKARA' 分子的结构片段。"
+COC1=CC=C(CCN2CCC(CC2)NC2=NC3=CC=CC=C3N2CC2=CC=C(F)C=C2)C=C1,0,"'COC1=CC=C(CCN2CCC(CC2)NC2=NC3=CC=CC=C3N2CC2=CC=C(F)C=C2)C=C1'包含了以下结构片段：
+
+1. COC：乙氧基基团。
+2. C1=CC=C(CCN2CCC(CC2)NC2=NC3=CC=CC=C3N2CC2=CC=C(F)C=C2)C=C1：苯环。
+3. CCN2CCC(CC2)：第二个碳原子上有一个亚甲基和一个亚胺基的环丙基。
+4. NC2=NC3=CC=CC=C3N2CC2=CC=C(F)C=C2：苯环上连接着一个含氮杂环，包括两个吡咯和一个苯环的结构。
+5. C1=CC=C(F)C=C1：苯环上连接着一个氟原子。
+6. NC2=NC3=CC=CC=C3N2：两个吡咯环组成的杂环。
+7. CC2=CC=C(F)C=C2：苯环上连接着一个氟原子。
+
+注意：以上结构片段是根据SMILES表示法中的原子与键符号来确定的。"
+CC(C)CC(C1(CCC1)c2ccc(cc2)Cl)N(C)C,0,"'CC(C)CC(C1(CCC1)c2ccc(cc2)Cl)N(C)C'包含的结构片段有：
+1. CC(C)C：3个碳原子的链上连接着一个甲基。
+2. C1(CCC1)：一个环状结构，由四个碳原子组成。
+3. c2ccc(cc2)：一个苯环结构，由6个碳原子和6个氢原子组成，并且其中两个相邻的碳原子上还连接着一个氯原子。
+4. Cl：一个氯原子。
+5. N(C)C：一个氨基（胺基）结构，由一个氮原子和两个甲基组成。"
+CC1=Nc2ccc(Cl)cc2S(=O)(=O)N1,0,"""CC1=Nc2ccc(Cl)cc2S(=O)(=O)N1"" 这个分子包含以下结构片段:
+
+1. CC1=N - 这是一个连续的碳氮双键，形成了杂环结构。
+
+2. =Nc2ccc(Cl)cc2 - 这是一个取代的苯环，其中氮原子是连到杂环上的。
+
+3. c2ccc(Cl)cc2 - 这是一个取代的苯环，其中一个氯原子取代了其中一个氢原子。
+
+4. S(=O)(=O)N - 这是一个连续的硫-氧双键，氮原子连到硫原子上。
+
+这些结构片段共同组成了整个分子的结构。"
+CC(NC(=NC#N)Nc1ccncc1)C(C)(C)C,0,"'CC(NC(=NC#N)Nc1ccncc1)C(C)(C)C'包含以下结构片段:
+
+1. 'CC': 代表两个甲基基团，即两个氢原子连接到碳上。
+2. 'NC(=NC#N)N': 代表一个氨基（NH2）连接到一个叠氮基团（N=N=C）。
+3. 'c1ccncc1': 代表一个苯环，其中有5个碳原子和1个含氮的杂原子（氮原子）。
+4. '(C)(C)C': 代表3个甲基基团，即3个氢原子连接到碳上。
+
+综上所述，'CC(NC(=NC#N)Nc1ccncc1)C(C)(C)C'包含苯环、氨基、叠氮基团和甲基基团等多个结构片段。"
+CC(Cc1cccc(c1)C(F)(F)F)NCCOC(=O)c2ccccc2,0,"该化合物包含以下结构片段：
+
+- CC：甲基基团
+- Cc1cccc(c1)：芳香环
+- C(F)(F)F：氟原子
+- NCC：氨基乙基基团
+- OC(=O)：酰基
+- c2ccccc2：苯环"
+CN1CCN=C(c2c1ccc(c2)Cl)c3ccccc3,0,"该分子包含以下结构片段：
+
+- CN1CCN：哌啶环
+- =C：双键
+- (c2c1ccc(c2)Cl)：氯代苯环
+- c3：芳香环
+- ccccc3：苯环"
+CC1(C)SC2C(NC(=O)C(C(=O)Oc3ccc4CCCc4c3)c5ccccc5)C(=O)N2C1C(=O)O,0,"该分子包含以下结构片段：
+1. CC1(C)SC2C - 环丙烷环（Cyclohexylthio）环丁烷
+2. NC(=O)C - 氨基甲酰基
+3. (C(=O)Oc3ccc4CCCc4c3) - 苯环上连接着消旋4,5-二甲基环己烯环的乙酸酯
+4. c5ccccc5 - 苯环
+5. C(=O)N - 甲酰胺
+6. 2C1C(=O)O - 两个由羧酸连接的环丁烷"
+CC(=CCCC(=CCCC(=CCCC(=CCC1=C(C)C(=O)c2ccccc2C1=O)C)C)C)C,0,"'CC(=CCCC(=CCCC(=CCCC(=CCC1=C(C)C(=O)c2ccccc2C1=O)C)C)C)C' 包含以下结构片段：
+
+1. 'CC' 表示两个甲基基团。
+2. '=CCCC' 表示一个丙烯基。
+3. '(=CCCC' 表示一个丙烯基并连接到前一个丙烯基的碳。
+4. '(=CCCC(=CCCC' 表示两个丙烯基并连接到前两个丙烯基的碳。
+5. '(=CCCC(=CCCC(=CCCC' 表示三个丙烯基并连接到前三个丙烯基的碳。
+6. '(=CCC' 表示一个丙烯基并连接到前三个丙烯基的碳。
+7. '1=C(C)C(=O)c2ccccc2C1=O' 表示一个蒽环与一个酮基连接。
+8. 'C' 表示一个甲基基团。
+9. ')C' 表示一个连接到前一个酮基的甲基基团。
+10. ')C' 表示一个连接到前一个甲基基团的甲基基团。
+11. ')C' 表示一个连接到前一个甲基基团的甲基基团。
+12. ')C' 表示一个连接到前一个甲基基团的甲基基团。
+
+请注意，这些结构片段的顺序可能会根据化学上下文而有所变化。"
+CC(C[N+](C)(C)C)OC(=O)N,0,"根据SMILES表示法，'CC(C[N+](C)(C)C)OC(=O)N'包含以下结构片段：
+
+1. 'CC'表示乙基基团。
+
+2. '(C[N+](C)(C)C)'表示季铵盐基团。
+
+3. 'OC'表示甲氧基。
+
+4. '(=O)'表示酰基。
+
+5. 'N'表示氨基。"
+COc1ccc2c(c1)C(=O)N(CCc3ccc(cc3)S(=O)(=O)NC(=O)NC4CCCCC4)C(=O)C2(C)C,0,"'COc1ccc2c(c1)C(=O)N(CCc3ccc(cc3)S(=O)(=O)NC(=O)NC4CCCCC4)C(=O)C2(C)C' 包含以下结构片段：
+
+1. COc1ccc2c(c1): 一个含有甲氧基（OMe）的芳香环。
+2. C(=O)N: 一个酰胺（amide）功能团，由碳原子和氧原子的双键连接。
+3. CCc3ccc(cc3)S(=O)(=O)NC(=O)NC4CCCCC4: 一个包含多个芳香环和酰胺的复杂结构。
+4. C(=O)C2(C)C: 一个包含一个叔碳（tertiary carbon）的环戊烷。
+5. NC(=O)NC4CCCCC4: 一个酰胺。
+6. C: 一个碳原子。
+
+以上是此结构的主要结构片段，还可能包含其他小的结构片段。"
+CC1OC(CC(O)C1O)OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CC(O)C7(C)C(CCC67O)C8=CC(=O)OC8)C4)OC3C)OC2C,0,"1. CC1OC(CC(O)C1O) - 这是一个葡萄糖骨架，包含一个环状含氧的部分。
+2. O - 这是一个氧原子。
+3. C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CC(O)C7(C)C(CCC67O)C8=CC(=O)OC8)C4)OC3C)OC2C - 这是一个大环状结构，其中含有多个碳-氧键和碳-碳键。
+4. O - 这是一个氧原子。
+5. C - 这是一个碳原子。
+
+总结：'CC1OC(CC(O)C1O)OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CC(O)C7(C)C(CCC67O)C8=CC(=O)OC8)C4)OC3C)OC2C'包含葡萄糖骨架、氧原子和一个大环状结构。"
+CN1CCCCC1CCN2c3ccccc3Sc4c2cc(cc4)S(=O)C,0,"'CN1CCCCC1CCN2c3ccccc3Sc4c2cc(cc4)S(=O)C' 包含以下结构片段：
+
+1. 'CN1CCCCC1'：阿立哌唑环
+2. 'CCN2'：二甲基乙胺侧链
+3. 'c3ccccc3'：苯环
+4. 'Sc4c2cc(cc4)S(=O)'：苯并噻吩环（含有噻吩和苯环）
+5. 'C'：碳原子
+
+总结：该化合物包含阿立哌唑环、二甲基乙胺侧链、苯环、苯并噻吩环和碳原子等结构片段。"
+CNCCCN1c2ccccc2CCc3c1cccc3,0,"根据提供的字符串'CNCCCN1c2ccccc2CCc3c1cccc3'，可能的结构片段可以分为以下几个部分：
+
+1. 'CN'：表示一个氨基酸甘氨酸。
+2. 'CCC'：表示一个碳链，含有3个碳原子。
+3. 'N1c2ccccc2'：表示一个苯环。
+4. 'CC'：表示一个碳链，含有2个碳原子。
+5. 'c3c1cccc3'：表示一个苯环。
+
+综上所述，该字符串包含的结构片段有甘氨酸、碳链、苯环等。"
+CC1CC(CC(C)(C)C1)OC(=O)C(O)c2ccccc2,0,"根据给出的结构式，'CC1CC(CC(C)(C)C1)OC(=O)C(O)c2ccccc2' 包含以下结构片段：
+
+1. 'CC1CC(CC(C)(C)C1)'：环己烷环。
+2. 'OC(=O)'：酯基。
+3. 'C(O)'：醇基。
+4. 'c2ccccc2'：苯环。
+
+总结：该化合物包含环己烷环、酯基、醇基和苯环。"
+COC(=O)C1=C(C)NC(=C(C1c2cccc(c2)[N+](=O)[O])C(=O)OC(C)(C)CN(C)CCC(c3ccccc3)c4ccccc4)C,0,"'COC(=O)C1=C(C)NC(=C(C1c2cccc(c2)[N+](=O)[O])C(=O)OC(C)(C)CN(C)CCC(c3ccccc3)c4ccccc4)C' 包含以下结构片段：
+1. COC(=O)C ：酯结构片段
+2. C1=C(C) ：芳香环结构片段
+3. NC(=C(C1c2cccc(c2)[N+](=O)[O])C(=O)OC(C)(C)CN(C)CCC(c3ccccc3)c4ccccc4) ：吡咯烷环结构片段
+4. c2cccc(c2)[N+](=O)[O] ：芳香环中的亚硝基结构片段
+5. c3ccccc3 ：联苯环结构片段
+6. c4ccccc4 ：联苯环结构片段"
+CN1CCN(CC1)C2=Nc3ccccc3Oc4c2cc(cc4)Cl,0,"'CN1CCN(CC1)C2=Nc3ccccc3Oc4c2cc(cc4)Cl' 包含以下结构片段：
+
+1. CN1CCN(CC1): 代表苯并咪唑环的结构。
+2. C2=Nc3ccccc3: 代表吡唑环的结构。
+3. Oc4c2cc(cc4): 代表苯环上有羟基的结构。
+4. Cl: 代表氯原子的结构。"
+COC1=CC=C(C=C1)[C@@H]1SC2=C(C=CC=C2)N(CCN(C)C)C(=O)[C@@H]1OC(C)=O,0,"'COC1=CC=C(C=C1)[C@@H]1SC2=C(C=CC=C2)N(CCN(C)C)C(=O)[C@@H]1OC(C)=O' 包含以下结构片段：
+
+1. COC：乙醚基
+2. 1=CC=C(C=C1)：苯环
+3. [C@@H]1SC2=C(C=CC=C2)：硫醚环
+4. N(CCN(C)C)：哌嗪环
+5. C(=O)[C@@H]1OC(C)=O：酮-醚环"
+FC(F)(F)C1(OC(=O)Nc2ccc(Cl)cc12)C#CC3CC3,0,"'FC(F)(F)C1(OC(=O)Nc2ccc(Cl)cc12)C#CC3CC3' 包含以下结构片段:
+
+1. 'FC(F)(F)': 三个氟原子(F)而成的氟代基团；
+
+2. 'OC(=O)': 包含一个甲酰基（=O）和一个羟基（OH）的羧酸酯基团；
+
+3. 'Nc2ccc(Cl)cc12': 一个苯环上有氯（Cl）取代的苯胺基团；
+
+4. 'C#CC3CC3': 一个含有碳-碳三键（C#C）的芳香环以及两个环外的碳原子。"
+CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(O)C(Cc3ccccc3)NC(=O)C(CC(=O)N)NC(=O)c4ccc5ccccc5n4,0,"'CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(O)C(Cc3ccccc3)NC(=O)C(CC(=O)N)NC(=O)c4ccc5ccccc5n4' 包含以下结构片段：
+
+1. 'CC(C)(C)NC(=O)': 一个侧链为三甲基氨基酮基的氨基酸残基。
+2. 'C1CC2CCCCC2CN1': 一个环状结构，由一个六元环和一个五元环组成，中间有一个胺基。
+3. 'CC(O)': 一个醇基，连接到一个碳链上。
+4. 'Cc3ccccc3': 一个芳香环，连接到一个碳链上。
+5. 'NC(=O)': 一个氨基酰基，连接到一个碳链上。
+6. 'C(CC(=O)N)NC(=O)': 一个碳链，有一个氨基酰基和一个酰氨基。
+7. 'c4ccc5ccccc5n4': 一个芳香环和一个五元氮杂环。
+
+这些片段代表该化合物的不同功能基团和结构单元。"
+[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,0,"'[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C' 包含以下结构片段：
+
+- [H][C@@]12：环丙烷环与环十二烷取代基的键合结构。
+- CC[C@](O)(C(=O)CO)：环丙基醇与酯基取代的醇酸结构。
+- [C@@]1(C)：环己烷取代基。
+- C[C@H](O)：环丙烷环取代基。
+- [C@@]1([H])：环丙烷环与环五烷取代基的键合结构。
+- [C@@]2([H])：环丙烷环与环六烷取代基的键合结构。
+- CCC2=CC(=O)C=C[C@]12C：环已烯戊二烯与环已烷的键合结构。
+
+这些结构片段表示化学物质的不同部分和它们之间的化学键合关系。"
+CCNC(C)Cc1cccc(c1)C(F)(F)F,0,"'CCNC(C)Cc1cccc(c1)C(F)(F)F'包含以下结构片段：
+
+1. 'CC'：乙基基团。
+2. 'NC(C)'：氨基乙基基团。
+3. 'Cc1cccc(c1)'：芳香环。
+4. 'C(F)(F)F'：三氟甲基基团。
+
+因此，'CCNC(C)Cc1cccc(c1)C(F)(F)F'包含乙基基团、氨基乙基基团、芳香环和三氟甲基基团等结构片段。"
+CC(=O)SCC(Cc1ccccc1)C(=O)NCC(=O)OCc2ccccc2,0,"CC(=O)SCC(Cc1ccccc1)C(=O)NCC(=O)OCc2ccccc2 包含以下结构片段：
+
+1. CC(=O)S：烷基酰硫基片段。
+2. SCC(Cc1ccccc1)：硫代烷基片段。
+3. C(=O)N：酰胺片段。
+4. CC(=O)O：酯基片段。
+5. Cc2ccccc2：苯环片段。
+
+请注意，这只是对化学结构的一种分解方式，具体的结构片段可能因上下文而有所不同。"
+c1cc(ccc1C(CC(=O)O)CN)Cl,0,"'c1cc(ccc1C(CC(=O)O)CN)Cl'的结构片段有：
+1. 'c1ccccc1' - 苯环
+2. 'CC(=O)O' - 乙酰基
+3. 'CC' - 丙烷基
+4. 'CN' - 氨基
+5. 'Cl' - 氯基"
+CCc1c([nH]c2c1C(=O)C(CC2)CN3CCOCC3)C,0,"'CCc1c([nH]c2c1C(=O)C(CC2)CN3CCOCC3)C' 包含以下结构片段：
+- 'CC'：乙基基团，表示两个碳原子之间的单键。
+- 'c1c'：芳香碳环，表示一个由6个碳原子组成的连环结构。
+- '([nH]'：芳香氮原子，表示一个连接在碳环上的氮原子，氢原子与它相连。
+- 'c2c1'：再次表示一个芳香碳环。
+- 'C(=O)'：甲酰基，表示碳原子与一个氧原子形成的碳双键。
+- 'C'：甲基基团，表示一个单个碳原子。
+- '(CC2)'：环状乙基基团，表示由两个碳原子组成的环状结构。
+- 'CN'：乙酰胺基团，表示一个氨基和一个甲基与碳原子相连。
+- 'CCOCC'：环状乙氧基乙基基团，表示由两个碳原子和一个氧原子构成的环状结构，连接在一个乙基基团上。"
+CN1C(S(=O)(=O)CCC1=O)c2ccc(cc2)Cl,0,"'CN1C(S(=O)(=O)CCC1=O)c2ccc(cc2)Cl' 包含以下结构片段：
+
+- Methylamine (CH3NH)
+- Sulfonamide (S(=O)(=O))
+- Butyl group (CCC)
+- Oxygen (O)
+- Benzene ring (C6H5)
+- Chlorine (Cl)"
+OC1=C(CC2=C(O)c3ccccc3OC2=O)C(=O)Oc4ccccc14,0,"根据分子式'OC1=C(CC2=C(O)c3ccccc3OC2=O)C(=O)Oc4ccccc14'，我们可以识别出以下结构片段：
+
+1. 苯环（benzene ring）：'c3ccccc3'
+2. 羧酸（carboxylic acid）：'C(=O)O'
+3. 酯（ester）：'C(=O)Oc4ccccc14'
+4. 酮（ketone）：'OC1=' 和 'OC2=O'
+5. 酚（phenol）：'OC2=C(O)c3ccccc3'
+6. 羟基（hydroxyl group）：'OH'"
+CC(=O)Nc1ccc(OC(=O)c2ccccc2OC(=O)C)cc1,0,"该化合物包含以下结构片段：
+
+1. CC(=O)N - 该片段是乙酰胺基团，其中的C表示羰基碳，C(=O)表示酰基。
+2. c1ccc - 该片段是苯环，其中的c表示碳原子，1表示苯环上的第一个碳原子。
+3. OC(=O)c2ccccc2OC(=O) - 该片段是苯环上有两个酯基（OC(=O)）取代的结构。
+4. OC(=O)C - 该片段是羧酸甲酯结构，其中的C表示羰基碳，C(=O)表示酰基。
+
+综上所述，该化合物的结构片段包括乙酰胺基团、苯环、两个酯基取代的苯环和羧酸甲酯结构。"
+c1ccc2c(c1)N(c3cc(ccc3S2)C#N)CCCN4CCC(CC4)O,0,"'c1ccc2c(c1)N(c3cc(ccc3S2)C#N)CCCN4CCC(CC4)O' 包含以下结构片段：
+
+1. c1ccc2c(c1)N ：苯环和2-氨基苯环
+
+2. c3cc(ccc3S2) ：苯环上连接有硫原子的苯环
+
+3. C#N ：氰基
+
+4. CCCN ：四个碳原子和一个氮原子组成的链状结构
+
+5. 4CCC(CC4) ：四个碳原子形成的环
+
+6. O ：氧原子"
+Nc1ccc(N=Nc2ccccc2)c(N)n1,0,"'Nc1ccc(N=Nc2ccccc2)c(N)n1' 包含以下结构片段：
+
+1. c1ccc(N=Nc2ccccc2)cc1：苯环
+2. N=N：偶氮基团
+3. c2ccccc2：苯环
+4. Nc1ccc(N=Nc2ccccc2)c([NH2])n1：苯环和氨基
+5. [NH2]：氨基
+
+需要注意的是，该分子中的键连接方式是根据SMILES表示法推断，可能与实际结构有所偏差。"
+c1ccc2c(c1)C(=Nc3ccccc3S2)N4CCN(CC4)CCOCCO,0,"根据给定的分子式，以下是分子中的结构片段：
+
+1. c1ccc2c(c1) - 这是一个芳香环结构
+
+2. C(=Nc3ccccc3S2) - 这是一个硫代氮杂环结构
+
+3. N4CCN(CC4) - 这是一个含氮杂环结构
+
+4. CCOCCO - 这是一个乙二醇基团"
+COC1CC(OC2C(C)C(OC3OC(C)CC(C3OC(=O)C)N(C)C)C(C)CC4(CO4)C(=O)C(C)C(OC(=O)C)C(C)C(C)OC(=O)C2C)OC(C)C1OC(=O)C,0,"根据分子式'COC1CC(OC2C(C)C(OC3OC(C)CC(C3OC(=O)C)N(C)C)C(C)CC4(CO4)C(=O)C(C)C(OC(=O)C)C(C)C(C)OC(=O)C2C)OC(C)C1OC(=O)C'，其包含以下结构片段：
+
+1. COC1CC，环氧环的结构片段。
+2. OC2C(C)C，环氧环的结构片段。
+3. OC3OC(C)CC(C3OC(=O)C)N(C)C，含氮杂环结构和环氧环的结构片段。
+4. CC4(CO4)C(=O)C(C)C(OC(=O)C)C(C)C(C)OC(=O)C2C，环戊烷并环的结构片段。
+5. OC(C)C1OC(=O)C，含酮基和环氧环的结构片段。"
+COc1cc(NC(C)CCCN)c2ncccc2c1,0,"'COc1cc(NC(C)CCCN)c2ncccc2c1' 包含以下结构片段：
+
+1. 'CO' - 乙氧基基团。
+2. 'c1cc' - 间位取代苯环。
+3. '(NC(C)CCCN)' - N-[N-(二甲基氨基)丙基]丙酰胺基基团。
+4. 'c2ncccc2' - 1，4-二氢吡咯并芳香环。
+5. 'c1' - 甲苯环。
+
+希望对你有所帮助！"
+c1ccc(c(c1)C2=NCC(=O)Nc3c2cc(cc3)[N+](=O)[O])Cl,0,"'c1ccc(c(c1)' 是苯环；
+'(c2=NCC(=O)Nc3c2cc(cc3)' 是取代苯环上的氮杂环己烷；
+'[N+](=O)[O]' 是亚硝基。
+
+所以，'c1ccc(c(c1)C2=NCC(=O)Nc3c2cc(cc3)[N+](=O)[O])Cl' 可以包含的结构片段有：苯环、氮杂环己烷和亚硝基。"
+CCCc1nc2c(C)cc(cc2n1Cc3ccc(cc3)c4ccccc4C(=O)O)c5nc6ccccc6n5C,0,"'CCCc1nc2c(C)cc(cc2n1Cc3ccc(cc3)c4ccccc4C(=O)O)c5nc6ccccc6n5C' 包含以下结构片段：
+
+1. 'CCC'：表示一个3碳的侧链。
+2. 'c1nc2c(C)cc(cc2n1'：表示一个吡咯环，其中一个碳原子与一个甲基（'C'）相连，另一个碳原子与邻接的芳环相连。
+3. 'Cc3ccc(cc3)'：表示一个芳环，其中一个碳原子与侧链相连。
+4. 'c4ccccc4'：表示一个芳环。
+5. 'C(=O)O'：表示一个羧基（即酸）。
+
+综上，该分子包含了一个侧链、两个吡咯环、两个芳环和一个羧基。"
+Cc1[nH]cnc1CN2CCc3c(C2=O)c4ccccc4n3C,0,"结构片段提取结果如下：
+
+1. ""[nH]""：表示含有一个氢原子的杂环片段。
+2. ""CN""：表示氨基甲酸酯的片段。
+3. ""CC""：表示两个碳原子的片段。
+4. ""cnc""：表示苝基和氮原子组成的杂环片段。
+5. ""C""：表示一个碳原子的片段。
+6. ""N""：表示一个氮原子的片段。
+7. ""CCc""：表示三个碳原子的片段。
+8. ""c3c""：表示苯环的三个碳原子的片段。
+9. ""(C2=O)""：表示酮基的片段。
+10. ""ccccc""：表示苯环的五个碳原子的片段。
+
+该化学式中的结构片段可能还有其他的组合，请根据需要进一步分析。"
+CN1CCCN=C1COC(=O)C(O)(C2CCCCC2)c3ccccc3,0,"CN1CCCN=C1COC(=O)C(O)(C2CCCCC2)c3ccccc3 的结构片段如下：
+
+1. CN1CCC： 哌啶环
+2. C=C1： 双键
+3. C1CO： 乙醚环
+4. OC(=O)C： 羧酸酯基团
+5. (C2CCCCC2)： 环丙基环
+6. c3ccccc3： 苯环"
+CC1(C)NC(=O)N(C1=O)c2ccc(c(c2)C(F)(F)F)[N+](=O)[O],0,"CC1(C)NC(=O)N(C1=O)c2ccc(c(c2)C(F)(F)F)[N+](=O)[O] 包含以下结构片段：
+- CC1(C)NC(=O)N(C1=O)：这是尿素（urea）结构片段，其代表了该分子中的尿素基团。
+- c2ccc(c(c2)C(F)(F)F)：这是芳香环（aromatic ring）结构片段，由苯环和三个氟原子团组成。该结构片段出现在主结构的侧链上。
+- [N+](=O)[O]：这是亚硝基（nitro）结构片段，由一个氮氧化物基团组成。该结构片段出现在主结构的侧链上。"
+[O][N+](=O)c1oc(C=NN2CC(=O)NC2=O)cc1,0,"'[O][N+](=O)c1oc(C=NN2CC(=O)NC2=O)cc1'包含以下结构片段：
+
+1. '[O][N+](=O)': 这是一个亚硝基（nitro）基团，由一个氧原子和一个氮原子以及一个带正电荷的氧原子组成。
+
+2. 'c1oc': 这是一个含有由氧原子和碳原子组成的环状结构的芳香环。
+
+3. '(C=NN2CC(=O)NC2=O)': 这是一个含有碳、氮和氧原子的链状结构，其中有一个叠氮基团（azinyl），一个酮基（ketone），一个胺基（amine）和两个环状结构。
+
+4. 'cc1': 这是另一个由碳原子组成的芳香环。
+
+综上所述，'[O][N+](=O)c1oc(C=NN2CC(=O)NC2=O)cc1'包含亚硝基、芳香环和碳氮氧杂环的结构片段。"
+CN1CCC23CCCCC2C1Cc4c3cc(cc4)OC,0,"'CN1CCC23CCCCC2C1Cc4c3cc(cc4)OC' 包含以下结构片段：
+
+1. 'CN' - 乙基胺基
+2. 'CCC' - 丙基链
+3. '23' - 杂环结构
+4. 'CCCCC' - 戊基链
+5. '2' - 环中与丙基链相连的碳原子
+6. '1' - 环中与丙基链和戊基链相连的碳原子
+7. 'Cc4c3cc(cc4)OC' - 苯环并[3.2.1]戊烷结构
+8. 'OC' - 甲氧基
+
+请注意，此分析仅针对结构片段，不涉及整个化合物的完整结构。"
+CCOC(=O)Nc1ccc2Sc3ccccc3N(C(=O)CCN4CCOCC4)c2c1,0,"'CCOC(=O)Nc1ccc2Sc3ccccc3N(C(=O)CCN4CCOCC4)c2c1'包含以下结构片段：
+1. CCOC(=O)N：乙酰胺基甲酸酯基团
+2. c1ccc2Sc3ccccc3N(C(=O)CCN4CCOCC4)c2c1：苯环上连接了噻吩环的结构"
+Cc1ccc(cc1)C(=O)c2cc(c(c(c2)O)O)[N+](=O)[O],0,"'Cc1ccc(cc1)C(=O)c2cc(c(c(c2)O)O)[N+](=O)[O]' 包含以下结构片段：
+
+1. Cc1ccc(cc1) - 苯环取代基，其中一个碳原子上有一个甲基基团。
+
+2. C(=O)c2cc(c(c(c2)O)O) - 苯环上有一个酮基团。
+
+3. [N+](=O)[O] - 亚硝基，其中一个氮原子带正电荷，两个氧原子以单键连接。
+
+4. c2cc(c(c(c2)O)O) - 苯环，其中一个碳原子连接有两个羟基团。
+
+总结：'Cc1ccc(cc1)C(=O)c2cc(c(c(c2)O)O)[N+](=O)[O]' 包含苯环取代基、酮基团、亚硝基和羟基团。"
+CNC(=C[N+](=O)[O])NCCSCc1csc(CN(C)C)n1,0,"'CNC(=C[N+](=O)[O])NCCSCc1csc(CN(C)C)n1'包含以下结构片段：
+1. CNC(=C[N+](=O)[O])N：胺基甲酸酯结构
+2. C(=C[N+](=O)[O])N：亚硝基甲胺结构
+3. NCCSC：硫连上氮原子的乙胺基甲酸酯结构
+4. c1csc：噻吩环结构
+5. CN(C)C：乙胺基甲酸酯结构"
+CCOC(=O)C(C)(C)Oc1ccc(Cl)cc1,0,"'CCOC(=O)C(C)(C)Oc1ccc(Cl)cc1' 包含以下结构片段:
+
+1. 'CC'：代表一个氧化合物中的两个碳原子之间的单键。
+2. 'OC(=O)'：代表一个酸根团，其中一个氧原子与碳原子形成一个双键，另一个氧原子与一个氢原子相连。
+3. 'C(C)(C)'：代表一个三级碳原子，周围环绕着三个碳原子和一个氢原子。
+4. 'O'：代表一个氧原子。
+5. 'c1ccc(Cl)cc1'：代表一个芳香环，其中含有一个氯原子。
+
+综上所述，'CCOC(=O)C(C)(C)Oc1ccc(Cl)cc1' 包含酯基、三级碳原子、芳香环和氯原子这些结构片段。"
+CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC3OC(C)CC(C3O)N(C)C)C(C)(CC(C)C(=O)C(C)C(O)C1(C)O)OC,0,"'CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC3OC(C)CC(C3O)N(C)C)C(C)(CC(C)C(=O)C(C)C(O)C1(C)O)OC' 包含以下结构片段：
+
+- 'CCC'：烷基链
+- '1OC(=O)C(C)C'：羧酸
+- 'OC2CC(C)(OC)C(O)C(C)O2'：环氧化物
+- 'OC3OC(C)CC(C3O)N(C)C'：六元环结构
+- 'CC(C)C(=O)C(C)'：酮基
+- 'C(O)C1(C)O'：醇基
+- 'OC'：醚基"
+CCN(c1cccc(c1)c2ccnc3n2ncc3C#N)C(=O)C,0,"'CCN(c1cccc(c1)c2ccnc3n2ncc3C#N)C(=O)C' 包含以下结构片段：
+- CCN: 烷基胺
+- (c1cccc(c1)c2ccnc3n2ncc3C#N): 双芳香环（包括苯环和嘧啶环）连接的氰基
+- C(=O): 酮基或酰基
+- C: 碳原子"
+CNC(=C[N+](=O)[O])NCCSCc1oc(CN(C)C)cc1,0,"'CNC(=C[N+](=O)[O])NCCSCc1oc(CN(C)C)cc1'包含以下结构片段：
+
+1. 'CNC' - 烷基胺基团
+2. '=C' - 双键
+3. '[N+](=O)[O]' - 亚硝基（nitro）团
+4. 'NCC' - 乙醇胺基团
+5. 'SC' - 巯基（thio）团
+6. 'c1oc' - 芳香环（heterocycle）基团
+7. '(CN(C)C)' - 二甲基氨基团
+8. 'cc1' - 芳香环（aromatic ring）基团"
+Nc1ccc(cc1)S(=O)(=O)Nc2ccccn2,0,"根据给出的化学式和结构片段的命名规则，可以分析出以下结构片段：
+
+1. Nc1ccc(cc1): 苯环上带有一个氨基基团(NH2)的苯环结构。
+2. S(=O)(=O): 一个双氧化硫(SO2)基团。
+3. Nc2ccccn2: 带有一个萘环的吡啶结构。
+
+因此，'Nc1ccc(cc1)S(=O)(=O)Nc2ccccn2'包含了苯环、双氧化硫基团和萘环吡啶结构这三个结构片段。"
+CCOc1ccccc1OCC2CNCCO2,0,"'CCOc1ccccc1OCC2CNCCO2'包含以下结构片段：
+- CCO ：乙醇基
+- c1ccccc1 ：苯环
+- O ：氧原子
+- CC ：两个碳原子的碳链
+- CN ：氰基
+- O ：氧原子
+- CC ：两个碳原子的碳链"
+CN(C)CC\C=C1\C2=CC=CC=C2SC2=CC=C(Cl)C=C12,0,"‘CN(C)CC\C=C1\C2=CC=CC=C2SC2=CC=C(Cl)C=C12’ 包含以下结构片段：
+
+1. CN(C): 乙基胺（ethylamine）的取代基，表示分子中有一个乙基胺基团。
+2. CC\C=C: 烯丙基（allyl）的取代基，表示分子中有一个烯丙基取代基团。
+3. 1\C2=CC=CC=C2: 苯环（phenyl）的取代基，表示分子中有一个苯环取代基团。
+4. SC2=CC=C(Cl)C=C1: 咔唑环（thiazole）和苯环（phenyl）的连接，表示分子中有一个咔唑环和一个苯环连接在一起。
+5. C1: 咔唑环（thiazole）的环内碳原子。
+
+这些结构片段可以帮助我们理解化合物的组成和性质。"
+CC(C)(C)NCC(O)COC1=CC=CC2=C1C[C@H](O)[C@H](O)C2,0,"根据SMILES表示法，'CC(C)(C)NCC(O)COC1=CC=CC2=C1C[C@H](O)[C@H](O)C2'包含以下结构片段：
+
+1. 'CC(C)(C)'：代表一个三甲基取代基，其中一个氢原子取代为甲基。
+2. 'NCC(O)'：代表一个氨基乙醇基团。
+3. 'COC'：代表一个甲氧基。
+4. '1=CC=CC2=C1'：代表一个苯环。
+5. '[C@H](O)'：表示一个手性碳原子，与其相连的是一个羟基。
+6. '[C@H](O)'：表示另一个手性碳原子，也与其相连的是一个羟基。
+7. 'C2'：代表一个环丙烷环。
+
+因此，'CC(C)(C)NCC(O)COC1=CC=CC2=C1C[C@H](O)[C@H](O)C2'包含以上7个结构片段。"
+CC(=O)c1ccc2c(c1)N(c3ccccc3S2)CCCN4CCC(CC4)CCO,0,"'CC(=O)c1ccc2c(c1)N(c3ccccc3S2)CCCN4CCC(CC4)CCO'包含以下结构片段：
+
+1. 'CC(=O)'：乙酸基团。
+2. 'c1ccc2c(c1)'：苯环。
+3. 'N(c3ccccc3S2)'：芳基胺基团。
+4. 'CCCN4'：顺丁基链。
+5. 'CCC(CC4)'：环戊基链。
+6. 'CCO'：乙醇基团。"
+C=CCN1CCC23c4c5ccc(c4OC2C(=O)CCC3(C1C5)O)O,0,"'C=CCN1CCC23c4c5ccc(c4OC2C(=O)CCC3(C1C5)O)O' 包含以下结构片段:
+
+1. 烯烃(C=C): C=C
+2. 环丙胺基: CCC
+3. 延伸到苯环的环状结构: C23
+4. 苯环结构: c4c5ccc
+5. 羟基: (OH)"
+NS(=O)(=O)c1cc2C(=O)NC(Nc2cc1Cl)c3ccccc3,0,"'NS(=O)(=O)c1cc2C(=O)NC(Nc2cc1Cl)c3ccccc3'包含以下结构片段：
+1. NS(=O)(=O) ：一个亚硝基（nitroso）基团
+2. c1cc2 ：一个苯环上的两个相邻碳原子
+3. C(=O) ：一个酰基（carbonyl）基团
+4. NC ：一个氨基（amine）基团
+5. (Nc2cc1Cl) ：一个苯环上的两个相邻碳原子和一个氯原子
+6. c3ccccc3 ：一个苯环"
+CCC12CCC3C(CCC4=CC(=O)CCC34)C1CCC2(O)C#C,0,"'CCC12CCC3C(CCC4=CC(=O)CCC34)C1CCC2(O)C#C' 包含以下结构片段：
+
+1、CCC12：十二烷基环状结构
+2、CCC3C：三烷基环状结构
+3、CCC4：四烷基结构
+4、CC(=O)CCC34：醛基侧链结构
+5、CC1CCC2(O)C#C：氧杂环和炔基结构"
+Cc1c(C(=O)O)c2cc(F)ccc2nc1c3ccc(cc3)c4ccccc4F,0,"'Cc1c(C(=O)O)c2cc(F)ccc2nc1c3ccc(cc3)c4ccccc4F' 包含以下结构片段：
+
+1. Cc1c
+2. (C(=O)O)
+3. c2cc(F)
+4. ccc2n
+5. c1c3ccc(cc3)c4ccccc4F"
+FC(F)(F)c1cccc(Nc2ncccc2C(=O)OCCN3CCOCC3)c1,0,"根据Smiles表示法，'FC(F)(F)c1cccc(Nc2ncccc2C(=O)OCCN3CCOCC3)c1'包含以下结构片段：
+
+- FC(F)(F): 三个氟原子连在一个碳原子上，表示氟气的取代基。
+- c1cccc: 一个芳香环，代表苯环。
+- (Nc2ncccc2): 这是一个苯环上取代的取代基，其中心的氮原子与苯环相连，表示苯环上有一个氨基。
+- C(=O)OCCN3CCOCC3: 这是一个酰基化合物，含有酰基（羰基和甲基）和乙二胺骨架，表示酯和乙二胺的结构。
+- c1: 一个芳香环，代表苯环。
+
+综上所述，'FC(F)(F)c1cccc(Nc2ncccc2C(=O)OCCN3CCOCC3)c1'包含氟取代基、苯环、氨基、酯和乙二胺等结构片段。"
+NCCS,0,"""NCCS"" 是一个常见的缩写，它可以代表多个不同的组织或概念。下面是一些可能的结构片段或含义：
+
+1. ""National Center for Charitable Statistics""（国家慈善统计中心）- 这是一个位于美国的组织，负责收集、分析和维护关于慈善组织的统计数据。
+
+2. ""Naval Computer and Telecommunications Station""（海军计算机与电信站）- 这是美国海军中的一个计算机和电信设施，用于支持海军的通信和信息技术需求。
+
+3. ""Nanyang Centre for Public Administration""（南洋公共行政学中心）- 这是新加坡南洋理工大学的一个研究中心，致力于研究公共行政和政策相关的议题。
+
+4. ""National Centre for Cell Science""（国家细胞科学中心）- 这是印度国家细胞科学研究所，专注于细胞生物学和生物医学研究。
+
+当然，根据具体的上下文，""NCCS"" 还可能代表其他不同的组织或概念。"
+Cc1cc2N=C3C(=O)NC(=O)N=C3N(CC(O)C(O)C(O)CO)c2cc1C,0,"结构片段包括：
+- Cc1cc2N=C3C(=O)NC(=O)N=C3N
+- CC(O)C(O)C(O)CO
+- c2cc1C"
+CC(C)CCCC(C)CCCC(C)CCCC(=CCC1=C(C)C(=O)c2ccccc2C1=O)C,0,"'CC(C)CCCC(C)CCCC(C)CCCC(=CCC1=C(C)C(=O)c2ccccc2C1=O)C'包含以下结构片段：
+
+- CC(C) ：丙烷基
+- CCC(C) ：丁烷基
+- CCCC(C) ：戊烷基
+- CCCC(=CCC1=C(C)C(=O)c2ccccc2C1=O) ：戊烯基
+- c2ccccc2 ：苯环
+- C1=O ：酮基"
+c1ccc(cc1)C2=NCC(=O)N(c3c2cc(cc3)Cl)CC(F)(F)F,0,"'c1ccc(cc1)C2=NCC(=O)N(c3c2cc(cc3)Cl)CC(F)(F)F' 包含以下结构片段：
+
+1. 'c1ccc(cc1)': 苯环
+
+2. 'C2=NCC(=O)N(c3c2cc(cc3)Cl)': 含有氮杂环的环己烷衍生物
+
+3. 'CC(F)(F)F': 三氟甲基基团（三个氟原子连接到碳上）
+
+因此，该化合物包含苯环、含氮杂环的环己烷衍生物和三氟甲基基团。"
+OC(=O)c1ccccc1Nc2cccc(c2)C(F)(F)F,0,"'OC(=O)c1ccccc1Nc2cccc(c2)C(F)(F)F' 包含以下结构片段：
+
+- O=C：酰基（acyl group）
+- C1=CC=CC=C1：苯环（phenyl ring）
+- Nc2cccc(c2)：取代苯环（substituted benzene ring）
+- C(F)(F)F：三氟甲基（trifluoromethyl group）"
+CC(=CC=CC=C(C)C=CC=C(C)C=CC1=C(C)CCCC1(C)C)C=CC=C(C)C=CC2=C(C)CCCC2(C)C,0,'CC(=CC=CC=C(C)C=CC=C(C)C=CC1=C(C)CCCC1(C)C)C=CC=C(C)C=CC2=C(C)CCCC2(C)C'包含以下结构片段：
+CC(=O)c1ccc2c(c1)N(c3ccccc3S2)CCCN4CCN(CC4)CCO,0,"'CC(=O)c1ccc2c(c1)N(c3ccccc3S2)CCCN4CCN(CC4)CCO' 包含以下结构片段：
+
+1. CC(=O) - 乙酰基基团。
+2. c1ccc2c(c1) - 芳香环。
+3. N(c3ccccc3S2) - 胺基团。
+4. C4CCN(CC4) - 环状胺基团。
+5. CCO - 羟基基团。"
+CC(C)(C)NC[C@H](O)COC1=CC=CC=C1C1CCCC1,0,"'CC(C)(C)NC[C@H](O)COC1=CC=CC=C1C1CCCC1'包含以下结构片段： 
+
+1. 'CC(C)(C)' - 这是一个三个甲基基团连接到一个碳原子的片段。它表示分子的一个侧链。
+2. 'NC[C@H](O)' - 这是一个氨基甲基和一个氢键连接到一个碳原子，然后连接到一个氧原子。这表示分子的一个氨基醇的部分。
+3. 'OC' - 这是一个氧原子连接到一个碳原子。表示分子的一个羟基部分。
+4. 'COC' - 这是两个碳原子通过一个氧原子连接。表示分子的一个乙醚部分。
+5. '1=CC=CC=C1' - 这是一个苯环，其中的碳原子按照一个环形连接。表示分子的一个芳香环。
+6. 'C1CCCC1' - 这是一个五碳原子环。表示分子的一个环戊烷环。
+
+以上是分子'CC(C)(C)NC[C@H](O)COC1=CC=CC=C1C1CCCC1'中的一些结构片段。"
+COCC(=O)O[C@]1(CCN(C)CCCC2=NC3=CC=CC=C3N2)CCC2=C(C=CC(F)=C2)[C@@H]1C(C)C,0,"根据SMILES表示法，'COCC(=O)O[C@]1(CCN(C)CCCC2=NC3=CC=CC=C3N2)CCC2=C(C=CC(F)=C2)[C@@H]1C(C)C' 包含以下结构片段：
+
+1. 'CO'：乙氧基基团
+2. 'CC(=O)O'：乙酰基基团
+3. '[C@]1'：立体中心指示
+4. '(CCN(C)CCCC2=NC3=CC=CC=C3N2)'：骨架结构，包含一个胺基和一个芳香环
+5. 'CCC2=C(C=CC(F)=C2)'：芳香环
+6. '[C@@H]1'：立体中心指示
+7. '(C)C'：甲基基团
+
+这些结构片段组合在一起形成了完整的化学分子。"
+Cc1onc(c1C(=O)NC2C3SC(C)(C)C(N3C2=O)C(=O)O)c4c(F)cccc4Cl,0,"'Cc1onc(c1C(=O)NC2C3SC(C)(C)C(N3C2=O)C(=O)O)c4c(F)cccc4Cl' 包含以下结构片段：
+
+1. 'Cc1onc(c1C(=O)NC2C3SC(C)(C)C(N3C2=O)' 包含腈 (C#N) 和吡咯环 (C1N=CC=C1)。
+
+2. 'C(=O)NC2C3SC(C)(C)C(N3C2=O)' 包含酰胺基团 (C(=O)N) 和噻吩环 (C2SC(C)(C)C(N3C2=O))。
+
+3. 'C(=O)O' 表示一个羧酸基团。
+
+4. 'c4c(F)cccc4' 表示一个苯环，其中有一个氟原子取代苯环上的一个氢原子。
+
+5. 'Cl' 表示一个氯原子。"
+CCC12CCCN3CCc4c(C13)n(c5ccccc45)C(O)(C2)C(=O)OC,0,"1. CCC- 丙基链
+2. 12CCC- 甲基环
+3. N3- 氮原子
+4. CC- 乙基链
+5. c4c- 苯环
+6. (C13)- 十三元环
+7. n- 含氮的杂环
+8. (c5ccccc45)- 苯环
+9. C(O)- 羟基
+10. (C2)- 二甲基环
+11. C(=O)- 酰基
+12. OC- 羧基"
+CN(C)CC/C=C\1/c2ccccc2COc3c1cccc3,0,"'CN(C)CC/C=C\1/c2ccccc2COc3c1cccc3' 包含以下结构片段：
+
+1. 'CN(C)' - 代表一种胺基团。
+2. 'CC' - 代表两个碳原子之间的单键。
+3. '/C=C\1/' - 代表一个双键，连接一个氢原子和一个碳原子，之后又连接到一个环状结构上。
+4. '/c2ccccc2' - 代表一个芳香环，其中的碳原子通过双键连接。
+5. 'CO' - 代表一个甲氧基基团，其中一个氧原子连接到一个碳原子。
+6. 'c3c1cccc3' - 代表一个芳香环，其中的碳原子通过单键连接。
+
+因此，'CN(C)CC/C=C\1/c2ccccc2COc3c1cccc3' 是一个含有胺基团、双键、芳香环和甲氧基基团的化合物。"
+CCCNC1CCc2c(sc(n2)N)C1,0,"'CCCNC1CCc2c(sc(n2)N)C1'包含以下结构片段：
+
+1. 'CC' - 两个碳原子的烷基链。
+
+2. 'CNC' - 两个碳原子的环与一个氮原子的连接。
+
+3. '1CC' - 一个碳原子的环与两个碳原子的连接。
+
+4. 'c2c' - 两个芳香环的连接。
+
+5. '(sc(n2)N)' - 一个硫原子与两个碳原子的连接以及一个次硫酰胺基团。
+
+请注意，这些结构片段只是一种分析和描述该化合物的方法，并不一定唯一或穷尽。"
+c1ccc2c(c1)C=Cc3ccccc3N2C(=O)N,0,"'c1ccc2c(c1)C=Cc3ccccc3N2C(=O)N'包含以下结构片段：
+
+1. 苯环：'c1ccc2c(c1)'包含苯环结构。
+
+2. 不饱和键：'C=C'表示存在一个双键。
+
+3. 芳香环：'c3ccccc3'表示存在一个芳香环。
+
+4. 肼基：'N'表示存在一个氮原子，可能是肼基。
+
+5. 酰基：'C(=O)'表示存在一个酰基，即一个碳-氧双键。
+
+6. 氨基：'N'表示存在一个氮原子，可能是氨基。
+
+7. 酰肼结构：'C(=O)N'表示存在一个酰肼结构，即一个酰基和一个氨基组成的结构。
+
+综上所述，'c1ccc2c(c1)C=Cc3ccccc3N2C(=O)N'包含苯环、不饱和键、芳香环、肼基、酰基、氨基和酰肼结构等结构片段。"
+CCNCc1c(CSC)cnc(C)c1O,0,"'CCNCc1c(CSC)cnc(C)c1O'包含了以下结构片段：
+1. CC - 两个碳原子通过单键连接的碳链。
+2. NC - 一个氮原子和一个碳原子通过单键连接的碳氮链。
+3. c1c(CSC)cnc(C)c1 - 芳香环，由6个碳原子和1个氮原子组成，其中包含碳硫碳链和碳氮链的结构。
+4. CSC - 一个硫原子和两个碳原子通过单键连接的碳硫碳链。
+5. cnc - 由碳原子和氮原子通过双键连接的碳氮碳链。
+6. C - 一个单独的碳原子。
+7. O - 一个单独的氧原子。"
+CCN1C=C(C(=O)O)C(=O)c2cnc(nc12)N3CCNCC3,0,"'CCN1C=C(C(=O)O)C(=O)c2cnc(nc12)N3CCNCC3'包含以下结构片段:
+
+1. CCN - 这是乙胺基基团。
+2. C=C - 这是一条双键连接的碳链。
+3. (C(=O)O) - 这是一个羧基。
+4. c2cnc(nc12) - 这是一个杂环，由两个碳原子和三个氮原子组成。
+5. N3CCNCC3 - 这是一个环状的氮杂环，由一个氮原子和四个碳原子组成。"
+CCN(CC)C(=S)SSC(=S)N(CC)CC,0,"该结构包含以下结构片段：
+- CCN(CC)C(=S)
+- SSC(=S)N(CC)CC"
+Nc1nc(cs1)C(=NO)C(=O)NC2C3SCC(=C(N3C2=O)C(=O)O)C=C,0,"'Nc1nc(cs1)C(=NO)C(=O)NC2C3SCC(=C(N3C2=O)C(=O)O)C=C' 包含以下结构片段：
+
+1. 连接氮原子的苯环：Nc1nc(cs1)
+2. 氮氧结合的另一个苯环：C(=NO)
+3. 连接氮原子的羧酰胺基团：C(=O)NC
+4. 二氧化硫的环状结构：NC2C3SCC
+5. 连接两个环的双键：C=C"
+COC1CN(CCCOc2ccc(F)cc2)CCC1NC(=O)c3cc(Cl)c(N)cc3OC,0,"""COC1CN(CCCOc2ccc(F)cc2)CCC1NC(=O)c3cc(Cl)c(N)cc3OC"" 包含以下结构片段：
+
+1. COC：甲氧基基团
+2. CN(CCCOc2ccc(F)cc2)CCC：胺基乙醇基团
+3. NC(=O)：酰胺基团
+4. c3cc(Cl)c(N)cc3：含氯苯环和氨基苯环
+5. OC：羟基基团"
+[H][C@@]12C[C@@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,0,"1. [H][C@@]12 - 这表示立体化学的描述，其中H表示氢原子，@表示立体化学，2表示环的起始碳原子，1表示环的结束碳原子。
+
+2. C[C@@H](C) - 这表示一个手性碳原子和两个氢原子的碳链。
+
+3. [C@](O) - 这表示一个手性碳原子和一个氧原子。
+
+4. (C(=O)CO) - 这表示一个羧基碳原子和两个氧原子。
+
+5. [C@@]1(C) - 这表示一个手性碳原子和一个氢原子的碳环。
+
+6. [C@@H](O) - 这表示一个手性碳原子和一个氧原子。
+
+7. [C@@]1(F) - 这表示一个手性碳原子和一个氟原子的环。
+
+8. [C@@]2([H]) - 这表示一个手性碳原子和一个氢原子的环。
+
+9. CCC2= - 这表示一个不饱和碳原子链。
+
+10. CC(=O) - 这表示一个酮基碳原子和一个氧原子。
+
+11. C=C - 这表示一个双键碳原子。
+
+12. [C@]12C - 这表示一个手性碳原子和一个氢原子的环。
+
+因此，'[H][C@@]12C[C@@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C'包含了以上片段。"
+CCOC(=O)c1c2n(cn1)c3ccc(cc3C(=O)N(C2)C)F,0,"'CCOC(=O)c1c2n(cn1)c3ccc(cc3C(=O)N(C2)C)F' 包含以下结构片段：
+
+- CCOC(=O)：酯结构片段
+- c1c2n(cn1)：苯环上的吡咯环结构片段
+- c3ccc(cc3C(=O)N(C2)C)：苯环上的羧酰胺结构片段
+- F：氟原子"
+CC(S)C(=O)NCC(=O)O,0,"'CC(S)C(=O)NCC(=O)O' 包含以下结构片段：
+
+- CC: 代表两个碳原子相连的碳链
+- (S): 代表一个硫原子
+- C(=O): 代表一个酰基，有一个碳与一个氧相连
+- NCC(=O): 代表一个氨基，有一个氮和两个碳与一个氧相连
+- (=O): 代表一个羰基，有一个碳与两个氧相连
+- O: 代表一个氧原子
+
+综上所述，'CC(S)C(=O)NCC(=O)O' 包含碳链、硫原子、酰基、氨基、羰基和氧原子等结构片段。"
+CC12CC(O)C3(F)C(CCC4=CC(=O)CCC34C)C1CCC2(O)C(=O)CO,0,"'CC12CC(O)C3(F)C(CCC4=CC(=O)CCC34C)C1CCC2(O)C(=O)CO'包含以下结构片段：
+
+1. CC12CC(O): 这是一个环状结构片段，由两个碳和一个氧原子组成。
+
+2. C3(F): 这是一个含氟原子的碳原子。
+
+3. CCC4=CC(=O)CCC34C: 这是一个具有环状结构的碳链片段，其中包含一个酮基。
+
+4. C1CCC2(O)C(=O)CO: 这是一个具有环状结构的碳链片段，其中包含一个醇基和一个酮基。
+
+因此，'CC12CC(O)C3(F)C(CCC4=CC(=O)CCC34C)C1CCC2(O)C(=O)CO'包含以上四个结构片段。"
+C1CNCCN1,0,"'C1CNCCN1'包含以下结构片段：
+1. C1: 表示一个碳原子，与其他原子/结构片段相连。
+2. C: 表示一个碳原子，与其他原子/结构片段相连。
+3. N: 表示一个氮原子，与其他原子/结构片段相连。
+4. CC: 表示两个碳原子形成的链状结构。
+5. CN: 表示一个碳原子和一个氮原子相连组成的结构。
+6. NC: 表示一个氮原子和一个碳原子相连组成的结构。
+7. N1: 表示一个氮原子，与其他原子/结构片段相连。"
+c1ccc2c(c1)C(=O)N(C2=O)C3CCC(=O)NC3=O,0,"'c1ccc2c(c1)', 'C(=O)', 'N(C2=O)', 'C3CCC(=O)NC3=O'"
+CN1CCC(=C2c3ccccc3CCc4c2nccc4)CC1,0,"'CN1CCC(=C2c3ccccc3CCc4c2nccc4)CC1'中包含的结构片段有：
+
+1. CN1CCC: 这是一个环状结构片段，其中包含一个氮原子和两个碳原子。
+
+2. =C2: 这是一个双键连接的结构片段，连接着第一个环的第一个碳原子和第二个环的第二个碳原子。
+
+3. c3ccccc3: 这是一个苯环，由六个碳原子组成。
+
+4. CC: 这是一个碳原子的链，连接着第一个环的第三个碳原子和第二个环的第一个碳原子。
+
+5. c4: 这是一个芳香的结构片段，连接着第二个环的第三个碳原子。
+
+6. 2nccc4: 这是一个链状结构片段，连接着第二个环的第二个碳原子和第四个碳原子，其中还包含了一个氮原子。
+
+请注意，这只是一种可能的解释，具体的结构片段解析还需要根据化学背景和上下文进一步确定。"
+CCCCCc1cc(c2c(c1)OC(C3C2C=C(CC3)C)(C)C)O,0,"'CCCCCc1cc(c2c(c1)OC(C3C2C=C(CC3)C)(C)C)O'包含以下结构片段：
+1. CCCC：4个碳原子连成一条链。
+2. c1cc：芳香环（苯环）。
+3. (c2c(c1)OC(C3C2C=C(CC3)C)(C)C)：一个含有芳香环和侧链的结构。
+4. C3C2C=C(CC3)C：一个含有双键和侧链的结构。
+5. OC：一个含有氧原子的官能团。
+6. (C)：一个甲基基团。
+7. O：一个氧原子。"
+NC(=NCC1COC2(CCCCC2)O1)N,0,"""NC(=NCC1COC2(CCCCC2)O1)N""包含以下结构片段：
+- N：代表一个氮原子。
+- C(=N)：代表一个含有一个双键的碳原子和一个氮原子的碳氮双键。
+- CC1：代表一个含有两个碳原子的碳链。
+- COC：代表一个含有一个氧原子的碳氧碳链。
+- CCCCC：代表一个含有五个碳原子的碳链。
+- O：代表一个氧原子。"
+OC(=O)CCCN1CCC(CC1)OC(c2ccc(Cl)cc2)c3ccccn3,0,"'OC(=O)CCCN1CCC(CC1)OC(c2ccc(Cl)cc2)c3ccccn3' 包含以下结构片段：
+
+1. 酯基（OC(=O)C）位于分子的起始部分。
+2. 三环丙胺基团（CCCN1CCC(CC1)）位于酯基之后。
+3. 氧杂环（OC）团位于三环丙胺基团之后。
+4. 氯取代的苯环（c2ccc(Cl)cc2）位于氧杂环之后。
+5. 六环芳香核（c3ccccn3）位于氯取代的苯环之后。
+
+这些结构片段的组合构成了整个分子的结构。"
+CN1CCCC1c2cccnc2,0,"'CN1CCCC1c2cccnc2' 包含以下结构片段：
+
+1. CN - 指代乙胺基基团；
+2. C1CCCC1 - 指代环丙基基团；
+3. c2cccnc2 - 指代咪唑环。"
+CCN(CC)CCNC(=O)c1ccc(NS(=O)(=O)C)cc1,0,"'CCN(CC)CCNC(=O)c1ccc(NS(=O)(=O)C)cc1'包含以下结构片段：
+1. 'CCN'：烷基胺基团。
+2. '(CC)'：环状烷基。
+3. 'CCNC(=O)'：亚胺或腈基团。
+4. 'c1ccc(NS(=O)(=O)C)cc1'：芳香环。
+5. 'NS(=O)(=O)C'：磺酰氨基团。"
+c1ccc(cc1)C(CCN2CCCCC2)(C3CC4CC3C=C4)O,0,"该化合物'c1ccc(cc1)C(CCN2CCCCC2)(C3CC4CC3C=C4)O'包含以下结构片段：
+
+1. 芳香环：'c1ccc(cc1)'表示一个苯环，其中c表示碳原子。
+
+2. 烷基链：'CC'表示一个由两个碳原子组成的烷基链。
+
+3. 乙胺基：'CN'表示一个乙胺基，其中C表示碳原子，N表示氮原子。
+
+4. 大环：'(CCN2CCCCC2)'表示一个由两个氮原子和五个碳原子组成的大环。
+
+5. 双键：'C=C'表示一个碳碳双键，其中C表示碳原子。
+
+6. 醇基：'O'表示一个氧原子，表示有一个醇基（羟基）。
+
+综上所述，该分子包含芳香环、烷基链、乙胺基、大环、双键和醇基等结构片段。"
+Cc1oncc1C(=O)Nc2ccc(cc2)C(F)(F)F,0,"'Cc1oncc1C(=O)Nc2ccc(cc2)C(F)(F)F' 包含以下结构片段：
+1. 'Cc1oncc1'：一个五元环，由碳、氮、氧和两个氢原子组成。
+2. 'C(=O)N'：一个酰胺官能团，由一个碳原子和一个氮原子组成，碳原子上带有一个双键和一个氧原子。
+3. 'c2ccc(cc2)'：一个苯环，由六个碳原子和六个氢原子组成。
+4. 'C(F)(F)F'：一个三氟甲基官能团，由一个碳原子和三个氟原子组成，碳原子上分别连接着三个氟原子。"
+CN(CCOc1ccc(CC2SC(=O)NC2=O)cc1)c3ccccn3,0,"'CN(CCOc1ccc(CC2SC(=O)NC2=O)cc1)c3ccccn3'包含以下结构片段：
+
+1. CN：乙醇氨基基团。
+2. CCO：乙醇基团。
+3. c1ccc：芳香环。
+4. CC：碳链。
+5. 2SC(=O)NC：硫醇基团和酰氨基基团。
+6. 2=O：醛基。
+7. c1：芳香环。
+8. cc：双键的芳香环。
+9. c3ccccn：芳香环和吡啶环。
+
+这些结构片段构成了整个分子的结构。"
+OC(Cn1cncn1)(Cn2cncn2)c3ccc(F)cc3F,0,"'OC(Cn1cncn1)(Cn2cncn2)c3ccc(F)cc3F' 包含以下结构片段：
+1. 'OC'
+2. 'Cn1cncn1'
+3. 'Cn2cncn2'
+4. 'c3ccc(F)cc3'
+5. 'F'"
+Cc1ccccc1OCC(O)CNCCOc1ccc(C(N)=O)cc1,0,"'Cc1ccccc1OCC(O)CNCCOc1ccc(C(N)=O)cc1'包含以下结构片段：
+
+1. Cc1ccccc1 ：苯环片段
+2. OCC(O) ：乙二醇基团
+3. CNCCO ：NCCO基团
+4. c1ccc(C(N)=O)cc1 ：苯环中带有C(N)=O基团的片段"
+COc1c2OC(=O)C=Cc2cc3ccoc13,0,"COc1c2OC(=O)C=Cc2cc3ccoc13中包含以下结构片段：
+
+1. COc1c2OC(=O) - 这是一个酯结构片段，含有一个酯基。
+2. C=C - 这是一个碳碳双键。
+3. c2cc3ccoc13 - 这是一个芳香环结构片段。"
+C(C1CN2CCC1CC2)N1C2=CC=CC=C2SC2=CC=CC=C12,0,"'C(C1CN2CCC1CC2)N1C2=CC=CC=C2SC2=CC=CC=C12'的结构片段如下：
+
+1. C1CN2CCC1CC2 (环丙胺环)
+2. SC2=CC=CC=C2 (苯硫醚环)
+3. C1=C2C=CC=CC2=CC=C1 (苯环)"
+c1ccc2c(c1)N(c3cc(ccc3S2)Cl)CCCN4CCN(CC4)CCO,0,"'c1ccc2c(c1)'表示苯环；
+'N(c3cc(ccc3S2)Cl)'表示苯环上连接了一个氨基；
+'CCCN4CCN(CC4)CCO'表示连接了一个长链的胺基。
+
+结构片段包括：
+1. 苯环
+2. 氨基连接的苯环
+3. 胺基连接的长链"
+CC(C)(C)C1=CC=C(C=C1)C(O)CCCN1CCC(CC1)C(O)(C1=CC=CC=C1)C1=CC=CC=C1,0,"这个化合物包含以下结构片段：
+
+1. CC(C)(C)C：这是一个四个烷基基团连接在一个碳原子上，形成一个叉状结构。
+2. C1=CC=C(C=C1)：这是一个芳香环，由六个碳原子和三个双键组成。
+3. C(O)CCC：这是一个烷基链，其中一个碳原子连接着一个羟基。
+4. N1CCC(CC1)：这是一个含氮的环，其中一个碳原子被一个氮原子替换。
+5. C(O)(C1=CC=CC=C1)：这是一个含有羟基和芳香环的结构片段。
+6. C1=CC=CC=C1：这是一个芳香环，由六个碳原子和三个双键组成。
+
+综上所述，该化合物包含烷基、芳香环、烷基链、含氮环及羟基等多种结构片段。"
+NC(=O)c1ncn(C2OC(CO)C(O)C2O)c1O,0,"'NC(=O)c1ncn(C2OC(CO)C(O)C2O)c1O'包含以下结构片段：
+
+1. 'NC(=O)'：酰胺基团。
+2. 'c1ncn'：吡嗪环。
+3. '(C2OC(CO)C(O)C2O)'：环状的碳氧化合物，其中包含了两个环状的氧杂环。
+4. 'c1O'：苯环上连接着一个羟基的苯酚结构。"
+COc1cc2nc(nc(N)c2cc1OC)N3CCN(CC3)C(=O)C4COc5ccccc5O4,0,"这个化学结构可以被划分为以下结构片段：
+
+1. COc1cc2nc(nc(N)c2cc1OC)：这是一个苯环接着一个噻唑（thiazole）环，通过氧原子连着一个甲氨基（methoxyamin）基团。
+
+2. N3CCN(CC3)：这是一个吡咯（pyrrolidine）环接着一个氮原子和一个亚甲基（methyl）基团，同时通过碳原子连着一个乙胺（ethylamine）基团。
+
+3. C(=O)：这是一个羰基（carbonyl）功能团，表示一个酮（ketone）。
+
+4. C4COc5ccccc5O4：这是一个苯环接着一个呋喃（furan）环。
+
+因此，'COc1cc2nc(nc(N)c2cc1OC)N3CCN(CC3)C(=O)C4COc5ccccc5O4' 包含噻唑、甲氨基、吡咯、亚甲基、乙胺、羰基、呋喃等结构片段。"
+ClCCN(CCCl)P1(=O)NCCCO1,0,"根据提供的结构式，可以分解为以下结构片段：
+
+1. 环状片段：P1(=O)NCCCO1是一个环状片段。
+2. 烷基片段：ClCCN和CCCl是两个烷基片段。
+3. 氨基片段：NCCCO1包含一个氨基片段。
+
+因此，'ClCCN(CCCl)P1(=O)NCCCO1'包含环状片段、烷基片段和氨基片段。"
+CCN1C=CC(=NC1=O)NS(=O)(=O)c2ccc(N)cc2,0,"该分子可以被分为以下结构片段：
+
+1. 1H-吡唑环：该分子由一个含氮的六元杂环组成，即CCN1C=CC(=NC1=O)。
+2. 硝基苯环：该分子由一个苯环上有取代基的硝基组成，即c2ccc(N)cc2。
+3. 硫酰基：该分子中存在一个硫酰基，即NS(=O)(=O)。
+
+这些结构片段可以通过简化表达方式表示为CCN-C=CC-N=O，c-ccc(N)-cc，NS(=O)(=O)。"
+CCCCC1C(=O)N(N(C1=O)c2ccc(O)cc2)c3ccccc3,0,"'CCCCC1C(=O)N(N(C1=O)c2ccc(O)cc2)c3ccccc3'包含以下结构片段：
+
+1. 'CCCCC'：5个碳原子连续组成的链状结构。
+2. 'C1C(=O)'：一个碳原子和一个羰基（C=O）组成的环状结构。
+3. '(=O)N'：一个羰基（C=O）和一个氮原子（N）组成的结构。
+4. 'N(C1=O)c2ccc(O)cc2'：一个氮原子（N）连接着一个羰基（C=O）和一个苯环（c2ccc(O)cc2）。
+5. 'c3ccccc3'：一个苯环。
+
+总结起来，'CCCCC1C(=O)N(N(C1=O)c2ccc(O)cc2)c3ccccc3'包含了一个五碳链状结构、一个环状结构、一个羰基结构、一个氮原子、两个苯环。"
+Cc1cccc(c1)N2CC(OC2=O)CO,0,"'Cc1cccc(c1)N2CC(OC2=O)CO' 包含以下结构片段：
+
+1. Cc1cccc(c1)：芳香环，由碳原子构成，具有芳香性质。
+2. N2CC：二乙胺基团，其中的 N 表示一个氮原子，CC 表示两个相邻的碳原子。
+3. OC2=O：酯基，由一个氧原子和两个相邻的碳原子组成。
+4. CO：羰基，由一个碳原子和一个氧原子组成。
+
+所以，'Cc1cccc(c1)N2CC(OC2=O)CO'包含芳香环、二乙胺基团、酯基和羰基等结构片段。"
+c1ccnc(c1)C2=NCC(=O)Nc3c2cc(cc3)Br,0,"结构片段包括：
+1. 苯环（c1ccnc(c1)）
+2. 吡啶环（c2cc3cc(ccc3[nH]2)）
+3. 甲酰胺基团（C(=O)N）
+4. 溴原子（Br）"
+CC(CN(C)C)C(C)(O)Cc1ccc(Cl)cc1,0,"'CC(CN(C)C)C(C)(O)Cc1ccc(Cl)cc1'包含以下结构片段：
+
+- 'CC'：两个甲基基团
+- '(CN(C)C)'：含有氮原子的环状结构，包含一个甲基和一个乙基基团
+- 'C(C)(O)'：一个甲基和一个羟基
+- 'Cc1ccc(Cl)cc1'：一个苯环，其中含有一个氯原子"
+CC(C)NCC(COc1ccccc1OCC=C)O,0,"'CC(C)NCC(COc1ccccc1OCC=C)O'包含以下结构片段：
+
+1. 'CC' - 代表两个碳原子的直接连接。
+
+2. '(C)' - 表示一个单独的碳原子。
+
+3. 'N' - 代表一个氮原子。
+
+4. 'CC' - 代表两个碳原子的直接连接。
+
+5. 'CO' - 代表一个碳原子和一个氧原子的连接。
+
+6. 'c1ccccc1' - 代表一个苯环。
+
+7. 'OCC=C' - 代表一个碳原子和一个氧原子的连接，以及一个双键连接到另一个碳原子。
+
+8. 'O' - 代表一个氧原子。"
+CN(C)C\C=C(\C1=CC=C(Br)C=C1)C1=CC=CN=C1,0,"'CN(C)C\C=C(\C1=CC=C(Br)C=C1)C1=CC=CN=C1'中包含以下结构片段：
+- CN(C)：表示一个氨基甲基基团
+- C\C=C\：表示一个亚烯基，其中C/C表示相连的碳原子，\C=表示另一个相连的碳原子上有一个双键，=C\表示亚烯基的另一端还连接着一个碳原子
+- (C1=CC=C(Br)C=C1)：环状结构，其中C1=CC=C(Br)C=C1表示一个苯环，其中一个碳原子上连接一个溴原子
+- C1=CC=CN=C1：环状结构，表示一个吡啶环"
+CCCCNc1ccc(cc1)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC,0,"'CCCCNc1ccc(cc1)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC'包含以下结构片段：
+1. ""CCCC""：代表4个碳原子构成的烷基链。
+2. ""Nc1ccc(cc1)""：代表一个苯环上连接着一个氮原子的取代基。
+3. ""C(=O)""：代表一个羰基，即酰基。
+4. ""OCCOCCOCCOCCOCCOCCOCCOCCOCCOC""：代表着一个由乙二醇单元组成的长链。"
+CN(C)C(=O)Oc1ccc[n+](C)c1,0,"'CN(C)C(=O)Oc1ccc[n+](C)c1' 包含以下结构片段：
+
+1. 'CN(C)C(=O)' - 这是一个酰胺（amide）结构片段，由氮原子与一个酰基(OC=O)连接而成。
+
+2. 'Oc1ccc' - 这是一个苯环（benzene ring）结构片段，其中一个碳原子上连接有一个氧原子。
+
+3. '[n+](C)' - 这是一个芳香烯胺离子（aromatic amine ion）结构片段，其中一个氮原子带正电荷。
+
+综上所述，'CN(C)C(=O)Oc1ccc[n+](C)c1' 包含一个酰胺结构片段、一个苯环结构片段和一个芳香烯胺离子结构片段。"
+CCC1(CCC(=O)NC1=O)c2ccc(N)cc2,0,"'CCC1(CCC(=O)NC1=O)c2ccc(N)cc2'包含以下结构片段：
+
+1. 'CCC'：表示三个连续的碳原子。
+2. '1(CCC(=O)NC1=O)'：表示环氧戊烷（CCC），环上有酮和胺基（=O和NH），并与另一个环氧戊烷（C1=O）连接。
+3. 'c2ccc(N)cc2'：表示苯环，其中一个碳原子上连接着氨基（N）。"
+Nc1ccc(C(=O)Oc2ccccc2)c(O)c1,0,"分子式 'Nc1ccc(C(=O)Oc2ccccc2)c(O)c1' 包含以下结构片段：
+- Nc1ccc
+- (C(=O)Oc2ccccc2)
+- c(O)c1"
+CNCCCC12CCC(c3c1cccc3)c4c2cccc4,0,"'CNCCCC12CCC(c3c1cccc3)c4c2cccc4'包含以下结构片段：
+
+1. CN - 这是N-甲基氨基基团。
+2. CCCC - 这是4个碳原子的链。
+3. 12CCC - 这是3个碳原子的环。
+4. (c3c1cccc3) - 这是一个3-苯环的表示法。
+5. c4c2cccc4 - 这是一个6-苯环的表示法。
+
+综上所述，'CNCCCC12CCC(c3c1cccc3)c4c2cccc4'包含了N-甲基氨基基团、碳链、碳环和苯环等多个结构片段。"
+CN1CC(=O)N2C(Cc3c([nH]c4ccccc34)C2c5ccc6OCOc6c5)C1=O,0,"'CN1CC(=O)N2C(Cc3c([nH]c4ccccc34)C2c5ccc6OCOc6c5)C1=O' 包含以下结构片段：
+
+1. 環戊二烯骨架（OCO）
+2. 苯环 (C1=CC=C(C=C1)）
+3. 喹啉环（N1C2=CC=CC=C2N=C1）
+4. 丙酰基（C(=O)）
+5. 叠氮（N=[n+]）
+6. 氮杂环丁烷（C1CC(=O)N1）
+7. 二甲胺基（CN(C)C）"
+CCC1(CC(=O)NC1=O)C,0,"'CCC1(CC(=O)NC1=O)C' 包含以下结构片段：
+
+1. 'CCC'：这是一个碳链，由三个碳原子组成。
+
+2. 'CC(=O)N'：这是一个氨基总酸片段，其中有一个酰基（-C(=O)-）连接到一个氨基（-NH2）。
+
+3. 'C1=O'：这是一个酮片段，由一个碳原子与一个氧原子相连。
+
+4. '(=O)NC1=O'：这是另一个酮片段，其中包含一个酮基（-C(=O)-），一个氮原子和两个氧原子。
+
+请注意，这些结构片段的描述方式基于简化的表示法，其中方括号（'[ ]'）用于表示片段，括号中的字符表示原子的连接方式和数量。"
+CC(C)(C)C(=O)OCOP(=O)(COCCn1cnc2c(N)ncnc12)OCOC(=O)C(C)(C)C,0,"根据提供的化学式，我们可以确定'CC (C) (C) C (=O) OCO P (=O) (COCCn1cnc2c(N) ncnc12) OCOC (=O) C (C) (C) C' 包含以下结构片段：
+
+1. 乙基基团（CC）；
+2. 羧酸酯基团（C (=O) OCO）；
+3. 磷酸酯基团（P (=O) (COCCn1cnc2c(N) ncnc12) O）；
+4. 羧酸酯基团（OCOC (=O) C）；
+5. 叔丁基基团（C (C) (C) C）。
+
+请注意，化学式中的部分基团可能是缺失或错误的，这可能会导致结果的不准确性。另外，还有可能存在其他未列出的结构片段，因为化学式中的所有信息都未提供。"
+COC1=CC=C2C(=CC1=O)C(CCc3cc(OC)c(OC)c(OC)c23)NC(=O)C,0,"根据提供的结构式，'COC1=CC=C2C(=CC1=O)C(CCc3cc(OC)c(OC)c(OC)c23)NC(=O)C'包含以下结构片段：
+
+1. 'COC'：甲氧基基团。
+2. '=CC1=O'：酮基。
+3. 'CC'：碳链。
+4. 'c3cc(OC)c(OC)c(OC)c23'：苯环基团，上面连接了三个甲氧基基团。
+5. 'NC(=O)C'：酰胺基团。
+
+总之，'COC1=CC=C2C(=CC1=O)C(CCc3cc(OC)c(OC)c(OC)c23)NC(=O)C'包含了甲氧基、酮基、碳链、苯环以及酰胺基团等多个结构片段。"
+CC(CN1c2ccccc2Sc3c1cc(cc3)OC)CN(C)C,0,"'CC(CN1c2ccccc2Sc3c1cc(cc3)OC)CN(C)C' 包含以下结构片段：
+
+1. 'CC' 表示两个碳原子的酰基或烷基。
+2. '(CN1c2ccccc2Sc3c1cc(cc3)OC)' 表示一个含有苯环和硫的环状结构。
+3. 'CN(C)C' 表示一个甲胺基团。"
+[H][C@]12SCC(C)=C(N1C(=O)[C@H]2NC(=O)[C@H](N)C1=CC=CC=C1)C(O)=O,0,"'[H][C@]12SCC(C)=C(N1C(=O)[C@H]2NC(=O)[C@H](N)C1=CC=CC=C1)C(O)=O' 包含以下结构片段：
+
+- [H]: 一个氢原子。
+- [C@]: 指示手性的项目，表示该碳原子是立体中心，并且与其他取代基的顺序与顺时针方向相同。
+- '12S: 表示两个硫原子相连，且该连接是立体中心。
+- CC(C): 丙烷基。
+- =C: 双键碳原子。
+- (N1C(=O)[C@H]2NC(=O)[C@H](N)C1=CC=CC=C1): 一个含有酰胺、咪唑环和苯环的结构。
+
+C(O)=O: 一个酮基 (C=O)。"
+Cc1onc(NS(=O)(=O)c2ccc(N)cc2)c1,0,"""Cc1onc(NS(=O)(=O)c2ccc(N)cc2)c1""这个化合物包含以下结构片段：
+
+1. ""Cc1onc""：一个环己基甲基氧吡咯环。
+
+2. ""NS(=O)(=O)c2ccc(N)cc2""：一个磺酰化合物，包含磺酰基（NS(=O)(=O)）和苯环（c2ccc(N)cc2）。
+
+综上所述，这个化合物包含一个环己基甲基氧吡咯环和一个磺酰化合物结构。"
